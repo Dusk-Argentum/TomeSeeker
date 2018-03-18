@@ -80,10 +80,6 @@ an ability score above 20 using this feature.
 
 You can instead take a feat.
 
-<div class='footnote'>CLASS | ADVENTURER</div>
-
-\pagebreakNum
-
 ## Modified Feats
 You can select the following feats multiple times:  
 Magic Initiate, Martial Adept, Mobile, Prodigy, Resilient, Skilled, Weapon Master
@@ -176,8 +172,6 @@ Your hit point maximum increases by an amount equal to your level when you gain 
 
 You can select this feat one more time, improving your hit dice to a d12.
 
-<div class='footnote'>FEATS | ADVENTURER</div>
-
 ### Unarmored Defense
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your choice of your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier, to a maximum of an Armor Class of 19. You choose ability the time you take this feat.
 You can use a shield if proficient and still gain this benefit.
@@ -186,8 +180,6 @@ The ability score you chose represents your method of evading or deflecting dama
 
 ### Reckless Attack
 You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
-
-\pagebreakNum
 
 ### Rage
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
@@ -237,8 +229,6 @@ Each time you use this feat after the first, the DC increases by 5. When you fin
 
 </div>
 
-<div style='margin-top:100px;'></div>
-
 ### Reliable Skill
 *Prerequisite: 18th Level*
 
@@ -281,10 +271,6 @@ Each time you do so your assistance dice become one step larger (such as from d8
 
 </div>
 
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
-
 ### Song of Rest
 You learn to use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points.
 You can select this feat a second time after 9th level, a third time after 13th level, and a fourth time after 17th level. Each time you do so your song of rest dice become one step larger (such as from 1d6 to 1d8).
@@ -319,7 +305,6 @@ While you are transformed, the following rules apply:
 - You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
 - You retain the benefit of any feats from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
-
 
 ### Improved Beast Shape
 *Prerequisite: Beast Shape*
@@ -393,8 +378,6 @@ When you are wielding a melee weapon in one hand and no other weapons, you gain 
 #### Great Weapon Fighting
 When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
-<div style='margin-top:100px;'></div>
-
 #### Protection
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
@@ -449,10 +432,6 @@ You can select this feat multiple times. Each time you do so, your pool of hit p
 You become immune to disease and poison, and become immune to magical aging.
 
 </div>
-
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
 
 ### Divine Smite
 *Prerequisite: 1st-Level Spellcasting*
@@ -509,8 +488,6 @@ The range of your Aura of Protection and Aura of Courage increases to 30 feet.
 
 </div>
 
-<div style='margin-top:100px;'></div>
-
 ### Favored Enemy
 You gain significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.
 
@@ -534,7 +511,6 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 
 </div>
 
-
 ### Natural Explorer
 You become a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:
 
@@ -550,10 +526,6 @@ In addition, you are skilled at navigating the wilderness. You gain the followin
 - If you are traveling alone, you can move stealthily at a normal pace.
 - When you forage, you find twice as much food as you normally would.
 - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
-
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
 
 ### Blindsense
 *Prerequisite: Expertise in Perception, 14th Level*
@@ -650,10 +622,6 @@ Once you use this feature, you can't use it again until you finish a long rest o
 
 </div>
 
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
-
 ### Portent
 *Prerequisite: Spellbook (School of Divination), 2nd Level*
 
@@ -695,8 +663,6 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 </div>
 
-<div style='margin-top:100px;'></div>
-
 ### Grim Harvest
 *Prerequisite: Spellbook (School of Necromancy), 2nd Level*
 
@@ -733,10 +699,6 @@ You learn to use your magic to create a more powerful familiar. With 8 hours of 
 You can select this feat multiple times. Each time you do so, your familiar either gains an additional hit dice and increases its hit points accordingly, or can increase one of its ability scores by 1. As normal, your familiar can't increase an ability score above 20 using this feature unless its description specifies otherwise.
 
 </div>
-
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
 
 ### Metamagic
 *Prerequisite: The ability to cast at least one cantrip or spell*
@@ -819,10 +781,6 @@ You gain mastery over a specific beast shape and can transform into it with litt
 If you want to transform into another beast shape, you must expend a use of Beast Shape as normal.
 
 </div>
-
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
 
 ### Minor Invocation
 <div style="text-align: left;">
@@ -955,8 +913,6 @@ Your DM allow you to craft different magic items, but may specify required skill
 
 </div>
 
-<div style='margin-top:100px;'></div>
-
 ### Major Invention
 *Prerequisite: Moderate Invention, 15th Level*
 
@@ -978,11 +934,6 @@ You master the art of constructing magic items. You can spend an amount of gold 
 Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
 
 </div>
-
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
-
 
 <div class='table wide'>
 
@@ -1012,7 +963,6 @@ Your DM allow you to craft different magic items, but may specify required skill
 | **Total** | **33** | **38** | **36** | **37** | **29** | **39** | **41** | **31** | **34** | **35** | **37** | **35**
 
 </div>
-
 
 > ##### Notes
 >
