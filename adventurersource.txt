@@ -1,625 +1,888 @@
-# Introduction
-
-This is a list of items approved by the Hawthorne Guild Rules Team.
-
-# Index
-## Tier 1
- - [Heroic Gauntlets of the Courageous](#heroic-gauntlets-of-the-courageous)
- - [Diatryma Feather](#diatryma-feather)
- - [Charm Weapon](#charm-weapon)
- - [Wailing Maiden](#wailing-maiden)
- - [Flame-Core Weapon](#flame-core-weapon)
- - [Weapon of Recall](#weapon-of-recall--12)
- - [Crystal-Core Weapon](#crystal-core-weapon)
- - [Slanderous Skullcap](#slanderous-skullcap)
- - [Delver's Dirk](#delvers-dirk)
- - [Fatestrike Weapon](#fatestrike-weapon)
- - [Lesser Chromatic Fang Weapon](#lesser-chromatic-fang-weapon)
- - [Replenishing Aquarium Ball](#replenishing-aquarium-ball)
- - [Gambler's Shells](#gamblers-shells)
- - [Lloyd's Shield Ring](#lloyds-shield-ring)
- - [Cooldown Cigar](#cooldown-cigar)
- - [Chef's Apron of Adventurous Palates](#chefs-apron-of-adventurous-palates)
-## Tier 2
- - [Medallion of Blessings](#medallion-of-blessings)
- - [Runic Weapon (Template)](#runic-weapon-template)
- - [Dagger of the Drider](#dagger-of-the-drider)
- - [Ankheg Plate Armor](#ankheg-plate-armor)
- - [Howell's Handled Mirror of Displacement](#howells-handled-mirror-of-displacement)
- - [Rhahk'Zor's Hammer](#rahkzors-hammer)
- - [Linza's Disgraced Cuirass](#linzas-disgraced-cuirass)
- - [Lloyd's Sword Ring](#lloyds-sword-ring)
- - [Dragonbinding Net](#dragonbinding-net)
- - [Tome of Wordly Knowledge](#tome-of-wordly-knowledge)
- - [The Blitzer](#the-blitzer)
- - [Fortunate Shotgun](#fortunate-shotgun)
- - [Channeler's Trident](#channelers-trident)
- - [Rusted Iron Ring](#rusted-iron-ring)
- - [Conductor's Baton](#conductors-baton)
-## Tier 3
- - [Howell's Travelling Cabin](#howells-travelling-cabin)
- - [Gauntlet of Transfusion](#gauntlet-of-transfusion)
- - [Ring of Arbitration](#ring-of-arbitration)
- - [Ghostgrip Gauntlets](#ghostgrip-gauntlets)
- - [Akrisae's War Mace](#akrisaes-war-mace)
- - [Bow of the Hunt](#bow-of-the-hunt)
- - [Shortsword of the Twins](#shortsword-of-the-twins)
- - [The Dawnstar](#the-dawnstar)
- - [Linza's Shattered Shield](#linzas-shattered-shield)
- - [Cracker](#cracker)
- - [Whacker](#whacker)
- - [Dragonbreath](#dragonbreath)
- - [Clover](#clover)
- - [Mortar Tube (T3)](#mortar-tube-123)
- - [Everchill Armor](#everchill-armor)
- - [Shadowberry](#shadowberry)
- - [Orca Rifle](#orca-rifle)
- - [Weapon of Recall +1 / +2](#weapon-of-recall--12)
-## Tier 4
- - [Interrogator's Dagger](#interrogators-dagger)
- - [Sun Lantern](#sun-lantern)
- - [Shadow Mist](#shadow-mist)
- - [Armor of the Vindicator](#armor-of-the-vindicator)
- - [Indra Deus (Bow of Storms)](#indra-deus-bow-of-storms)
- - [Axe of the Executioner](#axe-of-the-executioner)
- - [Dark Hand](#dark-hand)
- - [Eyes of the Arcane](#eyes-of-the-arcane)
- - [Mortar Tube (T4)](#mortar-tube-123)
- - [Fulguris](#fulguris)
-
-***
-
-## Heroic Gauntlets of the Courageous
-**Wondrous Item, Uncommon (requires attunement by a paladin)**  
-*T1, 500GP*
-
-While wearing these gauntlets, you have advantage on saving throws against being frightened. Additionally, your Lay on Hands hit point pool increases by 5 points.
-
-***
-
-## Howell's Travelling Cabin
-**Wondrous Item, Rare**  
-*T3, 1200GP*
-
-This model cabin can be placed on the ground and activated by uttering the command word. If there is room it immediately grows 20 by 20 feet, to a wooden full size single roomed cabin, with furnishings and enough food and drink to serve up to 6 people a three course meal. You may shrink the cabin back down to a model by uttering the command word again as an action. When you do so, any creatures and objects not originally from within  the cabin are expelled to any unoccupied squares around the model. Once you have grown the cabin, it cannot be used until ten days have passed.
-
-***
-
-## Diatryma Feather
-**Wondrous Item, Rare**  
-*T1, 500GP*
-
-You may use an action to blow on this feather sending a large cloud of feathers to a location within 30 feet of you. At the target location an Axe Beak appears, hostile to anything it sees. It spends its movement and action attacking the nearest creature to it. The Axe Beak lasts until it is killed, or one minute has passed, after which it vanishes. Once you have used this item, it can no longer be used until the next Dawn.
-
-***
-
-## Charm Weapon
-**Weapon (Any), Uncommon**  
-*T1, 250GP + Weapon Cost*
-
-This bejeweled charm in the shape of a weapon can be fashionably worn as jewelry. While holding the charm you may speak the command word to grow the charm to a full size version of the weapon. While holding the charm you may  use a bonus action to return the weapons to normal size. While they are jewelry they detect as non-magical to  the  Detect Magic spell.
-
-***
 
-## Wailing Maiden
-**Weapon (Any Melee), Uncommon**  
-*T1, 300GP + Weapon Cost*
+### 1st-Level Spellcasting
+You learn four 1st-level spells of your choice from any spell list, and gain four 1st-level spell slots. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
 
-An enchanted weapon, the head is carved in the figurine of a beautiful maiden that appears to beckon toward you. This weapon can be activated once per short rest as a bonus action. When activated, the maiden shifts to the screaming figurine of a banshee clutching for you while emitting an audible wail that can be heard up to 300 feet, and deals 1d4 additional psychic damage on damage rolls. In addition, while the weapon is wailing, all creatures that can hear the wail within 5 feet, including the bearer, have disadvantage on attack rolls and perception checks that rely on hearing. The weapon will continue to wail for a minute, with no way for the user to end the effect
+### 2nd-Level Spellcasting
+*Prerequisite: 1st-Level Spellcasting, 3rd Level*
 
-***
+<div style="text-align: left;">
 
-## Flame-Core Weapon
-**Weapon (Any Melee), Uncommon**  
-*T1, 300GP + Weapon Cost*
+You learn three 2nd-level spells of your choice from any spell list, and gain three 2nd-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
-In Gracklestugh, the great red wyrm Themberchaud powers the endless lines of forges with his great breath. However, once every few years, a masterwork piece is created, and carried to the massive cavern where the dragon resides. He imbues the weapon with his breath, the flames themselves making the core of the item, ready to ignite at a moment’s notice.
+</div>
 
-This weapon is warm to the touch, the pommel is a cut ruby, it’s facets giving the appearance of a licking flame. A player make speak the command word as a bonus action to wreathe the ENTIRE weapon with mundane flames. It gives off 20 feet of bright light and an additional 20 feet of dim light. The target takes an additional 2d4 fire damage on hit while wreathed in flame. After the weapon has been lit for one round, at the end of the wielder’s turn, he or she takes 2d4 fire damage, and must succeed a DC 13 constitution saving throw to avoid dropping the weapon. The flame continues to burn until extinguished.
+### 3rd-Level Spellcasting
+*Prerequisite: 2nd-Level Spellcasting, 5th Level*
 
-***
+<div style="text-align: left;">
 
-## Weapon of Recall / +1/2
-**Weapon (Any weapon with the Thrown  property), Uncommon (requires attunement)**  
-*T1/T3/T3, 500GP/1200GP/5000GP*
+You learn three 3rd-level spells of your choice from any spell list, and gain three 3rd-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
-Each time you throw the weapon while making a ranged weapon attack, it flies back to your hand after the Attack. If you don't have a hand free, the weapon lands at your feet.
+</div>
 
-***
+### 4th-Level Spellcasting
+*Prerequisite: 3rd-Level Spellcasting, 7th Level*
 
-## Gauntlet of Transfusion
-**Wondrous Item, Rare**  
-*T3, 1200GP*
+<div style="text-align: left;">
 
-This bronze gauntlet has a small circular glass window at the back of the hand. The leather underside has hundreds of small needles.
+You learn three 4th-level spells of your choice from any spell list, and gain three 4th-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
-You can use an action to open the small window and pour the contents of a potion within, storing it in the gauntlet.
-As a bonus action, you can speak the gauntlet’s command word to use the effect of the stored potion on a target within 5 feet of you. The contents are consumed in the process.
+</div>
 
-***
+### 5th-Level Spellcasting
+*Prerequisite: 4th-Level Spellcasting, 9th Level*
 
-## Ring of Arbitration
-**Wondrous Item, Rare (requires attunement)**  
-*T3, 1500GP* 
+<div style="text-align: left;">
 
-The Ring of Arbitration is a golden ring set with a heart-shaped ruby. When a Ring of Arbitration is created, it is permanently paired with a matching ring. For the effects of the ring to work, someone else must be wearing the matched ring.
+You learn three 5th-level spells of your choice from any spell list, and gain three 5th-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
-While each of you are attuned to and wearing the rings, and on the same plane within 100 feet of each other , the following effects are all true.
+</div>
 
-While wearing this ring and attuned to it, if the paired ring is also attuned to a creature you have resistance to all damage.
-When you take damage, the creature attuned to the paired ring takes damage equal in type and amount as you took.
-If you would take damage as a result of the other wearer taking damage, you cannot reduce that damage in any way.
-While either of you has more than 0 hit points, falling to 0 hit points does not cause you to fall unconscious, however you do make death saving throws at the end of your turn.
-If you succeed in 3 saving throws in this manner, you fall unconscious but stabilized and if you fail 3 saving throws, you die.
-If either of you would receive healing from magic or a potion, both of you receive half the number of hit points, up to your maximum number of hit points. Half hit points cannot be shared and must go to one or the other of you, as decided by your dungeon master.
-If the wearer of either ring dies, the ruby in the other turns black.
-While in darkness, either magical or non-magical, you can see your partner as a softly glowing outline.
+### 6th-Level Spellcasting
+*Prerequisite: 5th-Level Spellcasting, 11th Level*
 
-**THIS ITEM IS CURSED:**
- - When two creatures attune to the paired rings they cannot be removed until one or both of the creatures die, at which point the curse ends until two creatures are again attuned to the paired rings.
+<div style="text-align: left;">
 
-***
+You learn two 6th-level spells of your choice from any spell list, and gain two 6th-level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
-## Medallion of Blessings
-**Wondrous Item, Uncommon (requires attunement)**  
-*T2, 1000GP*
+</div>
 
-While you are attuned to this item, whenever you would regain hit points from a spell, you regain an additional 1d4 hit points
+<div style='margin-top:100px;'></div>
 
-***
+### 7th-Level Spellcasting
+*Prerequisite: 6th-Level Spellcasting, 13th Level*
 
-## Runic Weapon (Template)
-**Weapon (Any), Uncommon (requires attunement)**  
-*T2, 600GP + Weapon Cost*
+<div style="text-align: left;">
 
-An enchanted weapon of old, unlit runes line the sides of these weapons. While attuned to this weapon, whenever you cast a spell of first level or higher, this weapon gains a +1 bonus to attack and damage rolls until the end of your next turn, in addition the weapon sheds dim light in a 10-foot radius until the end of your next turn.
+You learn two 7th-level spells of your choice from any spell list, and gain two 7th-level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
-***
+</div>
 
-## Crystal-core weapon
-**Weapon (Any Melee), Uncommon (requires attunement)**  
-*T1, 400GP + Weapon Cost*
+### 8th-Level Spellcasting
+*Prerequisite: 7th-Level Spellcasting, 15th Level*
 
-While attuned and wielding this weapon, you can use a bonus action to expend one charge to strengthen the next strike you make with it. For each charge you spend in this manner the weapon gains a cumulative +1 bonus to attack and damage rolls for the next weapon attack you make with it in the next minute. This weapon has 5 charges, and regains 1d4+1 at charges daily at dawn.
+<div style="text-align: left;">
 
-***
+You learn one 8th-level spells of your choice from any spell list, and gain one 8th-level spell slot.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
-## Slanderous Skullcap
-**Wondrous Item, Uncommon (requires attunement)**  
-*T1, 300GP*
+</div>
 
-This appears to be a multicolored wool cap. When worn, you can occasionally hear faint whispering. If the wearer rolls a natural 20 on an attack roll, they may use the spell 'Vicious Mockery'(Save DC13) as a bonus action. If the wearer rolls a natural 1 on an attack roll, the skullcap will cast 'Vicious Mockery' on them.
+### 9th-Level Spellcasting
+*Prerequisite: 8th-Level Spellcasting, 17th Level*
 
-***
+<div style="text-align: left;">
 
-## Interrogator's Dagger
-**Weapon (Dagger), Rare (requires attunement)**  
-*T4, 6000GP*
+You learn one 9th-level spells of your choice from any spell list, and gain one 9th-level spell slot. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take the feat.
 
-You gain a +1 bonus to Attack and Damage Rolls made with this Magic Weapon.
-The dagger has 5 charges. While attuned to it, when you make a melee attack roll with the dagger, you may expend one charge. If you do, when the attack hits the targets takes 2d6 Psychic damage and makes a DC15 Wisdom saving throw or be stunned for one turn.
-The dagger regains 1d4+1 charges at dawn.
+</div>
 
-***
+> ##### Spell Slots
+> To cast one of 1st-level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-## Ghostgrip Gauntlets
-**Wondrous, Rare (requires attunement)**  
-*T3, 1800GP*
+### Improved Health
+Your hit point maximum increases by an amount equal to your level when you gain this feat, and all of your current and future hit dice become d10s.
 
-While you are attuned to and wearing this item, you ignore a creature's immunity to the grappled and restrained conditions while attempting or maintaining a grapple on the creature.
+You can select this feat one more time, improving your hit dice to a d12.
 
-***
+<div class='footnote'>FEATS | ADVENTURER</div>
 
-## Akrisae's War Mace
-**Weapon (Mace), Rare (requires attunement by Cleric or Paladin)**  
-*T3, 1500GP*
+### Unarmored Defense
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your choice of your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier, to a maximum of an Armor Class of 19. You choose ability the time you take this feat.
+You can use a shield if proficient and still gain this benefit.
 
-This weapon has a +1 bonus to attack and damage rolls.
-Once per day while you are attuned to this weapon, when you hit a creature with a melee weapon attack made using this weapon you can charge it with radiant energy. The next time you cast a spell that deals radiant damage you may re-roll any number of damage dice, if you do so you must use the new roll.
+The ability score you chose represents your method of evading or deflecting damage.
 
-***
+### Reckless Attack
+You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
 
-## Delver's Dirk
-**Weapon (Dagger), Uncommon (requires attunement)**  
-*T1, 500GP*
+\pagebreakNum
 
-While attuned to this dagger you always know how deep underground you are. In addition, When you hit a creature with this dagger its walking speed is reduced by 5 ft until the start of your next turn.
+### Rage
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
 
-***
+While raging, you gain the following benefits if you aren't wearing heavy armor:
 
-## Dagger of the Drider 
-**Dagger, Rare**  
-*T2, 1000GP*
+- You have advantage on Strength checks and Strength saving throws.
+- When you make a melee weapon attack using Strength, you gain a +2 bonus to the damage roll.
+- You have resistance to bludgeoning, piercing, and slashing damage.
 
-An ornate adamantine dagger that displays the symbol of Lloth on the hilt, and is decorated with a small white gem in the pommel.  
-When you roll a 20 on your attack roll with this weapon, you deal an additional 1d6 poison damage, and a charge is expended to cast the Web spell (DC 13) centered on the target.  
-The dagger has two charges. When you hit a target with this magic weapon, you can use a bonus action to expend one charge to deal an additional 1d6 poison damage and cast the Web spell (DC 13) centered on the target.  
-The dagger can regain all expended charges on a short or long rest with a DC 10 Intelligence (Arcana) check. If you speak undercommon, you make this check with advantage. On a failed check, all charges are instantly expended, casting the Web spell (DC 13) centered on the wielder.  
-If you expend the dagger’s last charge, roll a d20. On a one, the dagger shatters and is destroyed. Each creature in a 10 foot radius must succeed on a DC 13 dexterity saving throw or take 1 piercing damage, and the Web spell (DC 13) is cast centered on you. 
+If you are able to cast spells, you can't cast them or concentrate on them while raging.
 
-***
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action. 
+Once you have raged 2 times, you must finish a long rest before you can rage again.
 
-## Fatestrike Weapon
-**Weapon (Any kind), Uncommon (requires attunement)**  
-*T1, 300GP*
- 
-This weapon bears runic inscriptions in Dwarvish that read “Opportunities multiply as they are seized”. 
- 
-When you attune to this weapon, your attacks feel sluggish but empowered, as the magic from the weapon seems to compress the attacks from multiple time instances into a singular devastating strike.
- 
-When you take the Attack action with this weapon, you can forgo each additional attack granted by the Extra Attack, or similar feature to add one additional weapon damage die to the attack’s damage roll.
+You can select this feat up to five times. Each time, you can select a damage type to also be resistant to while raging. Your rage damage and number of rages also increase by 1, to a maximum of +6 damage and 6 rages per long rest.
 
-***
+### Danger Sense
+*Prerequisite: Unarmored Defense*
 
-## Bow of the Hunt
-**Weapon (Any bow), Rare (requires attunement)**  
-*T3, 3500GP*
- 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
- 
-You can use an Action to target a creature that you can see within 300 feet of you. For the next hour, you deal an additional 2 damage when you hit a creature of that type, you have advantage on Wisdom (Survival) and Wisdom (Perception) checks to track creatures of that type, or Intelligence checks to recall information about them. If you already have the Favored Enemy or Greater Favoured Enemy feature, this property instead adds the targeted creature's type to your Favored Enemy list for the duration. Once this property of the bow has been used, it can't be used again until the next dawn.
+<div style="text-align: left;">
 
-***
+You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You can add the ability modifier chosen from Unarmored Defense (up to a maximum of +4) to your Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 
-## Lesser Chromatic Fang Weapon
-**Weapon (Any Melee), Uncommon**  
-*T1, 350GP*
- 
-Dragon fang weapons are made from the extracted fangs of one kind of chromatic dragon. The main teeth can be harvested from the den of a dragon that has had its old fangs fall out. Other times, hunters can carefully extract and enchant the fangs of a dead dragon, and craft them into weapons of varying strengths. In either case, dragon fang weapons are sought after by many adventurers who are on the hunt for these legendary beasts.
- 
-While using this weapon, you gain a +1 bonus to attack and damage rolls against a kind of dragon that is determined by the kind of dragon that provided the fang (see the table).
- 
-| Dragon Fang | Counters |
-|-------------|----------|
-| Black       | White    |
-| Blue        | Green    |
-| Green       | Black    |
-| Red         | Blue     |
-| White       | Red      |
+</div>
 
-***
+### Brutal Critical
+*Prerequisite: 9th Level*
 
-## Ankheg Plate Armor
-**Armor, Rare**  
-*T2, 2300GP*
+<div style="text-align: left;">
 
-Plate consists of shaped, interlocking protective plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body. 
-This suit was forged with magic using chitin from an Ankheg. It is bright green in color, and you have resistance to Acid damage while wearing this armor. This suit is not forged of metal, and effects that target metal specifically do nothing to this armor. As any world-weary adventurer will tell you, however, the best appreciated aspect of ankheg plate is its light weight and low encumbrance. Monsters come and go but fatigue is a constant enemy. 
+You can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
+You can select this feat a second time after 13th level, and a third time at 17th level.
 
-Attributes
+</div>
 
-| Attribute     | Value        |
-|---------------|--------------|
-| AC            | 18           |
-| Item Type     | Heavy Armor  |
-| Stealth       | Disadvantage |
-| Weight        | 30 pounds    |
-| Req. Strength | 13           |
+### Endless Rage
+*Prerequisite: Rage, 11th Level*
 
-***
+<div style="text-align: left;">
 
-## Shortsword of the Twins
-**Weapon (Shortsword), Very Rare (requires attunement)**  
-*T3, 2200GP*
+Your rage becomes so fierce that it ends early only if you fall unconscious or if you choose to end it.
 
-You have a +1 bonus to attack and damage rolls made using this weapon, which deals cold damage instead of piercing damage. While holding the Shortsword of the Twins, you can use a bonus action to create a shortsword in an empty hand, which lasts as long as you hold this weapon. The created shortsword is made of fire, it disappears when you let go of it, it has a +1 bonus to attack and damage rolls, it deals fire damage instead piercing damage, it sheds bright light in a 10-foot radius, and it sheds dim light for an additional 10 feet.
+Your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
 
-***
+Each time you use this feat after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
-## Replenishing Aquarium Ball
-**Wondrous Item (Uncommon)**  
-*T1, 400GP*
+</div>
 
-This clear, 1-inch-thick glass orb is the size of a large melon and hangs from a thick chain. It weighs 20lbs. It can hold up to 2 gallons of freshwater or saltwater, allowing it to house aquatic creatures such as fish or frogs. The cap near the top of the ball can be unscrewed for access. One tiny creature can fit comfortably into an aquarium ball. The ball continually refreshes itself with clean water and fresh food each dawn enough to feed any creature inhabiting it. It has been magically enhanced so that the glass is as hard as stone (AC 15, 15 HP) without increasing its weight.
+<div style='margin-top:100px;'></div>
 
-***
+### Reliable Skill
+*Prerequisite: 18th Level*
 
-## Howell’s Handled Mirror of Displacement
-**Armor (Shield), Rare**  
-*T2, 900GP*
+<div style="text-align: left;">
 
-This shield is simply a large bath mirror, the sides and back reinforced with metal to hold it  sturdy. The reflective surface shimmers and warps, showing no image but a starry silvery backdrop with eddies of lights and cannot be tarnished or scratched. While wielding the shield, when the wielder makes a successful shove to prone action, he may force the target to make a DC 12 Charisma saving throw. If the target fails, they are forced into the Astral plane for 1d2 rounds, where they may position themselves to re-appear anywhere within 10 feet of the shield that is currently not occupied. After this effect has been successfully used, it may not be used again until after a short rest.
+Choose an ability score. For any skill check using this ability and in which you are proficient, if your total for that check is less than your chosen ability score, you can use that score in place of the total.
+You can select this feat multiple times. Each time you do so, you must choose a different ability score.
 
-***
+</div>
 
-## The Dawnstar
-**Weapon (Morningstar), Uncommon (requires attunement by a Paladin)**  
-*T3, 1300GP*
+### Superhuman Ability
+*Prerequisite: 20th Level*
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
-Whenever you expend a spell slot to use your Divine Smite feature, you may re-roll one of the damage dice once. You must use the new roll.
+<div style="text-align: left;">
 
-***
+You may choose an ability score which is already at 20 and increase it to 24.
+You can select this feat multiple times. Each time you do so, you must choose a different ability score.
 
-## Rhahk'Zor's Hammer
-**Weapon (Maul), Uncommon (requires attunement)**  
-*T2, 800GP*
+</div>
 
-While attuned to this weapon when you hit with a melee weapon attack using this weapon, you can use your reaction to cast earth tremor DC13. After you have used this property it cannot be used again until the next dawn.
-While attuned to this weapon you can cast Mold Earth
+### Jack of All Trades
+You can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
-***
+### Assistance
+You learn to instruct, guide, or inspire others through logical commands, personal advice or anecdotes, or stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Assistance die, a d6.
 
-## Linza's Disgraced Cuirass
-**Armor (Breastplate), Rare**  
-*T2, 1000*
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Assistance die, but must decide before the DM says whether the roll succeeds or fails. Once the Assistance die is rolled, it is lost. A creature can have only one Assistance die at a time.
 
-This armour has 5 charges. If you are hit by a melee attack, you can choose to expend 1 charge and deal 3 damage to the attacker. The armor regains 1d4+1 charges at dawn.
+You have a number of assistance dice equal to your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat. You regain any expended uses when you finish a long rest.
 
-***
+### Improved Assistance
+*Prerequisite: Assistance, 5th Level*
 
-## Linza's Shattered Shield
-**Armor (Shield), Rare**  
-*T3, 1600*
+<div style="text-align: left;">
 
-This shield has 5 charges. When you are hit by a melee attack, you can use your reaction and expend 1 charge to reduce the damage of that attack by 1d10. The shield regains 1d4+1 charges at dawn. 
+Your assistance dice turn from d6 to d8.
+Additionally, you regain all of your expended uses of Assistance when you finish a short or long rest.
+You can select this feat a second time after 10th level and a third time after 15th level.
+Each time you do so your assistance dice become one step larger (such as from d8s to d10s).
 
-***
+</div>
 
-## Gambler's Shells
-**Wondrous Item, Common**  
-*T1, 200GP*
+<div class='footnote'>FEATS | ADVENTURER</div>
 
-These 3 coral pink shells each are carved with an eye on the outer side. Tapping the magical sigil allows the user to magically teleport a tiny object that fits within one shell to another within 20 feet. Someone proficient in arcana or any gambling game can understand the magic going on with a successful arcana (intelligence) or intelligence+proficiency (gambling game) check against the users sleight of hand check.
+\pagebreakNum
 
-***
+### Song of Rest
+You learn to use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points.
+You can select this feat a second time after 9th level, a third time after 13th level, and a fourth time after 17th level. Each time you do so your song of rest dice become one step larger (such as from 1d6 to 1d8).
 
-## Lloyd's Shield Ring
-**Wondrous Item, Uncommon (requires attunement)**  
-*T1, 500GP*
+### Acolyte
+Choose a diety and one domain of the cleric domains, or one of the sacred oaths. You gain access to the domain or oath spells, which you always have it prepared. You also gain the Channel Divinity options for the selected domain or oath. See page 59 and 85 of the Player Handbook for a list of options.
 
-If you are at your hit point maximum you gain a +1 bonus to AC
+You gain the ability to channel divinity once per short or long rest. The DC for your channel divinity options is 8 + your proficiency bonus + your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat.
+You can select this feat multiple times. Each time you do so, you gain another use of Channel Divinity and can select a different domain.
 
-***
+### Exorcist
+*Prerequisite: Turn Undead divinity, 4th Level*
 
-## Lloyd's Sword Ring
-**Wondrous Item, Uncommon (requires attunement)**  
-*T2, 800GP*
+<div style="text-align: left;">
 
-If you are at your hit point maximum you gain a +1 bonus to attack rolls and damage rolls.
+When an undead of CR 1/2 fails its saving throw against your Turn Undead divinity, the creature is instantly destroyed.
+You can select this feat a second time after 8th level (CR 1), a third time after 11th level (CR 2), a fourth time after 14th level (CR 3), and a fifth time after 17th level (CR 4). 
 
-***
+</div>
 
-## Dragonbinding Net
-**Weapon (Net), Uncommon**  
-*T2, 600 GP*
+### Beast Shape
+You gain the ability to use your action to magically assume the shape of a beast that you have seen before. You can use this feat twice. You regain expended uses when you finish a short or long rest.
 
-A net with interwoven but loose ties, when thrown, it expands to fully engulf even the 
-largest creatures. This net ignores a creature's size.
+You can transform into beasts of CR 1/8. The beast cannot have a flying or swimming speed. If you have a Greater Favored Enemy, you may transform into creatures of that type as well as beasts.
 
-***
+You can stay in a beast shape for thirty minutes. You then revert to your normal form unless you expend another use of this feat. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
-## Sun Lantern
-**Lantern (Bullseye), Rare (requires attunement)**  
-*T4, 7000gp + lantern cost*
+While you are transformed, the following rules apply:
 
-This lantern has 5 charges and regains 1 charge per hour spent in direct sunlight. As a bonus action, you may speak the command word to light the lantern. The lantern remains lit for 6 hours, or until the command word is spoken again. Light cast by the lantern is magical. Additionally you can expend one charge as bonus action to make  the lantern emit sunlight for one minute.
+- Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
+- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
+- You retain the benefit of any feats from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
+- You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
-***
 
-## Shadow Mist 
-**Wonderous Item, Rare (Requires attunement)**  
-*T4, 6000GP*
+### Improved Beast Shape
+*Prerequisite: Beast Shape*
 
-While wearing these boots, while you are within an area of dim light or darkness you can use a bonus action to cast Misty Step. You can cast the spell in this manner a number of times equal to your proficiency bonus. You regain all uses when you finish a long rest.
+<div style="text-align: left;">
 
-***
+You gain the ability to use Beast Shape on your turn as a bonus action, rather than as an action. You can directly transform from one beast shape to another as a bonus action. 
+You can transform into beasts of CR 1, and can stay in beast shape for 1 hour. The beast cannot have a flying or swimming speed. 
+Additionally, you can freely transform into beasts of CR 0 without expending a use of your Beast Shape.
 
-## Cracker
-**Weapon (Flail), Rare (requires attunement)**  
-*T3, 1500GP*
+You can select this feat a second time after 6th level, a third time after 9th level, a fourth time after 12th level a fifth time after 15th level, and a sixth time after 18th level. Each time you do so the CR of beasts you can transform into increases by 1 (such as from CR 1 to CR 2), and the duration of your beast shape increase by 1 hour. Additionally, the CR of beasts you can freely transform into increases to CR 1/8 after the second time, CR 1/4 after the third time, CR 1/2 the fourth time, CR 1 the fifth time, and CR 2 the sixth time.
 
-You have a +1 bonus to attack and damage rolls made with this weapon.
-This flail is made of a Glassteel ball with spikes, connected by a chain of the same metal to a solid adamantine handle. The spikes ooze the ichor of a rust monster. This weapon reduces the AC of non-magical metal objects and armour on hit by 1. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.
+</div>
 
-While Attuned to Whacker you can use two-weapon fighting with this weapon.
+### Sea and Sky Shape
+*Prerequisite: Beast Shape*
 
-***
+<div style="text-align: left;">
 
-## Whacker
-**Weapon (Flail), Rare (requires Attunement)**  
-*T3, 1200GP*
+You gain the ability to transform into beasts that have a swimming speed or flying speed.
 
-This flail is made of a glassteel ball with nubs, connected by a chain of the same material to a solid adamantine handle. The nubs extrude a light coating of Oil of Impact. This weapon deals an additional 1d6 Bludgeoning damage on hit, and attacks that hit an object are automatic criticals.
+</div>
 
-While Attuned to Cracker you can use two-weapon fighting with this weapon.
+<div class='footnote'>FEATS | ADVENTURER</div>
 
-***
+\pagebreakNum
 
-## Armor of the Vindicator
-**Armor (Plate), Legendary (requires attunement)**  
-*T4, 10000GP*
+### Elemental Shape
+*Prerequisite: Improved Beast Shape (CR 3)*
 
-An ancient set of armor fashioned from solarian truesteel and socketed with numerous clear gemstones. The armour shines with a silvery gleam, and radiates an aura of determination.
+<div style="text-align: left;">
 
-While wearing this armor you have resistance to fire damage.
+You gain the ability to expend two uses of Beast Shape at the same time to transform into an air elemental, an earth elemental, a fire elemental, or a water elemental.
 
-The pertinacious will of the forgotten hero that wore this armour still lingers within it. If you are reduced to 0 hit points, you can use your reaction to draw on that tenacity. You are instead reduced to 1 hit point, you can immediately move up to your movement speed without provoking opportunity attacks, and you can make one melee weapon attack with advantage. Once this property of the armor has been used, it can't be used again until the next dawn.
+</div>
 
-***
+### Arcane Beast Shape
+*Prerequisite: Beast Shape, 18th Level*
 
-## Indra Deus (Bow of Storms)
-**Longbow, Legendary (requires attunement)**  
-*T4, 10000 GP*
+<div style="text-align: left;">
 
-You have a +2 bonus to Attack and Damage Rolls made with this weapon.
+You gain the ability to cast many of your spells in any shape you assume using Beast Shape. You can perform the somatic and verbal components of a spell while in a beast shape, but you aren't able to provide material components.
 
-This bow wrought of black oak runs with blue streaks of arcane magic. Blacker than a winter storm, the lines of magic flare as azure lightning, burning the eyes. When drawn, the string crackles with lightning, which trails every arrow when released.
+</div>
 
-Each arrow fired from this bow deals an extra 1d6 lightning damage to any target it hits. 
+### Second Wind
+You learn to channel the adrenalin rush from combat to protect yourself from harm. On your turn, you can use a bonus action to spend one hit dice, recovering hit points equal to the dice + your Constitution modifier. This expends the hit dice just as if during a short rest.
 
-When you fire the bow and speak its Command Word, the arrow transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 15 Dexterity saving throw, taking 5d6 lightning damage on a failed save, and half as much damage on a successful one. Make a ranged weapon Attack against the target. On a hit, the target takes damage from the arrow plus 5d6 lightning damage. This property can't be used again until the next dawn.
+### Action Surge
+*Prerequisite: 2nd Level*
 
-***
+<div style="text-align: left;">
 
-## Axe of the Executioner 
-**Weapon (Halberd, Greataxe, Glaive), Very Rare (requires attunement)**  
-*T4, 9000GP*
+You gain the ability to push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feat, you must finish a short or long rest before you can use it again. 
+You can select this feat a second time after 17th level. When you do so, you gain another use of this ability.
 
-The weapon appears worn and rusted from years of use. The weapon consists on masterfully carved hickory shaft, that is now more worn and faded than it once was, with an rusted and chipped blade mounted firmly to the shaft, the blood of past victims staining the blade. Despite its appearance, the blade is razor sharp and never dulls. Some believe the weapon to be haunted, claiming to hear the voices of its previous victims, begging to be spared.
+</div>
 
-You gain a +1 bonus to attack and damage rolls made with this weapon.
-When you hit a creature that has fewer than half its hit points, the creature takes an extra 5 slashing damage if it isn’t a construct or an undead. If a creature has 15 hit points or fewer after taking this damage, it must succeed on a DC 15 Constitution saving throw or die.
-While holding this weapon, you can use a bonus action to extend your reach by 5 feet until the end of your turn.
+### Fighting Style
+You adopt a particular style of fighting as your specialty. Choose a fighting style from the list of optional feats. You can select this feat multiple times. Each time you do so, you must select a different fighting style.
 
-***
+#### Archery
+You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-## Tome of Worldly Knowledge
-**Wondrous Item, Rare**  
-*T2, 1000GP*
+#### Defense
+While you are wearing armor, you gain a +1 bonus to AC.
 
-This small book is bound in hammered silver and engraved with the continents of the world.
- When you make an Intelligence ability check, you can add your proficiency bonus to the check if not already proficient, or double your proficiency bonus for that check if you are. Once the item has been used in this way, it cannot be used again until the next dawn.
+#### Dueling
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
-***
+#### Great Weapon Fighting
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
-## Dragonbreath
-**Weapon (Scattergun), Rare**  
-*T3, 2500GP*
+<div style='margin-top:100px;'></div>
 
-A fierce, draconic design adorns this gun, and it glows with the power like the great wyrm whose likeness it was made to resemble. You gain a +1 bonus to attack and damage rolls you make using this weapon. This weapon’s scatter damage deals a different type other than bludgeoning that is dependent on the dragon it was modeled after.
+#### Protection
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-| Dragon Color       | Damage Type |
-|--------------------|-------------|
-| Black / Copper     | Acid        |
-| White / Silver     | Cold        |
-| Red / Brass / Gold | Fire        |
-| Blue / Bronze      | Lightning   |
-| Green              | Poison      |
+#### Two-Weapon Fighting
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-***
+### Extra Attack
+*Prerequisite: 5th Level*
 
-## The Blitzer
-**Weapon (Greataxe), Uncommon (requires attunement)**  
-*T2, 1000GP*
+<div style="text-align: left;">
 
-This large blackened axe, the namesake of a relentless battle maiden, is made from darksteel and resembles the head of a firesnake. There is a single word etched in Ignan on the head that reads "Firestarter".
- 
-When you hit with an attack using this magic axe, the target takes an extra 1d4 fire damage. 
- 
-The axe sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
- 
-When you roll a 20 on an attack roll made with this weapon, you can attempt to make a Firestorm strike on a creature when you hit. The creature must succeed a DC 15 Dexterity saving throw or take an additional 8d4 fire damage.
+You gain the ability to attack twice, instead of once, whenever you take the Attack action on your turn.
+You can select this feat a second time after 11th level and a third time at 20th level. 
+Each time you do so your the number of attacks you can make when you take the Attack action increases by 1.
+</div>
 
-***
+### Indomitable
+*Prerequisite: 9th Level*
 
-## Fortunate Shotgun
-**Weapon (Shotgun or Scattergun) Rare**  
-*T2, Price Unknown*
+<div style="text-align: left;">
 
-This weapon can only be a shotgun or a scattergun. It counts as a magical weapon.
-On a critical hit with this firearm, you do not take damage from the Scatter property if you'd normally take damage from it.
+You gain the ability to reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+You can select this feat multiple times. Each time you do so, you gain another use of this ability.
 
-***
+</div>
 
-## Channeler's Trident
-**Weapon (Trident), Rare (requires attunement)**  
-*T2, 1000GP*
+### Combat Superiority
+*Prerequisite: Martial Adept (Player Handbook pg. 168)*
 
-While wielding this trident you can use an action to cast Crusader's Mantle. After you have used this property it cannot be used again until the next dawn.
+<div style="text-align: left;">
 
-***
+You gain proficiency with one type of artisan's tools of your choice. You gain one superiority dice, and your superiority dice turn from d6s to d8s.
 
-## Rusted Iron Ring
-**Wondrous Item, Uncommon**  
-*T2, Price Unknown*
+You can select this feat a second time after 10th level and a third time at 18th level.
+Each time you do so your superiority dice become one step larger (such as from d8s to d10s).
+</div>
 
-While you wear this ring difficult terrain doesn't cost you extra movement.
+### Lay on Hands
+You gain a pool of 10 hit points that replenishes when you take a long rest. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
 
-***
+Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
 
-## Clover
-**Weapon (Heavy Pistol), Rare (requires attunement)**  
-*T3, 2500GP*
+This feat has no effect on undead and constructs.
 
-This shiny, golden gun has a green four leaf clover shaped rune engraved in it that seems to resonate with divination magic. You gain a +1 bonus to attack and damage rolls you make with this weapon. You always know how many rounds you have in the chamber of this weapon (may remove this feature due to redundancy). If you miss an attack roll with the last bullet in this pistol's chamber, it deals magical slashing damage to the target equal to your Dexterity modifier (minimum of 1) as the bullet grazes it.
+You can select this feat multiple times. Each time you do so, your pool of hit points for this feature increases by 10. 
 
-***
+### Pure Body
+*Prerequisite: 5th Level*
 
-## Dark Hand
-**Wondrous Item, Very Rare (requires attunement)**  
-*T4, 8000GP*
+<div style="text-align: left;">
 
-This glove is dyed red and black, of which the colors seem to shift around the glove unnaturally while you are attuned to it. This glove has two different forms: a shield, and a gauntlet. You can use a bonus action to shift it to a different form on your turn. 
-Shield. This shield weighs nothing.
-Gauntlet. Your proficiency bonus applies to attacks with the gauntlet. The gauntlet deals 1d4 bludgeoning and 1d6 necrotic damage on a hit. At the end of the turn you gain temporary hit points equal to half the damage dealt.
+You become immune to disease and poison, and become immune to magical aging.
 
-***
+</div>
 
-## Eyes of the Arcane
-**Wondrous Item, Very Rare (requires attunement)**  
-*T4, 8000GP*
+<div class='footnote'>FEATS | ADVENTURER</div>
 
-This winged golden mask has stark white lenses that fit over the eyes. It is cold and clammy to the touch, and wearing it causes you to hear whispered giggling.
+\pagebreakNum
 
-While attuned to this mask, you may use any Spell Scroll regardless of their spell list restriction by making an Intelligence(Arcana) check with the DC equal to 10+ Spell Level on a failure the scroll is still consumed.
+### Divine Smite
+*Prerequisite: 1st-Level Spellcasting*
 
-**THIS ITEM IS CURSED:**
- - While wearing this mask, when you fail to use a Spell Scroll you take 2d8 Force damage and roll once on the Wild Magic Table.
+<div style="text-align: left;">
 
-***
+When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
 
-## Cooldown Cigar
-**Wondrous Item, Very Rare**  
-*T1, 300GP*
+</div>
 
-This cigar is marked with a mystical rune that was enchanted by an ancient bard. When smoked, it gives off luxurious fumes that seem to rejuvenate your body on a deep, physical level. If you spend 10 minutes smoking this cigar in quiet contemplation, you gain the benefits of a short rest. Once you use this item, the magic rune burns out and what's left of the cigar disintegrates
+### Uncommon Sense
+As an action, you can open your awareness to detect any celestial, fiend, or undead. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
 
-***
+By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any celestial, fiend, or undead are present within 5 miles of you. This feature reveals which are present, their numbers, and the creatures' general direction and distance (in miles) from you. 
 
-## Conductor's Baton
-**Wondrous Item, Rare (requires attunement by a bard)**  
-*T2, 1200GP*
+If you have a Favored Enemy, you can also detect for them using these abilities.
 
-This small, wooden stick is 12" long and tapers slightly towards the tip. At the other end it widens to a small bulb sufficient to counterbalance the shaft. Once attuned by a bard, as an action, the baton can be used to cast Silence and Enthrall. Once the instrument has been used to cast these spells, it can’t be used to cast them again until the next dawn. Additionally, if you spend one minute conducting the motions of a song, the baton can be used to make a number of mundane musical instruments you can see equal to twice your bard level, start playing themselves. This effect requires concentration and the effect ends if concentration is broken.
+You can use this feature a number of times equal to your proficiency bonus. When you finish a long rest, you regain all expended uses.
 
-***
 
-## Chef's Apron of Adventurous Palates 
-**Wondrous Item, Uncommon**  
-*T1, 550GP*
+### Aura of Protection
+*Prerequisite: 6th Level*
 
-While wearing this apron, you gain +1 to skill checks involving the harvesting and preparation of edible materials from creatures.
+<div style="text-align: left;">
 
-***
+Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat. You must be conscious to grant this bonus.
 
-## Mortar Tube +1/2/3
-**Wondrous Item, Uncommon (requires attunement by an apothecary)**  
-*T3/T3/T4, 1400GP/4200GP/10000GP*
+</div>
 
-While attuned to this item you can shape your bomb concoctions in it to launch them further.  You have a +1/2/3 bonus to attack roll and damage rolls of your bomb concoctions and the range of your bomb concoctions becomes 60feet.  
-(Be aware that as per RAW, the bonus to damage rolls would not apply to the damage that creatures take when making the saving throw, see the rulings on Poison damage.)
+### Aura of Courage
+*Prerequisite: Aura of Protection, 10th Level*
 
-***
+<div style="text-align: left;">
 
-## Fulguris
-**Warhammer, Legendary (requires attunement by a good creature)**  
-*T4, 10000 GP*
+You emit an aura of valor around you. You and friendly creatures within 10 feet of you can't be frightened while you are conscious.
 
-You have a +1 bonus to Attack and Damage Rolls made with this weapon.  
-When you hit with an Attack using this magic hammer, the target takes an extra 1d8 lightning damage.  
-*Thrown Weapon*: This weapon has the Thrown property, with a normal range of 20 feet and a long range of 60 feet. Each time you throw the weapon, it flies back to your hand after the Attack. If you don't have a hand free, the weapon lands at your feet.
+</div>
 
-***
+### Cleansing Touch
+*Prerequisite: Lay on Hands, 14th Level*
 
-## Everchill Armor
-**Armor (Any Metal Armor), Very Rare**  
-*T3, 1500GP*
+<div style="text-align: left;">
 
-This magic armor, infused with a tiny shard of never melting ice,  always leaves you feeling pleasantly cool, no matter what environment you are in. This armor cannot be subjected to any effects that cause it to become hot enough to deal damage to you, such as the heat metal spell.
+You gain the ability to use your action to end one spell on yourself or on one willing creature that you touch. Using this feat expends 10 hit points from your Lay on Hands pool.
 
-***
+</div>
 
-## Shadowberry
-**Wondrous Item, Rare**  
-*T3, 1000GP*
+### Extended Aura
+*Prerequisite: Aura of Protection, Aura of Courage, 18th Level*
 
-When you use an action to consume this dark and sour berry, you gain the ability to see in magical and nonmagical darkness out to 60 feet for 1 hour.
+<div style="text-align: left;">
 
-***
+The range of your Aura of Protection and Aura of Courage increases to 30 feet.
 
-## Orca Rifle
-**Weapon (Rifle), Rare (requires attunement)**  
-*T3, Price Unknown*
+</div>
 
-This rifle has been artfully crafted so that its appearance resembles that of a great undersea predator. You get a +1 bonus to attack and damage rolls you make using this weapon. If you use this weapon underwater, attacks with it do not automatically miss past its normal range, and you do not get disadvantage on attack rolls against creatures within its normal range. While attuned, if you do not already have a swim speed, you gain a swim speed of 20 feet.
+<div style='margin-top:100px;'></div>
+
+### Favored Enemy
+You gain significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.
+
+Choose a type of favored enemy: beasts, fey, humanoids, monstrosities, undead, aberrations, celestials, constructs, dragons, elementals, fiends, or giants. 
+
+You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+
+When you gain this feat, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn.
+
+You can select this feat multiple times. Each time you do so, you must choose a different favored enemy type.
+
+
+### Greater Favored Enemy
+*Prerequisite: Favored Enemy, 6th Level*
+
+<div style="text-align: left;">
+
+Your bonus to damage rolls against one of your favored enemies increases to +4. Additionally, you have advantage on saving throws against the spells and abilities used by that favored enemy. If you have the Beast Shape ability, you also gain the ability to transform into creatures of your favored enemy type, following all other restrictions of Beast Shape.
+
+You can select this feat multiple times. Each time you do so, you must choose a different favored enemy type.
+
+</div>
+
+
+### Natural Explorer
+You become a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:
+
+- You ignore difficult terrain.
+- You have advantage on initiative rolls.
+- On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.
+
+In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:
+
+- Difficult terrain doesn't slow your group's travel.
+- Your group can't become lost except by magical means.
+- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+- If you are traveling alone, you can move stealthily at a normal pace.
+- When you forage, you find twice as much food as you normally would.
+- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+
+<div class='footnote'>FEATS | ADVENTURER</div>
+
+\pagebreakNum
+
+### Blindsense
+*Prerequisite: Expertise in Perception, 14th Level*
+
+<div style="text-align: left;">
+
+If you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+
+</div>
+
+### Quickened Action
+Choose three of the following actions: Dash, Disengage, Hide, Use an Object, Help, Search. You gain the ability to use any of the chosen actions as a bonus action on your turn.
+You can select this feat multiple times. Each time you do so, you can select three different actions.
+
+### Sneak Attack
+You learn how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use Dexterity.
+
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+You can select this feat multiple times.
+
+
+### Expertise
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+You can select this feat multiple times.
+
+### Evasion
+*Prerequisite: 7th Level*
+
+<div style="text-align: left;">
+
+When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+</div>
+
+### Elusive
+*Prerequisite: Evasion, 18th Level*
+
+<div style="text-align: left;">
+
+You become so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
+
+</div>
+
+### Martial Arts
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes. You gain 2 ki points, which you regain when you finish a short or long rest, and you gain the following benefits while you are unarmed.
+
+- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes.
+- You can roll a d4 in place of the normal damage of your unarmed strike. This dice size increases if you select this feat again.
+- When you use the Attack action on your, you can make one unarmed strike as a bonus action or you can spend 1 ki point to make two unarmed strikes as a bonus action.
+- You can use your reaction to deflect the weapon or missile when you are hit by a melee or ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d4 + your choice of your Strength or Dexterity modifier + your proficiency bonus. This dice size increases if you select this feat again.
+- You can spend 1 ki point to take the Dodge action as a bonus action.
+
+You can select this feat a second time after 5th level, a third time after 11th level, and a fourth time after 17th level. Each time you do so you gain 2 additional ki points and you can replace the damage of your unarmed strike and the reduction from weapon deflection with a die one step larger (such as from 1d4 to 1d6).
+
+### Magic-Empowered Strikes
+*Prerequisite: Martial Arts or Improved Beast Shape, 5th level*
+
+<div style="text-align: left;">
+
+Your unarmed strikes and attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+If you have ki points, you also gain the ability to interfere with the ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn. The DC for this saving throw is 8 + your proficiency bonus + your Strength or Dexterity modifier. 
+
+</div>
+
+### Arcane Recovery
+*Prerequisite: 1st-Level Spellcasting*
+
+<div style="text-align: left;">
+
+You have learned to regain some of your magical energy. When you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of 1, and none of the slots can be 6th level or higher.
+
+You can select this feat multiple times. Each time you do so, the combined level of recovered slots increases by 1.
+
+</div>
+
+### Counterabjuration
+*Prerequisite: Spellbook (School of Abjuration), 6th Level*
+
+<div style="text-align: left;">
+
+When you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check. Additionally, you can attempt to identify the spell as part of the reaction for casting Counterspell (Xanthur's Guide to Everything pg. 85).
+
+</div>
+
+### Benign Transposition
+*Prerequisite: Spellbook (School of Conjuration), 6th Level*
+
+<div style="text-align: left;">
+
+You can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
+
+Once you use this feature, you can't use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.
+
+</div>
+
+<div class='footnote'>FEATS | ADVENTURER</div>
+
+\pagebreakNum
+
+### Portent
+*Prerequisite: Spellbook (School of Divination), 2nd Level*
+
+<div style="text-align: left;">
+
+Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
+You can select this feat a second time after 6th level, and a third time after 14th level. Each time you do so you roll another d20.
+
+</div>
+
+### Instinctive Charm
+*Prerequisite: Spellbook (School of Enchantment), 6th Level*
+
+<div style="text-align: left;">
+
+When a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.
+
+You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.
+
+</div>
+
+### Potent Spell
+*Prerequisite: Spellbook (School of Evocation), 6th Level*
+
+<div style="text-align: left;">
+
+You have mastered the use of evocation magic in combat, and your evocation spells affect even creatures that avoid the brunt of the effect. Your spell attacks with evocation cantrips or spells score a critical hit on a roll of 19 or 20. When a creature succeeds on a saving throw against your evocation cantrip or spell, the creature takes half the cantrip or spell's damage (if any) but suffers no additional effect from the cantrip or spell. This effect applies to creatures with Evasion.
+
+</div>
+
+### Illusory Step
+*Prerequisite: Spellbook (School of Illusion), 10th Level*
+
+<div style="text-align: left;">
+
+You can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+</div>
+
+<div style='margin-top:100px;'></div>
+
+### Grim Harvest
+*Prerequisite: Spellbook (School of Necromancy), 2nd Level*
+
+<div style="text-align: left;">
+
+You gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
+
+</div>
+
+### Transmutor's Stone
+*Prerequisite: Spellbook (School of Transmutation), 6th Level*
+
+<div style="text-align: left;">
+
+You can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:
+- Darkvision out to a range of 60 feet, as described in chapter 8.
+- An increase to speed of 10 feet while the creature is unencumbered.
+- Proficiency in Constitution saving throws.
+- Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit).
+
+Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.
+
+If you create a new transmuter's stone, the previous one ceases to function.
+
+</div>
+
+### Enhanced Familiar
+*Prerequisite: Find Familiar Spell, 3rd Level*
+
+<div style="text-align: left;">
+
+You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the Find Familiar spell to summon a more powerful companion. Your familiar can take the following forms: ape, black bear, boar, giant badger, giant weasel, mule, panther, wolf, imp, pseudodragon, quasit, or sprite. Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
+
+You can select this feat multiple times. Each time you do so, your familiar either gains an additional hit dice and increases its hit points accordingly, or can increase one of its ability scores by 1. As normal, your familiar can't increase an ability score above 20 using this feature unless its description specifies otherwise.
+
+</div>
+
+<div class='footnote'>FEATS | ADVENTURER</div>
+
+\pagebreakNum
+
+### Metamagic
+*Prerequisite: The ability to cast at least one cantrip or spell*
+
+<div style="text-align: left;">
+
+You gain 2 sorcery points, which you regain when you finish a long rest. You also gain the ability to twist your spells to suit your needs. You gain one Metamagic option of your choice. See page 102 of the Player Handbook for a list of options.
+
+You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points.
+
+***Creating Spell Slots.*** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+
+</div>
+
+##### Creating Spell Slots
+| Spell Slot Level  | Sorcery Point Cost |
+|:---:|:-----------:|
+|  1st  | 2 |
+|  2nd  | 3 |
+|  3rd  | 5 |
+|  4th  | 6 |
+|  5th  | 7 |
+
+***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+
+You can select this feat multiple times. Each time you do so, you gain 2 more sorcery points and must choose a different Metamagic options.
+
+### Wild Magic
+*Prerequisite: Metamagic*
+
+<div style="text-align: left;">
+
+You learn to manipulate the forces of chance and chaos. Whenever you make an attack roll, an ability check, or a saving throw, you can spend 2 sorcery points to reroll an the d20 but before the outcome is determined. You must use the new roll. If you roll a 1 on the new roll, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn.
+If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. See page 104 of the Player Handbook for the Wild Magic Surge table.
+
+Additionally, you can use an action to spend 5 sorcery points to roll directly on the Wild Magic Surge table.
+
+</div>
+
+### Spellbook
+*Prerequisite: 1st-Level Spellcasting*
+
+<div style="text-align: left;">
+
+Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st-level spells from your chosen school.
+
+***Copying a Spell into the Book.*** When you find a spell of 1st level or higher from the chosen school of magic, you can add it to your spellbook if it is of a level you can cast and if you can spare the time to decipher and copy it.
+
+For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+
+A spell scroll from the chosen school of magic can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+
+A spellbook doesn't contain cantrips.
+
+***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, it may be wize to keep a backup spellbook in a safe place.
+
+You can select this feat multiple times. Each time you do so, you must choose a different school of magic.
+
+</div>
+
+### Signature Spell
+*Prerequisite: 9th-Level Spellcasting, Spellbook, 20th Level*
+
+<div style="text-align: left;">
+
+You gain mastery over a powerful spell and can cast it with little effort. Choose one 3rd-level spell from your spellbook as your signature spell. You always have this spell prepared, and you can cast it once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
+
+If you want to cast the spell at a higher level, you must expend a spell slot as normal.
+
+</div>
+
+### Spirit Animal Form
+*Prerequisite: Improved Beast Shape, 20th Level*
+
+<div style="text-align: left;">
+
+You gain mastery over a specific beast shape and can transform into it with little effort. Choose one beast of CR 6 or lower. You gain the ability to transform into it an unlimited number of times.
+
+If you want to transform into another beast shape, you must expend a use of Beast Shape as normal.
+
+</div>
+
+<div class='footnote'>FEATS | ADVENTURER</div>
+
+\pagebreakNum
+
+### Minor Invocation
+<div style="text-align: left;">
+
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
+See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+
+You can select one of the following eldritch invocations: Voice of the Chain Master, Thief of Five Fates, Repelling Blast, Misty Visions, Mask of Many Faces, Lance of Lethargy, Improved Pact Weapon, Grasp of Hadar, Gift of the Ever-Living Ones, Gaze of Two Minds, Fiendish Vigor, Eyes of the Rune Keeper, Eldritch Spear, Eldritch Sight, Devil's Sight, Book of Ancient Secrets, Beguiling Influence, Beast Speech, Aspect of the Moon, Armor of Shadows, Agonizing Blast.
+
+If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
+
+You can select this feat multiple times. Each time you do so, you must select a different invocation.
+
+</div>
+
+### Moderate Invocation
+*Prerequisite: Minor Invocation, 5th Level*
+
+<div style="text-align: left;">
+
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
+See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+
+You can select one of the following eldritch invocations: Tome of Levistus, Thirsting Blade, Sign of Ill Omen, One with Shadows, Mire the Mind, Maddening Hex, Gift of the Depths, Eldritch Smite, Cloak of Flies, Trickster's Escape, Sculpter of Flesh, Relentless Hex, Ghostly Gaze, Dreadful Word, Bewitching Whispers. 
+
+If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
+
+You can select this feat multiple times. Each time you do so, you must select a different invocation.
+
+</div>
+
+### Major Invocation
+*Prerequisite: Moderate Invocation, 9th Level*
+
+<div style="text-align: left;">
+
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
+See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+
+You can select one of the following eldritch invocations: Whispers of the Grave, Otherworldly Leap, Minions of Chaos, Ascendant Step.
+
+If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
+
+You can select this feat multiple times. Each time you do so, you must select a different invocation.
+
+</div>
+
+### Grand Invocation
+*Prerequisite: Major Invocation, 15th Level*
+
+<div style="text-align: left;">
+
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
+See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+
+You can select one of the following eldritch invocations: Lifedrinker, Witch Sight, Visions of Distant Realms, Shroud of Shadow, Master of Myriad Forms, Chains of Carceri.
+
+If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
+
+You can select this feat multiple times. Each time you do so, you must select a different invocation.
+
+</div>
+
+### Weapon Bond
+*Prerequisite: 3rd Level*
+
+<div style="text-align: left;">
+
+You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
+Once you have bonded a weapon to yourself, you have advantage on saving throws against being disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
+You can only have one bonded weapon. If you attempt to bond with another weapon, you must break the bond with the first weapon.
+
+This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+</div>
+
+### Improved Critical
+*Prerequisite: Weapon Bond*
+
+<div style="text-align: left;">
+
+Your weapon attacks with your bonded weapon score a critical hit on a roll of 19 or 20.
+You can select this feat a second time after 15th level. When you do so, your weapon attacks with your bonded weapon score a critical hit on a roll of 18-20.
+
+</div>
+
+<div class='footnote'>FEATS | ADVENTURER</div>
+
+\pagebreakNum
+
+### Infused Magic
+*Prerequisite: 1st-Level Spellcasting, 4th Level*
+
+<div style="text-align: left;">
+
+You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature.
+Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item.
+When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
+
+</div>
+
+### Superior Attunement
+*Prerequisite: Infuse Magic, 5th Level*
+
+<div style="text-align: left;">
+
+Your superior understanding of magic items allows you to master their use. You can now attune to up to four, rather than three, magic items at a time. You can select this feat a second time after 15th level, and a third time at 20th level. Each time you do so, you can attune to one additional magic item.
+
+</div>
+
+### Minor Invention
+*Prerequisite: Infuse Magic, 5th Level*
+
+<div style="text-align: left;">
+
+You learn the secrets of the constructing magic items. You can spend an amount of gold equivalent to half the cost of the item and 24 hours of total time, not necessarily continuous, working to create an item from the following list: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones, alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets.
+
+Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+
+</div>
+
+### Moderate Invention
+*Prerequisite: Minor Invention, 10th Level*
+
+<div style="text-align: left;">
+
+You hone your skill in constructing magic items. You can spend an amount of gold equivalent to half the cost of the item and 24 hours of total time, not necessarily continuous, working to create an item from the following list: bag of beans, chime of opening, decanter of endless water, eyes of minute seeing, folding boat, Heward's handy haversack.
+
+Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+
+</div>
+
+<div style='margin-top:100px;'></div>
+
+### Major Invention
+*Prerequisite: Moderate Invention, 15th Level*
+
+<div style="text-align: left;">
+
+You further hone your skill in constructing magic items. You can spend an amount of gold equivalent to half the cost of the item and 24 hours of total time, not necessarily continuous, working to create an item from the following list: boots of striding and springing, bracers of archery, brooch of shielding, broom of flying, hat of disguise, slippers of spider climbing.
+
+Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+
+</div>
+
+### Masterwork
+*Prerequisite: Major Invention, 20th Level*
+
+<div style="text-align: left;">
+
+You master the art of constructing magic items. You can spend an amount of gold equivalent to half the cost of the item and 24 hours of total time, not necessarily continuous, working to create an item from the following list: eyes of the eagle, gem of brightness, gloves of missile snaring, gloves of swimming and climbing, ring of jumping, ring of mind shielding, wings of flying.
+
+Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+
+</div>
