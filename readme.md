@@ -867,10 +867,6 @@ You can select this feat a second time after 15th level. When you do so, your we
 
 </div>
 
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
-
 ### Infused Magic
 *Prerequisite: 1st-Level Spellcasting, 4th Level*
 
@@ -978,7 +974,6 @@ Your DM allow you to craft different magic items, but may specify required skill
 
 </div>
 
-
 <div style="text-align: left;">
 
 ***Ability Score Increase.*** Tallied as 1 feat.
@@ -1008,16 +1003,6 @@ Your DM allow you to craft different magic items, but may specify required skill
 ***Other Class Features.*** The list of feats for Adventurer does not yet encompass every possible class and subclass feature. These other feats are treated as equivalent to 1 feat each.
 
 </div>
-
-
-
-<div class='footnote'>COMPARISON | ADVENTURER</div>
-
-\pagebreakNum
-
-<div class='footnote'>OPTIONAL RULES | ADVENTURER</div>
-
-<div class='pageNumber'>10</div>
 
 ## Optional Rules
 
