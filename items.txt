@@ -6,5 +6,5 @@ Cleaves those who dare disobey.
 ***
 
 ### Clover v2
-* Prerequisite: Clover, 3rd Level*
+*Prerequisite: Clover, 3rd Level*
 Cleaves even harder!
