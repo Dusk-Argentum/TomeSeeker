@@ -532,7 +532,7 @@ If you create a new transmuter's stone, the previous one ceases to function.
 
 You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the Find Familiar spell to summon a more powerful companion. Your familiar can take the following forms: ape, black bear, boar, giant badger, giant weasel, mule, panther, wolf, imp, pseudodragon, quasit, or sprite. Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
 
-You can select this feat multiple times. Each time you do so, your familiar either gains an additional hit dice and increases its hit points accordingly, or can increase one of its ability scores by 1. As normal, your familiar can't increase an ability score above 20 using this feature unless its description specifies otherwise.
+You can select this feat multiple times. Each time you do so, your familiar either gains an additional hit dice and increases its hit points accordingly, or can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your familiar can't increase an ability score above 20 using this feature unless its description specifies otherwise.
 
 ***
 
