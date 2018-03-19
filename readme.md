@@ -1,3 +1,4 @@
+<img src='https://geekandsundry.com/wp-content/uploads/2016/03/scag_header-970x544.jpg' style='position:absolute;bottom:0px;right:0px;height:360px'>
 
 ## Adventurer
 *version 1.5*
@@ -75,8 +76,6 @@ scores of your choice by 1. As normal, you can't increase
 an ability score above 20 using this feature.  
 
 You can instead take a feat.
-
-<img src='https://geekandsundry.com/wp-content/uploads/2016/03/scag_header-970x544.jpg' style='position:absolute;bottom:0px;right:0px;height:360px'>
 
 ## Modified Feats
 You can select the following feats multiple times:  
