@@ -8,3 +8,9 @@ Cleaves those who dare disobey.
 ### Clover v2
 *Prerequisite: Clover, 3rd Level*
 Cleaves even harder!
+
+***
+
+### Cleaver
+*Prerequisite: Clover v2, 9th Level*
+On a crit, choose a limb to sever.
