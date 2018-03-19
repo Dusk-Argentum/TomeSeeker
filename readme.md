@@ -1,4 +1,3 @@
-<img src='https://geekandsundry.com/wp-content/uploads/2016/03/scag_header-970x544.jpg' style='position:absolute;bottom:0px;right:0px;height:360px'>
 
 ## Adventurer
 *version 1.5*
@@ -18,9 +17,8 @@ Adventurers often are far from home, out saving the world or doing new things.
 <div class='classTable'>
 
 ##### The Adventurer
-
 | Level | Proficiency Bonus | Features |
-|:---:|:---:|:---|:---:|
+|:---:|:---:|:---|
 |  1st | +2 | Feat, Feat, Feat, Feat |
 |  2nd | +2 | Feat, Feat |
 |  3rd | +2 | Feat | 
@@ -43,8 +41,6 @@ Adventurers often are far from home, out saving the world or doing new things.
 | 20th | +6 | Feat, Feat |
 
 </div>
-
-<div style='margin-top:100px;'></div>
 
 ### Creating an Adventurer
 Think about what your adventure requires, and adapt as necessary. Be sure your DM allows use of feats, as they are **required** for playing this class.
@@ -79,6 +75,8 @@ scores of your choice by 1. As normal, you can't increase
 an ability score above 20 using this feature.  
 
 You can instead take a feat.
+
+<img src='https://geekandsundry.com/wp-content/uploads/2016/03/scag_header-970x544.jpg' style='position:absolute;bottom:0px;right:0px;height:360px'>
 
 ## Modified Feats
 You can select the following feats multiple times:  
@@ -134,8 +132,6 @@ You learn three 5th-level spells of your choice from any spell list, and gain th
 You learn two 6th-level spells of your choice from any spell list, and gain two 6th-level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
 </div>
-
-<div style='margin-top:100px;'></div>
 
 ### 7th-Level Spellcasting
 *Prerequisite: 6th-Level Spellcasting, 13th Level*
@@ -292,17 +288,11 @@ You can select this feat a second time after 8th level (CR 1), a third time afte
 </div>
 
 ### Beast Shape
-You gain the ability to use your action to magically assume the shape of a beast that you have seen before. You can use this feat twice. You regain expended uses when you finish a short or long rest.
-
-You can transform into beasts of CR 1/8. The beast cannot have a flying or swimming speed. If you have a Greater Favored Enemy, you may transform into creatures of that type as well as beasts.
-
-You can stay in a beast shape for thirty minutes. You then revert to your normal form unless you expend another use of this feat. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
-
-While you are transformed, the following rules apply:
+You gain the ability to use your action to magically assume the shape of a beast that you have seen before. You can use this ability twice. You regain expended uses when you finish a short or long rest. You can transform into beasts of CR 1/8. The beast cannot have a flying or swimming speed. If you have a Greater Favored Enemy, you may transform into creatures of that type as well as beasts. You can stay in a beast shape for thirty minutes. You then revert to your normal form unless you expend another use of this feat. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die. While you are transformed, the following rules apply:
 
 - Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
-- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
-- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
+- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell.
 - You retain the benefit of any feats from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
@@ -327,10 +317,6 @@ You can select this feat a second time after 6th level, a third time after 9th l
 You gain the ability to transform into beasts that have a swimming speed or flying speed.
 
 </div>
-
-<div class='footnote'>FEATS | ADVENTURER</div>
-
-\pagebreakNum
 
 ### Elemental Shape
 *Prerequisite: Improved Beast Shape (CR 3)*
@@ -366,22 +352,22 @@ You can select this feat a second time after 17th level. When you do so, you gai
 ### Fighting Style
 You adopt a particular style of fighting as your specialty. Choose a fighting style from the list of optional feats. You can select this feat multiple times. Each time you do so, you must select a different fighting style.
 
-#### Archery
+#### Archery ####
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-#### Defense
+#### Defense ####
 While you are wearing armor, you gain a +1 bonus to AC.
 
-#### Dueling
+#### Dueling ####
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
-#### Great Weapon Fighting
+#### Great Weapon Fighting ####
 When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
-#### Protection
+#### Protection ####
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-#### Two-Weapon Fighting
+#### Two-Weapon Fighting ####
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ### Extra Attack
@@ -389,9 +375,7 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 
 <div style="text-align: left;">
 
-You gain the ability to attack twice, instead of once, whenever you take the Attack action on your turn.
-You can select this feat a second time after 11th level and a third time at 20th level. 
-Each time you do so your the number of attacks you can make when you take the Attack action increases by 1.
+You gain the ability to attack twice, instead of once, whenever you take the Attack action on your turn. You can select this feat a second time after 11th level and a third time at 20th level. Each time you do so your the number of attacks you can make when you take the Attack action increases by 1.
 </div>
 
 ### Indomitable
@@ -399,8 +383,7 @@ Each time you do so your the number of attacks you can make when you take the At
 
 <div style="text-align: left;">
 
-You gain the ability to reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
-You can select this feat multiple times. Each time you do so, you gain another use of this ability.
+You gain the ability to reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest. You can select this feat multiple times. Each time you do so, you gain another use of this ability.
 
 </div>
 
@@ -411,8 +394,7 @@ You can select this feat multiple times. Each time you do so, you gain another u
 
 You gain proficiency with one type of artisan's tools of your choice. You gain one superiority dice, and your superiority dice turn from d6s to d8s.
 
-You can select this feat a second time after 10th level and a third time at 18th level.
-Each time you do so your superiority dice become one step larger (such as from d8s to d10s).
+You can select this feat a second time after 10th level and a third time at 18th level. Each time you do so your superiority dice become one step larger (such as from d8s to d10s).
 </div>
 
 ### Lay on Hands
@@ -450,7 +432,6 @@ By spending 1 uninterrupted minute in concentration (as if you were concentratin
 If you have a Favored Enemy, you can also detect for them using these abilities.
 
 You can use this feature a number of times equal to your proficiency bonus. When you finish a long rest, you regain all expended uses.
-
 
 ### Aura of Protection
 *Prerequisite: 6th Level*
@@ -499,7 +480,6 @@ When you gain this feat, you also learn one language of your choice, typically o
 
 You can select this feat multiple times. Each time you do so, you must choose a different favored enemy type.
 
-
 ### Greater Favored Enemy
 *Prerequisite: Favored Enemy, 6th Level*
 
@@ -537,19 +517,15 @@ If you are able to hear, you are aware of the location of any hidden or invisibl
 </div>
 
 ### Quickened Action
-Choose three of the following actions: Dash, Disengage, Hide, Use an Object, Help, Search. You gain the ability to use any of the chosen actions as a bonus action on your turn.
-You can select this feat multiple times. Each time you do so, you can select three different actions.
+Choose three of the following actions: Dash, Disengage, Hide, Use an Object, Help, Search. You gain the ability to use any of the chosen actions as a bonus action on your turn. You can select this feat multiple times. Each time you do so, you can select three different actions.
 
 ### Sneak Attack
 You learn how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use Dexterity.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
-You can select this feat multiple times.
-
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll. You can select this feat multiple times.
 
 ### Expertise
-Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
-You can select this feat multiple times.
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. You can select this feat multiple times.
 
 ### Evasion
 *Prerequisite: 7th Level*
@@ -627,8 +603,7 @@ Once you use this feature, you can't use it again until you finish a long rest o
 
 <div style="text-align: left;">
 
-Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
-You can select this feat a second time after 6th level, and a third time after 14th level. Each time you do so you roll another d20.
+Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls. You can select this feat a second time after 6th level, and a third time after 14th level. Each time you do so you roll another d20.
 
 </div>
 
@@ -709,22 +684,13 @@ You gain 2 sorcery points, which you regain when you finish a long rest. You als
 
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points.
 
-***Creating Spell Slots.*** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
-
-</div>
-
-##### Creating Spell Slots
-| Spell Slot Level  | Sorcery Point Cost |
-|:---:|:-----------:|
-|  1st  | 2 |
-|  2nd  | 3 |
-|  3rd  | 5 |
-|  4th  | 6 |
-|  5th  | 7 |
+***Creating Spell Slots.*** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. You can create spell slots no higher in level than 5th. A 1st-Level Spell Slot costs 2 Sorcery Points, a 2nd-Level costs 3 Sorcery Points, a 3rd-Level costs 5 Sorcery Points, a 4th-Level costs 6 Sorcery Points, and a 5th-Level costs 7 Sorcery Points.
 
 ***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
 You can select this feat multiple times. Each time you do so, you gain 2 more sorcery points and must choose a different Metamagic options.
+
+</div>
 
 ### Wild Magic
 *Prerequisite: Metamagic*
@@ -735,6 +701,15 @@ You learn to manipulate the forces of chance and chaos. Whenever you make an att
 If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. See page 104 of the Player Handbook for the Wild Magic Surge table.
 
 Additionally, you can use an action to spend 5 sorcery points to roll directly on the Wild Magic Surge table.
+
+</div>
+
+### Bend Luck
+*Prerequisite: Wild Magic, 6th Level*
+
+<div style="text-align: left;">
+
+You gain the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
 
 </div>
 
@@ -753,8 +728,7 @@ A spell scroll from the chosen school of magic can be copied just as spells in s
 
 A spellbook doesn't contain cantrips.
 
-***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
-If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, it may be wize to keep a backup spellbook in a safe place.
+***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell. If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, it may be wize to keep a backup spellbook in a safe place.
 
 You can select this feat multiple times. Each time you do so, you must choose a different school of magic.
 
@@ -785,8 +759,7 @@ If you want to transform into another beast shape, you must expend a use of Beas
 ### Minor Invocation
 <div style="text-align: left;">
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
-See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
 You can select one of the following eldritch invocations: Voice of the Chain Master, Thief of Five Fates, Repelling Blast, Misty Visions, Mask of Many Faces, Lance of Lethargy, Improved Pact Weapon, Grasp of Hadar, Gift of the Ever-Living Ones, Gaze of Two Minds, Fiendish Vigor, Eyes of the Rune Keeper, Eldritch Spear, Eldritch Sight, Devil's Sight, Book of Ancient Secrets, Beguiling Influence, Beast Speech, Aspect of the Moon, Armor of Shadows, Agonizing Blast.
 
@@ -801,8 +774,7 @@ You can select this feat multiple times. Each time you do so, you must select a 
 
 <div style="text-align: left;">
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
-See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
 You can select one of the following eldritch invocations: Tome of Levistus, Thirsting Blade, Sign of Ill Omen, One with Shadows, Mire the Mind, Maddening Hex, Gift of the Depths, Eldritch Smite, Cloak of Flies, Trickster's Escape, Sculpter of Flesh, Relentless Hex, Ghostly Gaze, Dreadful Word, Bewitching Whispers. 
 
@@ -817,8 +789,7 @@ You can select this feat multiple times. Each time you do so, you must select a 
 
 <div style="text-align: left;">
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
-See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
 You can select one of the following eldritch invocations: Whispers of the Grave, Otherworldly Leap, Minions of Chaos, Ascendant Step.
 
@@ -833,8 +804,7 @@ You can select this feat multiple times. Each time you do so, you must select a 
 
 <div style="text-align: left;">
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
-See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
 You can select one of the following eldritch invocations: Lifedrinker, Witch Sight, Visions of Distant Realms, Shroud of Shadow, Master of Myriad Forms, Chains of Carceri.
 
@@ -872,9 +842,7 @@ You can select this feat a second time after 15th level. When you do so, your we
 
 <div style="text-align: left;">
 
-You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature.
-Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item.
-When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
+You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature. Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item. When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
 
 </div>
 
@@ -1004,6 +972,12 @@ Your DM allow you to craft different magic items, but may specify required skill
 
 </div>
 
+<div class='footnote'>COMPARISON | ADVENTURER</div>
+
+<div class='footnote'>OPTIONAL RULES | ADVENTURER</div>
+
+<div class='pageNumber'>10</div>
+
 ## Optional Rules
 
 Listed here are a few notes and optional rules for using this class that can enhance or vary the way it performs.
@@ -1067,9 +1041,9 @@ To maximize the number of feats experienced, consider disallowing the Ability Sc
 
 ### Version 1.5
 *03/18/2018, 15:00* 
-- Added Eldritch Invocations, Weapon Bond (Pact of the Blade), Improved Critical, and Wild Magic
+- Added Eldritch Invocations, Weapon Bond (Pact of the Blade), Improved Critical, Bend Luck, and Wild Magic
 - Limited Unarmored Defense to max 19 AC
-- Changed requirement for Metamagic to "ability to cast a spell or cantrip"
+- Changed requirement for Metamagic to ability to cast a spell or cantrip
 - Added cute dragon picture here just because
 - Added Artificer Feats
 
