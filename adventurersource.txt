@@ -1,63 +1,64 @@
-***
-
-### 1st•Level Spellcasting
-You learn four 1st•level spells of your choice from any spell list, and gain four 1st•level spell slots. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
 
 ***
 
-### 2nd•Level Spellcasting
-*Prerequisite: 1st•Level Spellcasting, 3rd Level*
-
-You learn three 2nd•level spells of your choice from any spell list, and gain three 2nd•level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st•Level Spellcasting feat.
+### 1st-Level Spellcasting
+You learn four 1st-level spells of your choice from any spell list, and gain four 1st-level spell slots. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
 
 ***
 
-### 3rd•Level Spellcasting
-*Prerequisite: 2nd•Level Spellcasting, 5th Level*
+### 2nd-Level Spellcasting
+*Prerequisite: 1st-Level Spellcasting, 3rd Level*
 
-You learn three 3rd•level spells of your choice from any spell list, and gain three 3rd•level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st•Level Spellcasting feat.
-
-***
-
-### 4th•Level Spellcasting
-*Prerequisite: 3rd•Level Spellcasting, 7th Level*
-
-You learn three 4th•level spells of your choice from any spell list, and gain three 4th•level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st•Level Spellcasting feat.
+You learn three 2nd-level spells of your choice from any spell list, and gain three 2nd-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
 ***
 
-### 5th•Level Spellcasting
-*Prerequisite: 4th•Level Spellcasting, 9th Level*
+### 3rd-Level Spellcasting
+*Prerequisite: 2nd-Level Spellcasting, 5th Level*
 
-You learn three 5th•level spells of your choice from any spell list, and gain three 5th•level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st•Level Spellcasting feat.
-
-***
-
-### 6th•Level Spellcasting
-*Prerequisite: 5th•Level Spellcasting, 11th Level*
-
-You learn two 6th•level spells of your choice from any spell list, and gain two 6th•level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st•Level Spellcasting feat.
+You learn three 3rd-level spells of your choice from any spell list, and gain three 3rd-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
 ***
 
-### 7th•Level Spellcasting
-*Prerequisite: 6th•Level Spellcasting, 13th Level*
+### 4th-Level Spellcasting
+*Prerequisite: 3rd-Level Spellcasting, 7th Level*
 
-You learn two 7th•level spells of your choice from any spell list, and gain two 7th•level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st•Level Spellcasting feat.
-
-***
-
-### 8th•Level Spellcasting
-*Prerequisite: 7th•Level Spellcasting, 15th Level*
-
-You learn one 8th•level spells of your choice from any spell list, and gain one 8th•level spell slot.  Your spellcasting ability is the same as the one you chose when you took the 1st•Level Spellcasting feat.
+You learn three 4th-level spells of your choice from any spell list, and gain three 4th-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
 ***
 
-### 9th•Level Spellcasting
-*Prerequisite: 8th•Level Spellcasting, 17th Level*
+### 5th-Level Spellcasting
+*Prerequisite: 4th-Level Spellcasting, 9th Level*
 
-You learn one 9th•level spells of your choice from any spell list, and gain one 9th•level spell slot. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take the feat.
+You learn three 5th-level spells of your choice from any spell list, and gain three 5th-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
+
+***
+
+### 6th-Level Spellcasting
+*Prerequisite: 5th-Level Spellcasting, 11th Level*
+
+You learn two 6th-level spells of your choice from any spell list, and gain two 6th-level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
+
+***
+
+### 7th-Level Spellcasting
+*Prerequisite: 6th-Level Spellcasting, 13th Level*
+
+You learn two 7th-level spells of your choice from any spell list, and gain two 7th-level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
+
+***
+
+### 8th-Level Spellcasting
+*Prerequisite: 7th-Level Spellcasting, 15th Level*
+
+You learn one 8th-level spells of your choice from any spell list, and gain one 8th-level spell slot.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
+
+***
+
+### 9th-Level Spellcasting
+*Prerequisite: 8th-Level Spellcasting, 17th Level*
+
+You learn one 9th-level spells of your choice from any spell list, and gain one 9th-level spell slot. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take the feat.
 
 ***
 
@@ -252,11 +253,11 @@ You adopt a particular style of fighting as your specialty. Choose a fighting st
 
 **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
-**Great Weapon Fighting.** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two•handed or versatile property for you to gain this benefit.
+**Great Weapon Fighting.** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
 **Protection.** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-**Two•Weapon Fighting.** When you engage in two•weapon fighting, you can add your ability modifier to the damage of the second attack.
+**Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ***
 
@@ -302,9 +303,9 @@ You become immune to disease and poison, and become immune to magical aging.
 ***
 
 ### Divine Smite
-*Prerequisite: 1st•Level Spellcasting*
+*Prerequisite: 1st-Level Spellcasting*
 
-When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st•level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
+When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
 
 ***
 
@@ -438,7 +439,7 @@ You can select this feat a second time after 5th level, a third time after 11th 
 
 ***
 
-### Magic•Empowered Strikes
+### Magic-Empowered Strikes
 *Prerequisite: Martial Arts or Improved Beast Shape, 5th level*
 
 Your unarmed strikes and attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
@@ -448,7 +449,7 @@ If you have ki points, you also gain the ability to interfere with the ki in an 
 ***
 
 ### Arcane Recovery
-*Prerequisite: 1st•Level Spellcasting*
+*Prerequisite: 1st-Level Spellcasting*
 
 You have learned to regain some of your magical energy. When you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of 1, and none of the slots can be 6th level or higher.
 
@@ -542,7 +543,7 @@ You gain 2 sorcery points, which you regain when you finish a long rest. You als
 
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points.
 
-**Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. You can create spell slots no higher in level than 5th. A 1st•Level Spell Slot costs 2 Sorcery Points, a 2nd•Level costs 3 Sorcery Points, a 3rd•Level costs 5 Sorcery Points, a 4th•Level costs 6 Sorcery Points, and a 5th•Level costs 7 Sorcery Points.
+**Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. You can create spell slots no higher in level than 5th. A 1st-Level Spell Slot costs 2 Sorcery Points, a 2nd-Level costs 3 Sorcery Points, a 3rd-Level costs 5 Sorcery Points, a 4th-Level costs 6 Sorcery Points, and a 5th-Level costs 7 Sorcery Points.
 
 **Converting a Spell Slot to Sorcery Points.** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
@@ -561,9 +562,9 @@ Additionally, you can use an action to spend 5 sorcery points to roll directly o
 ***
 
 ### Spellbook
-*Prerequisite: 1st•Level Spellcasting*
+*Prerequisite: 1st-Level Spellcasting*
 
-Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st•level spells from your chosen school.
+Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st-level spells from your chosen school.
 
 **Copying a Spell into the Book.** When you find a spell of 1st level or higher from the chosen school of magic, you can add it to your spellbook if it is of a level you can cast and if you can spare the time to decipher and copy it.
 
@@ -580,9 +581,9 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 ***
 
 ### Signature Spell
-*Prerequisite: 9th•Level Spellcasting, Spellbook, 20th Level*
+*Prerequisite: 9th-Level Spellcasting, Spellbook, 20th Level*
 
-You gain mastery over a powerful spell and can cast it with little effort. Choose one 3rd•level spell from your spellbook as your signature spell. You always have this spell prepared, and you can cast it once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
+You gain mastery over a powerful spell and can cast it with little effort. Choose one 3rd-level spell from your spellbook as your signature spell. You always have this spell prepared, and you can cast it once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
 
 If you want to cast the spell at a higher level, you must expend a spell slot as normal.
 
@@ -601,7 +602,7 @@ If you want to transform into another beast shape, you must expend a use of Beas
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
-You can select one of the following eldritch invocations: Voice of the Chain Master, Thief of Five Fates, Repelling Blast, Misty Visions, Mask of Many Faces, Lance of Lethargy, Improved Pact Weapon, Grasp of Hadar, Gift of the Ever•Living Ones, Gaze of Two Minds, Fiendish Vigor, Eyes of the Rune Keeper, Eldritch Spear, Eldritch Sight, Devil's Sight, Book of Ancient Secrets, Beguiling Influence, Beast Speech, Aspect of the Moon, Armor of Shadows, Agonizing Blast.
+You can select one of the following eldritch invocations: Voice of the Chain Master, Thief of Five Fates, Repelling Blast, Misty Visions, Mask of Many Faces, Lance of Lethargy, Improved Pact Weapon, Grasp of Hadar, Gift of the Ever-Living Ones, Gaze of Two Minds, Fiendish Vigor, Eyes of the Rune Keeper, Eldritch Spear, Eldritch Sight, Devil's Sight, Book of Ancient Secrets, Beguiling Influence, Beast Speech, Aspect of the Moon, Armor of Shadows, Agonizing Blast.
 
 If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
 
@@ -663,12 +664,12 @@ This weapon counts as magical for the purpose of overcoming resistance and immun
 *Prerequisite: Weapon Bond*
 
 Your weapon attacks with your bonded weapon score a critical hit on a roll of 19 or 20.
-You can select this feat a second time after 15th level. When you do so, your weapon attacks with your bonded weapon score a critical hit on a roll of 18•20.
+You can select this feat a second time after 15th level. When you do so, your weapon attacks with your bonded weapon score a critical hit on a roll of 18-20.
 
 ***
 
 ### Infused Magic
-*Prerequisite: 1st•Level Spellcasting, 4th Level*
+*Prerequisite: 1st-Level Spellcasting, 4th Level*
 
 You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature. Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item. When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
 
