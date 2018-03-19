@@ -971,12 +971,6 @@ Your DM allow you to craft different magic items, but may specify required skill
 
 </div>
 
-<div class='footnote'>COMPARISON | ADVENTURER</div>
-
-<div class='footnote'>OPTIONAL RULES | ADVENTURER</div>
-
-<div class='pageNumber'>10</div>
-
 ## Optional Rules
 
 Listed here are a few notes and optional rules for using this class that can enhance or vary the way it performs.
