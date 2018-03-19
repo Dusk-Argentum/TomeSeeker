@@ -902,7 +902,7 @@ Your DM allow you to craft different magic items, but may specify required skill
 
 ## Number of Features Gained per Level
 | Level | Barbarian | Bard | Cleric | Druid | Fighter | Monk | Paladin | Ranger | Rogue | Sorcerer | Warlock | Wizard |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:-----:|:---------:|:----:|:------:|:-----:|:-------:|:----:|:-------:|:------:|:-----:|:--------:|:-------:|:------:|
 |  1st | 8 | 8 | 7 | 8 | 9 | 5 | 9 | 8 | 6 | 6 | 8 | 6
 |  2nd | 2 | 2 | 1 | 2 | 1 | 1 | 3 | 2 | 1 | 1 | 2 | 1
 |  3rd | 2 | 2 | 1 | 2 | 1 | 2 | 2 | 2 | 2 | 1 | 2 | 2
