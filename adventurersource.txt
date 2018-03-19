@@ -1,5 +1,3 @@
-***
-
 ### 1st-Level Spellcasting
 You learn four 1st-level spells of your choice from any spell list, and gain four 1st-level spell slots. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
 
@@ -59,7 +57,7 @@ You learn one 8th-level spells of your choice from any spell list, and gain one 
 
 You learn one 9th-level spells of your choice from any spell list, and gain one 9th-level spell slot. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take the feat.
 
-> ##### Spell Slots
+> #**Spell Slots
 > To cast one of 1st-level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 ***
@@ -255,22 +253,22 @@ You can select this feat a second time after 17th level. When you do so, you gai
 ### Fighting Style
 You adopt a particular style of fighting as your specialty. Choose a fighting style from the list of optional feats. You can select this feat multiple times. Each time you do so, you must select a different fighting style.
 
-#### Archery
+**Archery**
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-#### Defense
+**Defense**
 While you are wearing armor, you gain a +1 bonus to AC.
 
-#### Dueling
+**Dueling**
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
-#### Great Weapon Fighting
+**Great Weapon Fighting**
 When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
-#### Protection
+**Protection**
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-#### Two-Weapon Fighting
+**Two-Weapon Fighting**
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ***
@@ -278,17 +276,14 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 ### Extra Attack
 *Prerequisite: 5th Level*
 
-You gain the ability to attack twice, instead of once, whenever you take the Attack action on your turn.
-You can select this feat a second time after 11th level and a third time at 20th level. 
-Each time you do so your the number of attacks you can make when you take the Attack action increases by 1.
+You gain the ability to attack twice, instead of once, whenever you take the Attack action on your turn. You can select this feat a second time after 11th level and a third time at 20th level. Each time you do so your the number of attacks you can make when you take the Attack action increases by 1.
 
 ***
 
 ### Indomitable
 *Prerequisite: 9th Level*
 
-You gain the ability to reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
-You can select this feat multiple times. Each time you do so, you gain another use of this ability.
+You gain the ability to reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest. You can select this feat multiple times. Each time you do so, you gain another use of this ability.
 
 ***
 
@@ -297,8 +292,7 @@ You can select this feat multiple times. Each time you do so, you gain another u
 
 You gain proficiency with one type of artisan's tools of your choice. You gain one superiority dice, and your superiority dice turn from d6s to d8s.
 
-You can select this feat a second time after 10th level and a third time at 18th level.
-Each time you do so your superiority dice become one step larger (such as from d8s to d10s).
+You can select this feat a second time after 10th level and a third time at 18th level. Each time you do so your superiority dice become one step larger (such as from d8s to d10s).
 
 ***
 
@@ -414,22 +408,19 @@ If you are able to hear, you are aware of the location of any hidden or invisibl
 ***
 
 ### Quickened Action
-Choose three of the following actions: Dash, Disengage, Hide, Use an Object, Help, Search. You gain the ability to use any of the chosen actions as a bonus action on your turn.
-You can select this feat multiple times. Each time you do so, you can select three different actions.
+Choose three of the following actions: Dash, Disengage, Hide, Use an Object, Help, Search. You gain the ability to use any of the chosen actions as a bonus action on your turn. You can select this feat multiple times. Each time you do so, you can select three different actions.
 
 ***
 
 ### Sneak Attack
 You learn how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use Dexterity.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
-You can select this feat multiple times.
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll. You can select this feat multiple times.
 
 ***
 
 ### Expertise
-Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
-You can select this feat multiple times.
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. You can select this feat multiple times.
 
 ***
 
@@ -497,8 +488,7 @@ Once you use this feature, you can't use it again until you finish a long rest o
 ### Portent
 *Prerequisite: Spellbook (School of Divination), 2nd Level*
 
-Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
-You can select this feat a second time after 6th level, and a third time after 14th level. Each time you do so you roll another d20.
+Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls. You can select this feat a second time after 6th level, and a third time after 14th level. Each time you do so you roll another d20.
 
 ***
 
@@ -565,16 +555,7 @@ You gain 2 sorcery points, which you regain when you finish a long rest. You als
 
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points.
 
-**Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
-
-##### Creating Spell Slots
-| Spell Slot Level  | Sorcery Point Cost |
-|:---:|:-----------:|
-|  1st  | 2 |
-|  2nd  | 3 |
-|  3rd  | 5 |
-|  4th  | 6 |
-|  5th  | 7 |
+**Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. You can create spell slots no higher in level than 5th. A 1st-Level Spell Slot costs 2 Sorcery Points, a 2nd-Level costs 3 Sorcery Points, a 3rd-Level costs 5 Sorcery Points, a 4th-Level costs 6 Sorcery Points, and a 5th-Level costs 7 Sorcery Points.
 
 **Converting a Spell Slot to Sorcery Points.** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
@@ -605,8 +586,7 @@ A spell scroll from the chosen school of magic can be copied just as spells in s
 
 A spellbook doesn't contain cantrips.
 
-**Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
-If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, it may be wize to keep a backup spellbook in a safe place.
+**Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell. If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, it may be wize to keep a backup spellbook in a safe place.
 
 You can select this feat multiple times. Each time you do so, you must choose a different school of magic.
 
@@ -632,8 +612,7 @@ If you want to transform into another beast shape, you must expend a use of Beas
 
 ### Minor Invocation
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
-See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
 You can select one of the following eldritch invocations: Voice of the Chain Master, Thief of Five Fates, Repelling Blast, Misty Visions, Mask of Many Faces, Lance of Lethargy, Improved Pact Weapon, Grasp of Hadar, Gift of the Ever-Living Ones, Gaze of Two Minds, Fiendish Vigor, Eyes of the Rune Keeper, Eldritch Spear, Eldritch Sight, Devil's Sight, Book of Ancient Secrets, Beguiling Influence, Beast Speech, Aspect of the Moon, Armor of Shadows, Agonizing Blast.
 
@@ -646,8 +625,7 @@ You can select this feat multiple times. Each time you do so, you must select a 
 ### Moderate Invocation
 *Prerequisite: Minor Invocation, 5th Level*
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
-See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
 You can select one of the following eldritch invocations: Tome of Levistus, Thirsting Blade, Sign of Ill Omen, One with Shadows, Mire the Mind, Maddening Hex, Gift of the Depths, Eldritch Smite, Cloak of Flies, Trickster's Escape, Sculpter of Flesh, Relentless Hex, Ghostly Gaze, Dreadful Word, Bewitching Whispers. 
 
@@ -660,8 +638,7 @@ You can select this feat multiple times. Each time you do so, you must select a 
 ### Major Invocation
 *Prerequisite: Moderate Invocation, 9th Level*
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
-See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
 You can select one of the following eldritch invocations: Whispers of the Grave, Otherworldly Leap, Minions of Chaos, Ascendant Step.
 
@@ -674,8 +651,7 @@ You can select this feat multiple times. Each time you do so, you must select a 
 ### Grand Invocation
 *Prerequisite: Major Invocation, 15th Level*
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. 
-See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
 You can select one of the following eldritch invocations: Lifedrinker, Witch Sight, Visions of Distant Realms, Shroud of Shadow, Master of Myriad Forms, Chains of Carceri.
 
@@ -707,9 +683,7 @@ You can select this feat a second time after 15th level. When you do so, your we
 ### Infused Magic
 *Prerequisite: 1st-Level Spellcasting, 4th Level*
 
-You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature.
-Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item.
-When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
+You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature. Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item. When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
 
 ***
 
