@@ -60,9 +60,6 @@ You learn one 8th-level spells of your choice from any spell list, and gain one 
 
 You learn one 9th-level spells of your choice from any spell list, and gain one 9th-level spell slot. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take the feat.
 
-> #**Spell Slots
-> To cast one of 1st-level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-
 ***
 
 ### Improved Health
