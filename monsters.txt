@@ -17,3 +17,9 @@ STR: Low | CON: Low
 DEX: Low | INT: Low
 WIS: Low | CHA: Low
 1 Action
+
+***
+
+### Milf
+CR: 9
+HTP Whatever
