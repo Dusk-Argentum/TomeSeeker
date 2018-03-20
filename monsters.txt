@@ -2,18 +2,18 @@
 
 ### Alf
 *CR: 1/4*
-HTP: Low | ARC: Low
+`HTP: Low | ARC: Low
 STR: Low | CON: Low
 DEX: Low | INT: Low
 WIS: Low | CHA: Low
-1 Action
+1 Action`
 
 ***
 
 ### Elf
 *CR: 2*
-HTP: Low | ARC: Low
+`HTP: Low | ARC: Low
 STR: Low | CON: Low
 DEX: Low | INT: Low
 WIS: Low | CHA: Low
-1 Action
+1 Action`
