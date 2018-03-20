@@ -1,7 +1,7 @@
 ***
 
 ### Alf
-*CR: 1/4*
+CR: 1
 HTP: Low | ARC: Low
 STR: Low | CON: Low
 DEX: Low | INT: Low
@@ -11,7 +11,7 @@ WIS: Low | CHA: Low
 ***
 
 ### Elf
-*CR: 2*
+CR: 2
 HTP: Low | ARC: Low
 STR: Low | CON: Low
 DEX: Low | INT: Low
