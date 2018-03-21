@@ -728,3 +728,12 @@ You master the art of constructing magic items. You can spend an amount of gold 
 Additionally, the cost of crafting a magic item using the Major Invention feat is halved, and you can ignore the cost of crafting a magic item using the Moderate Invention feat.
 
 Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+
+***
+
+### Hoard Breaker
+*Prerequisite: 3rd Level*
+
+You learn the way to fight against a large number of foes simultaneously. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+
+You can select this feat a second time after 7th level, and a third time after 11th level. Each time you do so you can make another attack with the same weapon against a different creature that is within 5 feet of both of the original targets and is within reach of your weapon.
