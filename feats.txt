@@ -776,9 +776,9 @@ When you take take the Ready action to cast your chosen spell, you can impose di
 *Cantrips: Mage Hand.*
 
 When you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
-- You can stow one object the hand is holding in a container worn or carried by another creature.
-- You can retrieve an object in a container worn or carried by another creature.
-- You can use thieves' tools to pick lock and disarm traps at range.
+• You can stow one object the hand is holding in a container worn or carried by another creature.
+• You can retrieve an object in a container worn or carried by another creature.
+• You can use thieves' tools to pick lock and disarm traps at range.
 
 You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.
 In addition, you can use the bonus action granted by your Cunning Action to control the hand.
@@ -790,7 +790,7 @@ In addition, you can use the bonus action granted by your Cunning Action to cont
 Increase your Strength or Dexterity score by 1, up to a maximum of 20.
 
 You have undergone extensive aquatic training to gain the following benefits:
-- When you fall into water, you take no falling damage.
-- You gain a swim speed equal to your walking speed.
-- You can hold your breath a number of minutes equal to 2 + twice your Constitution modifier (minimum of 1 minute).
-- You can make unarmed strikes while underwater without disadvantage.
+• When you fall into water, you take no falling damage.
+• You gain a swim speed equal to your walking speed.
+• You can hold your breath a number of minutes equal to 2 + twice your Constitution modifier (minimum of 1 minute).
+• You can make unarmed strikes while underwater without disadvantage.
