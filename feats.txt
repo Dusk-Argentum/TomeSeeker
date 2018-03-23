@@ -753,7 +753,9 @@ You can add your spellcasting modifier to the damage rolls made with your chosen
 **Dualcast**
 *Cantrips: Thaumaturgy, Prestidigitation, Druidcraft, Mold Earth, Minor Illusion, Shape Water, Control Flames, Gust, Message, Light, Dancing Lights, Guidance, Resistance, True Strike, Shillelagh.*
 
-You cast your chosen cantrip twice in the same action. If it requires concentration, it is treated as a single spell.
+You cast your chosen cantrip twice in the same action. 
+
+If your chosen cantrip requires concentration, both effects are treated as part of the same spell. If you lose concentration of the spell, both effects end.
 
 **Touch of the Elemental**
 *Cantrips: Any cantrip with a damage roll.*
