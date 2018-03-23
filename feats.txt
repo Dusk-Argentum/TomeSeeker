@@ -771,3 +771,15 @@ For Thorn Whip, you choose either to push or pull the creature.
 *Cantrips: Any cantrip with a saving throw.*
 
 When you take take the Ready action to cast your chosen spell, you can impose disadvantage on the saving throw against a target by casting the spell immediately after their turn ends.
+
+***
+
+### Swimmer
+
+Increase your Strength or Dexterity score by 1, up to a maximum of 20.
+
+You have undergone extensive aquatic training to gain the following benefits:
+- When you fall into water, you take no falling damage.
+- You gain a swim speed equal to your walking speed.
+- You can hold your breath a number of minutes equal to 2 + twice your Constitution modifier (minimum of 1 minute).
+- You can make unarmed strikes while underwater without disadvantage.
