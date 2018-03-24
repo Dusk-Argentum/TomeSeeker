@@ -307,7 +307,14 @@ You become immune to disease and poison, and become immune to magical aging.
 ### Divine Smite
 *Prerequisite: 1st-Level Spellcasting, Acolyte*
 
-When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
+When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 6d8 (5th level spell slot). The damage increases by 1d8 if the target is an undead or a fiend, or if you have the Greater Favored Enemy feat and the target is the type of your Greater Favored Enemy.
+
+***
+
+### Improved Divine Smite
+*Prerequisite: 6th-Level Spellcasting, Divine Smite*
+
+The maximum for your Divine Smite damage increases to 11d8 (9th level spell slot). Additionally, whenever you hit an undead, a fiend or your Greater Favored Enemy with a melee weapon, the creature takes an extra 1d8 radiant damage.
 
 ***
 
