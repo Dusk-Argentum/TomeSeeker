@@ -608,6 +608,7 @@ If you want to transform into another beast shape, you must expend a use of Beas
 ***
 
 ### Minor Invocation
+*Prerequisite: Otherworldly Patron, 2nd Level*
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
 
@@ -786,6 +787,14 @@ When you cast mage hand, you can make the spectral hand invisible, and you can p
 
 You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.
 In addition, you can use the bonus action granted by your Cunning Action to control the hand.
+
+***
+
+### Otherworldly Patron
+
+You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. Choose a 1st-level spell from that patron's Expanded Spell List. You gain the ability to cast that spell once at its lowest level once per short or long rest without expending a spell slot. 
+
+You can select this feat a second time after 3rd level, a third time after 5th level, a fourth time after 7th level, and a fifth time after 9th level. Each time you do so, you can either choose the same patron or a different one. If you choose the same patron, you can select a spell of one level higher than the previous time you took this feat. If you choose a different patron, you must choose a 1st-level spell from their Expanded Spell List.
 
 ***
 
