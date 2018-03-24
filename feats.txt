@@ -105,6 +105,8 @@ You can select this feat up to five times. Each time, you can select a damage ty
 
 You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you prepare for the oncoming danger. Choose a saving throw. You can add the ability modifier chosen from Unarmored Defense (up to a maximum of +4) to that saving throw against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 
+You can select this feat multiple times. Each time you do so, you must choose a different saving throw.
+
 ***
 
 ### Brutal Critical
