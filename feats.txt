@@ -103,7 +103,7 @@ You can select this feat up to five times. Each time, you can select a damage ty
 ### Danger Sense
 *Prerequisite: Unarmored Defense*
 
-You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You can add the ability modifier chosen from Unarmored Defense (up to a maximum of +4) to your Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you prepare for the oncoming danger. Choose a saving throw. You can add the ability modifier chosen from Unarmored Defense (up to a maximum of +4) to that saving throw against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 
 ***
 
