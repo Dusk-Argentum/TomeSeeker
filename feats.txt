@@ -177,8 +177,10 @@ You can select this feat a second time after 9th level, a third time after 13th 
 ### Acolyte
 Choose a diety and one domain of the cleric domains, or one of the sacred oaths. You gain access to the domain or oath spells, which you always have it prepared. You also gain the Channel Divinity options for the selected domain or oath. See page 59 and 85 of the Player Handbook for a list of options.
 
+For Channel Divinity features that reference a Cleric Level, you are considered a 2nd Level Cleric.
+
 You gain the ability to channel divinity once per short or long rest. The DC for your channel divinity options is 8 + your proficiency bonus + your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat.
-You can select this feat multiple times. Each time you do so, you gain another use of Channel Divinity and can select a different domain.
+You can select this feat multiple times. Each time you do so, you gain another use of Channel Divinity and can select either the same domain or a a different domain. If you select the same domain, your Cleric Level for that domain's Channel Divinity increases by 2. If you select a different domain, you are considered a 2nd Level Cleric for that domain's Channel Divinity.
 
 ***
 
@@ -216,13 +218,6 @@ You can select this feat a second time after 6th level, a third time after 9th l
 *Prerequisite: Beast Shape*
 
 You gain the ability to transform into beasts that have a swimming speed or flying speed.
-
-***
-
-### Elemental Shape
-*Prerequisite: Improved Beast Shape (CR 3)*
-
-You gain the ability to expend two uses of Beast Shape at the same time to transform into an air elemental, an earth elemental, a fire elemental, or a water elemental.
 
 ***
 
