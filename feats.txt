@@ -180,6 +180,7 @@ Choose a diety and one domain of the cleric domains, or one of the sacred oaths.
 For Channel Divinity features that reference a Cleric Level, you are considered a 2nd Level Cleric.
 
 You gain the ability to channel divinity once per short or long rest. The DC for your channel divinity options is 8 + your proficiency bonus + your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat.
+
 You can select this feat multiple times. Each time you do so, you gain another use of Channel Divinity and can select either the same domain or a a different domain. If you select the same domain, your Cleric Level for that domain's Channel Divinity increases by 2. If you select a different domain, you are considered a 2nd Level Cleric for that domain's Channel Divinity.
 
 ***
