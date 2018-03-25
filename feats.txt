@@ -313,6 +313,15 @@ The maximum for your Divine Smite damage increases to 11d8 (9th-level spell slot
 
 ***
 
+### Elemental Smite
+*Prerequisite: Improved Divine Smite, Elemental Adept*
+
+When you roll damage for your Divine Smite, you may choose to change the damage type to the one chosen for Elemental Adept. This is treated as if it were from a spell, and ignore resistance, and you can treat any 1 on a damage die as a 2.
+
+You can select this feat multiple times, one for each time you have selected the Elemental Adept feat.
+
+***
+
 ### Uncommon Sense
 As an action, you can open your awareness to detect any celestial, fiend, or undead. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
 
