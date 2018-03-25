@@ -707,7 +707,7 @@ Your superior understanding of magic items allows you to master their use. You c
 
 You learn the secrets of the constructing magic items. You can spend an amount of gold equivalent to half the cost of the item and 24 hours of total time, not necessarily continuous, working to create an item from the following list: bag of holding, cap of water breathing, driftglobe, goggles of night, sending stones, alchemy jug, helm of comprehending languages, lantern of revealing, ring of swimming, robe of useful items, rope of climbing, wand of magic detection, wand of secrets.
 
-Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+Your DM may allow you to craft different magic items, but may specify required skill checks in order craft them.
 
 ***
 
@@ -718,7 +718,7 @@ You hone your skill in constructing magic items. You can spend an amount of gold
 
 Additionally, the cost of crafting a magic item using the Minor Invention feat is halved.
 
-Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+Your DM may allow you to craft different magic items, but may specify required skill checks in order craft them.
 
 ***
 
@@ -729,7 +729,7 @@ You further hone your skill in constructing magic items. You can spend an amount
 
 Additionally, the cost of crafting a magic item using the Moderate Invention feat is halved, and you can ignore the cost of crafting a magic item using the Minor Invention feat.
 
-Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+Your DM may allow you to craft different magic items, but may specify required skill checks in order craft them.
 
 ***
 
@@ -740,7 +740,7 @@ You master the art of constructing magic items. You can spend an amount of gold 
 
 Additionally, the cost of crafting a magic item using the Major Invention feat is halved, and you can ignore the cost of crafting a magic item using the Moderate Invention feat.
 
-Your DM allow you to craft different magic items, but may specify required skill checks in order craft them.
+Your DM may allow you to craft different magic items, but may specify required skill checks in order craft them.
 
 ***
 
