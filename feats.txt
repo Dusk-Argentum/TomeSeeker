@@ -175,7 +175,7 @@ You can select this feat a second time after 9th level, a third time after 13th 
 ***
 
 ### Acolyte
-Choose a diety and one domain of the cleric domains, or one of the sacred oaths. You gain access to the domain or oath spells, which you always have it prepared. You also gain the Channel Divinity options for the selected domain or oath. See page 59 and 85 of the Player Handbook for a list of options.
+Choose a diety and one domain of the cleric domains, or one of the sacred oaths. You gain access to the domain or oath spells, which you always have it prepared. You also gain the Turn Undead Channel Divinity as well as the Channel Divinity options for the selected domain or oath. See page 59 and 85 of the Player Handbook for a list of options.
 
 For Channel Divinity features that reference a Cleric Level, you are considered a 2nd Level Cleric.
 
@@ -316,9 +316,7 @@ The maximum for your Divine Smite damage increases to 11d8 (9th-level spell slot
 ### Elemental Smite
 *Prerequisite: Improved Divine Smite, Elemental Adept*
 
-When you roll damage for your Divine Smite, you may choose to change the damage type to the one chosen for Elemental Adept. This is treated as if it were from a spell, and ignore resistance, and you can treat any 1 on a damage die as a 2.
-
-You can select this feat multiple times, one for each time you have selected the Elemental Adept feat.
+When you roll damage for your Divine Smite, you may choose to change the damage type to the one chosen for Elemental Adept. This is treated as if it were from a spell, and ignore resistance, and you can treat any 1 on a damage die as a 2. You can select this feat multiple times, one for each time you have selected the Elemental Adept feat.
 
 ***
 
