@@ -672,9 +672,9 @@ You can select this feat multiple times. Each time you do so, you must select a 
 ### Weapon Bond
 *Prerequisite: 3rd Level*
 
-You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
-Once you have bonded a weapon to yourself, you have advantage on saving throws against being disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
-You can only have one bonded weapon. If you attempt to bond with another weapon, you must break the bond with the first weapon.
+You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. 
+
+Once you have bonded a weapon to yourself, you have advantage on saving throws against being disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. You can only have one bonded weapon. If you attempt to bond with another weapon, you must break the bond with the first weapon.
 
 This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
