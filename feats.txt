@@ -785,7 +785,7 @@ For Thorn Whip, you choose either to push or pull the creature.
 **Impeccable Timing**
 *Cantrips: Any cantrip with a saving throw.*
 
-When you take take the Ready action to cast your chosen spell, you can impose disadvantage on the saving throw against a target by casting the spell immediately after their turn ends.
+When you take take the Ready action to cast your chosen cantrip, you can impose disadvantage on the saving throw against a target by casting the cantrip immediately after their turn ends.
 
 **Mage Hand Legerdemain**
 *Cantrips: Mage Hand.*
