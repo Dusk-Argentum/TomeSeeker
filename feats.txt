@@ -310,7 +310,7 @@ When you hit a creature with a melee weapon attack, you can expend one spell slo
 ### Improved Divine Smite
 *Prerequisite: 6th-Level Spellcasting, Divine Smite*
 
-The maximum for your Divine Smite damage increases to 11d8 (9th-level spell slot). Additionally, whenever you hit an undead, a fiend or your Greater Favored Enemy with a melee weapon, the creature takes an extra 1d8 radiant damage.
+The maximum for your Divine Smite damage increases to 10d8 (9th-level spell slot). Additionally, whenever you hit an undead, a fiend or your Greater Favored Enemy with a melee weapon, the creature takes an extra 1d8 radiant damage.
 
 ***
 
