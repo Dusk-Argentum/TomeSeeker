@@ -425,7 +425,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 ***
 
 ### Evasion
-*Prerequisite: 7th Level*
+*Prerequisite: Proficiency in Dexterity Saving Throws, 7th Level*
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
