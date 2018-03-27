@@ -205,7 +205,7 @@ You gain the ability to use your action to magically assume the shape of a beast
 ***
 
 ### Improved Beast Shape
-*Prerequisite: Beast Shape*
+*Prerequisite: Beast Shape, 2nd Level*
 
 You gain the ability to use Beast Shape on your turn as a bonus action, rather than as an action. You can directly transform from one beast shape to another as a bonus action. 
 You can transform into beasts of CR 1, and can stay in beast shape for 1 hour. The beast cannot have a flying or swimming speed. 
