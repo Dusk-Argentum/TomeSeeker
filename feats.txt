@@ -817,3 +817,27 @@ You have undergone extensive aquatic training to gain the following benefits:
 • You gain a swim speed equal to your walking speed.
 • You can hold your breath a number of minutes equal to 2 + twice your Constitution modifier (minimum of 1 minute).
 • You can make unarmed strikes while underwater without disadvantage.
+
+***
+
+### Spellsneak
+*Prerequisite: Metamagic, Sneak Attack*
+
+When you fulfill the criteria for sneak attack with a ranged or melee spell attack, excluding the ranged or finesse weapon requirement, you can expend 1 sorcery point to apply your Sneak Attack damage to the attack.
+
+***
+
+### Targeted Strike
+*Prerequisite: Sneak Attack*
+
+When you fulfill the criteria for sneak attack, you can forgo the sneak attack damage and instead target one of the creature's body parts. Some of these targeted strikes require a saving throw. The DC for these saving throws is equal to 8 + your proficiency bonus + your Dexterity Modifier.
+
+**Arms.** On a hit, no damage is dealt, but the target drops one item of your choice.
+
+**Legs.** On a hit, the target must make a Strength saving throw or is knocked prone. This has no affect on creatures with a flying speed.
+
+**Wings.** On a hit, the target must make a Strength saving throw or plummets 20 ft. This only affects creatures that have flying speed granted by wings.
+
+**Head.** On a hit, the target must make a Constitution saving throw or have disadvantage on attacks until the end of their next turn.
+
+**Torso.** On a hit, the target must make a Constitution saving throw or have disadvantage on skill checks that use Strength and Dexterity until the end of their next turn.
