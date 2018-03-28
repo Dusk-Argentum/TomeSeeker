@@ -175,7 +175,7 @@ You can select this feat a second time after 9th level, a third time after 13th 
 ***
 
 ### Acolyte
-Choose a diety and one domain of the cleric domains, or one of the sacred oaths. You gain access to the domain or oath spells, which you always have it prepared. You also gain the Turn Undead Channel Divinity as well as the Channel Divinity options for the selected domain or oath. See page 59 and 85 of the Player Handbook for a list of options.
+Choose a deity and one domain of the cleric domains, or one of the sacred oaths. You gain access to the domain or oath spells, which you always have it prepared. You also gain the Turn Undead Channel Divinity as well as the Channel Divinity options for the selected domain or oath. See page 59 and 85 of the Player Handbook for a list of options.
 
 For Channel Divinity features that reference a Cleric Level, you are considered a 2nd Level Cleric.
 
