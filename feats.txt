@@ -830,7 +830,7 @@ When you fulfill the criteria for sneak attack with a ranged or melee spell atta
 ### Targeted Strike
 *Prerequisite: Sneak Attack*
 
-When you fulfill the criteria for sneak attack, you can forgo the sneak attack damage and instead target one of the creature's body parts. Some of these targeted strikes require a saving throw. The DC for these saving throws is equal to 8 + your proficiency bonus + your Dexterity Modifier.
+When you fulfill the criteria for sneak attack, you can forgo the sneak attack damage and take disadvantage on the attack roll to instead target one of the creature's body parts. Some of these targeted strikes require a saving throw. The DC for these saving throws is equal to 8 + your proficiency bonus + your Dexterity Modifier.
 
 **Arms.** On a hit, no damage is dealt, but the target drops one item of your choice.
 
