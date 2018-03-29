@@ -599,15 +599,6 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 
 ***
 
-### Signature Spell
-*Prerequisite: 9th-Level Spellcasting, Spellbook, 20th Level*
-
-You gain mastery over a powerful spell and can cast it with little effort. Choose one 3rd-level spell from your spellbook as your signature spell. You always have this spell prepared, and you can cast it once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
-
-If you want to cast the spell at a higher level, you must expend a spell slot as normal.
-
-***
-
 ### Spirit Animal Form
 *Prerequisite: Improved Beast Shape, 20th Level*
 
@@ -617,55 +608,61 @@ If you want to transform into another beast shape, you must expend a use of Beas
 
 ***
 
+### Spell Mastery (1st-Level)
+*Prerequisite: 9th-Level Spellcasting, Spellbook, 18th Level*
+
+You gain mastery over a basic spell and can cast it with no effort. When you take this feat, choose one 1st-level spell from your spellbook to master. You can cast this spells at its lowest level without expending a spell slot when you have them prepared. If you want to cast the spell at a higher level, you must expend a spell slot as normal.
+
+***
+
+### Spell Mastery (2nd-Level)
+*Prerequisite: Spell Mastery (1st-Level), 20th Level*
+
+You gain mastery over a powerful spell and can cast it with no effort. When you take this feat, choose one 2nd-level spell from your spellbook as your signature spell. You can cast this spells at its lowest level without expending a spell slot when you have them prepared. If you want to cast the spell at a higher level, you must expend a spell slot as normal.
+
+***
+
 ### Minor Invocation
 *Prerequisite: Otherworldly Patron, 2nd Level*
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions. You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
-You can select one of the following eldritch invocations: Voice of the Chain Master, Thief of Five Fates, Repelling Blast, Misty Visions, Mask of Many Faces, Lance of Lethargy, Improved Pact Weapon, Grasp of Hadar, Gift of the Ever-Living Ones, Gaze of Two Minds, Fiendish Vigor, Eyes of the Rune Keeper, Eldritch Spear, Eldritch Sight, Devil's Sight, Book of Ancient Secrets, Beguiling Influence, Beast Speech, Aspect of the Moon, Armor of Shadows, Agonizing Blast.
+You can select one of the following eldritch invocations: Voice of the Chain Master, Thief of Five Fates, Misty Visions, Mask of Many Faces, Improved Pact Weapon, Gift of the Ever-Living Ones, Gaze of Two Minds, Fiendish Vigor, Eyes of the Rune Keeper, Eldritch Sight, Devil's Sight, Book of Ancient Secrets, Beguiling Influence, Beast Speech, Aspect of the Moon, Armor of Shadows.
 
 If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
-
-You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
 ***
 
 ### Moderate Invocation
 *Prerequisite: Minor Invocation, 5th Level*
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions. You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
 You can select one of the following eldritch invocations: Tome of Levistus, Thirsting Blade, Sign of Ill Omen, One with Shadows, Mire the Mind, Maddening Hex, Gift of the Depths, Eldritch Smite, Cloak of Flies, Trickster's Escape, Sculpter of Flesh, Relentless Hex, Ghostly Gaze, Dreadful Word, Bewitching Whispers. 
 
 If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
-
-You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
 ***
 
 ### Major Invocation
 *Prerequisite: Moderate Invocation, 9th Level*
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions. You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
 You can select one of the following eldritch invocations: Whispers of the Grave, Otherworldly Leap, Minions of Chaos, Ascendant Step.
 
 If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
-
-You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
 ***
 
 ### Grand Invocation
 *Prerequisite: Major Invocation, 15th Level*
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanthur's Guide to Everything for a list of options and full descriptions. You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
 You can select one of the following eldritch invocations: Lifedrinker, Witch Sight, Visions of Distant Realms, Shroud of Shadow, Master of Myriad Forms, Chains of Carceri.
 
 If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
-
-You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
 ***
 
