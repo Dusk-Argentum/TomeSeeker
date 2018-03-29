@@ -820,6 +820,12 @@ You have undergone extensive aquatic training to gain the following benefits:
 
 ***
 
+###Tireless
+
+Your body has adapted to sleepless nights and grueling conditions. You treat your levels of exhaustion as halved (rounded down), and suffer the effects accordingly. Additionally, when you are affected by the sleep spell, you are treated as having twice as many hit points for the purpose of resolving that spell.
+
+***
+
 ### Spellsneak
 *Prerequisite: Metamagic, Sneak Attack*
 
