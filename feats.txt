@@ -845,6 +845,6 @@ When you fulfill the criteria for sneak attack, you can forgo the sneak attack d
 ***
 
 ### Artisan Rage
-*PREREQUISITE:* Rage, Proficiency with one set of Artisan's Tools
+*Prerequisite:* Rage, Proficiency with one set of Artisan's Tools
 
 WHILE RAGING, YOU HAVE ADVANTAGE ON CHECKS MADE WITH ARTISAN'S TOOLS. YOUR RAGE DOESN'T END AS LONG AS YOU'RE WORKING WITH YOUR ARTISAN TOOLS.
