@@ -853,3 +853,23 @@ When you fulfill the criteria for sneak attack, you can forgo the sneak attack d
 You have learned how to harness your rage for your craft, and how to harness your craft for combat. You may use your artisan's tools im combat. They deal 1d6 damage, of a type that is reasonable for the tool.
 
 While raging, you have advantage on checks made with artisan tools. Your rage doesn't end as long as you're working with your artisan tools.
+ 
+***
+ 
+### Open Hand Technique
+*Prerequisite:* Martial Arts, 3rd Level
+
+You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with an unarmed strike, you spend 1 ki point to impose one of the following effects on that target.
+
+- It must succeed on a Dexterity saving throw or be knocked prone.
+- It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+- It can't take reactions until the end of your next turn.
+
+***
+
+### Quivering Palm
+*Prerequisite:* Open Hand Technique, 17th Level
+
+You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
+
+You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
