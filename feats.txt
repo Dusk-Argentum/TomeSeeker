@@ -841,3 +841,10 @@ When you fulfill the criteria for sneak attack, you can forgo the sneak attack d
 **Head.** On a hit, the target must make a Constitution saving throw or have disadvantage on attacks until the end of their next turn.
 
 **Torso.** On a hit, the target must make a Constitution saving throw or have disadvantage on skill checks that use Strength and Dexterity until the end of their next turn.
+
+***
+
+### ARTISAN RAGE
+*PREREQUISITE:* RAGE, PROFICIENCY WITH ONE SET OF ARTISAN TOOLS
+
+WHILE RAGING, YOU HAVE ADVANTAGE ON CHECKS MADE WITH ARTISAN'S TOOLS. YOUR RAGE DOESN'T END AS LONG AS YOU'RE WORKING WITH YOUR ARTISAN TOOLS.
