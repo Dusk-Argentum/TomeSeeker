@@ -583,7 +583,7 @@ You gain the ability to twist fate using your wild magic. When another creature 
 ### Spellbook
 *Prerequisite: 1st-Level Spellcasting*
 
-Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st-level spells from your chosen school.
+Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st-level spells from your chosen school. You can change your list of prepared spells when you finish a long rest. Preparing a new list of spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. You can prepare a number of spells equal to your spellcasting modifier + your proficiency bonus.
 
 **Copying a Spell into the Book.** When you find a spell of 1st level or higher from the chosen school of magic, you can add it to your spellbook if it is of a level you can cast and if you can spare the time to decipher and copy it.
 
