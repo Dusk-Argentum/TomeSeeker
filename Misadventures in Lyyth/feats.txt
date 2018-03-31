@@ -609,7 +609,7 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 ### Spirit Animal Form
 *Prerequisite: Improved Beast Shape, 20th Level*
 
-You gain mastery over a specific beast shape and can transform into it with little effort. Choose one beast of CR 6 or lower. You gain the ability to transform into it an unlimited number of times.
+You gain mastery over a specific beast shape and can transform into it with little effort. Choose one of your Improved Beast Shape forms. You gain the ability to transform into that form an unlimited number of times.
 
 If you want to transform into another beast shape, you must expend a use of Beast Shape as normal.
 
