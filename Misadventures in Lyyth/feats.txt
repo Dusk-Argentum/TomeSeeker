@@ -181,7 +181,7 @@ Choose a deity and one domain of the cleric domains, or one of the sacred oaths.
 
 **Paladin.** You gain access to the oath's 1st-level spells, which you always have it prepared. You also gain the oath's Channel Divinity Options. See page 85 of the Player Handbook for a list of options. Additionally, you can expend a number of uses of your Channel Divinity equal to the level of a spell from your oath spells in order to cast it at its lowest level.
 
-You can select this feat multiple times. Each time you do so, you gain another use of Channel Divinity and can select either the same oath or domain, or a a different oath or domain. If you select the same domain, your Cleric Level for that domain's Channel Divinity increases by 2, and you gain access to the domain spells of 1 level higher.
+You can select this feat multiple times. Each time you do so, you gain another use of Channel Divinity and can select either the same oath or domain, or a a different oath or domain. If you select the same oath or domain, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, and 9th level for the fifth time. Your Cleric Level for that domain's Channel Divinity increases by 2, and you gain access to the oath or domain spells of 1 level higher.
 
 ***
 
@@ -806,9 +806,9 @@ In addition, you can use the bonus action granted by your Cunning Action to cont
 
 ### Otherworldly Patron
 
-You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. Choose a 1st-level spell from that patron's Expanded Spell List. You gain the ability to cast that spell once at its lowest level once per short or long rest without expending a spell slot. 
+You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You gain the ability to cast each 1st-level spells from that patron's Expanded Spell List once at its lowest level without expending a spell slot. You can do this once per short or long rest for each 1st-level spell.
 
-You can select this feat a second time after 3rd level, a third time after 5th level, a fourth time after 7th level, and a fifth time after 9th level. Each time you do so, you can either choose the same patron or a different one. If you choose the same patron, you can select a spell of one level higher than the previous time you took this feat. If you choose a different patron, you must choose a 1st-level spell from their Expanded Spell List.
+You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You gain the ability to cast from that patron's expanded spell list of one level higher than the previous time you took this feat.
 
 ***
 
