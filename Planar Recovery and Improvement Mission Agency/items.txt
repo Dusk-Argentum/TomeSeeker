@@ -1,0 +1,4 @@
+### Potion of Healing
+*Worth: 5gp | Rarity: Common*
+Heals 2d8+4 HP. Use `!pot` to consume during battle. You can also do this outside of battle but you'll have to manually add your HP.
+https://images-ext-2.discordapp.net/external/K9Ldy_mJ8IJP1xJUTd7eYirlg75b3pUOBpZuSByo7uE/https/cdn.discordapp.com/attachments/348897378062827520/408844809332064266/NormalPot.png
