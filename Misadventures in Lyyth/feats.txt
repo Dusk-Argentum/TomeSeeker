@@ -760,39 +760,39 @@ You can select this feat a second time after 7th level, and a third time after 1
 ### Spellbend
 *Prerequisite: The ability to cast a cantrip, 2nd Level.*
 
-Select a cantrip you know. You gain one the following abilities, affecting only the chosen cantrip. You can select this feat multiple times. Each time you do so, you can either choose the same cantrip or a different one.
+Choose two of the following effects. For each effect, you must choose a cantrip you know for it to apply to. You can select this feat multiple times. Each time you do so, must choose two different effects.
 
 **Arcanist's Arms**
-*Cantrips: Any cantrip with a damage roll.*
+*Any cantrip with a damage roll.*
 
 You can add your spellcasting modifier to the damage rolls made with your chosen cantrip.
 
 **Dualcast**
-*Cantrips: Thaumaturgy, Prestidigitation, Druidcraft, Mold Earth, Minor Illusion, Shape Water, Control Flames, Gust, Message, Light, Dancing Lights, Guidance, Resistance, True Strike, Shillelagh.*
+*Thaumaturgy, Prestidigitation, Druidcraft, Mold Earth, Minor Illusion, Shape Water, Control Flames, Gust, Message, Light, Dancing Lights, Guidance, Resistance, True Strike, Shillelagh.*
 
 You cast your chosen cantrip twice in the same action. 
 
 If your chosen cantrip requires concentration, both effects are treated as part of the same spell. If you lose concentration of the spell, both effects end.
 
 **Touch of the Elemental**
-*Cantrips: Any cantrip with a damage roll.*
+*Any cantrip with a damage roll.*
 
 Choose a damage type. Whenever you cast your chosen cantrip, you can chose whether to cast it with its original damage type or with your chosen damage type. This abilities can be chosen multiple times for the same cantrip.
 
 **Heavy Blow**
-*Cantrips: Booming Blade, Green-Flame Blade, Any cantrip with a melee or ranged spell attack.*
+*Booming Blade, Green-Flame Blade, Any cantrip with a melee or ranged spell attack.*
 
 When you hit a creature with your chosen cantrip, you can push the creature up to 10 feet away from you in a straight line. 
 
 For Thorn Whip, you choose either to push or pull the creature.
 
 **Impeccable Timing**
-*Cantrips: Any cantrip with a saving throw.*
+*Any cantrip with a saving throw.*
 
 When you take take the Ready action to cast your chosen cantrip, you can impose disadvantage on the saving throw against a target by casting the cantrip immediately after their turn ends.
 
 **Mage Hand Legerdemain**
-*Cantrips: Mage Hand.*
+*Mage Hand.*
 
 When you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
 • You can stow one object the hand is holding in a container worn or carried by another creature.
