@@ -446,15 +446,15 @@ You become so evasive that attackers rarely gain the upper hand against you. No 
 ***
 
 ### Martial Arts
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes. You gain 2 ki points, which you regain when you finish a short or long rest, and you gain the following benefits while you are unarmed.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes. You gain 4 ki points, which you regain when you finish a short or long rest, and you gain the following benefits while you are unarmed.
 
 • You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes.
 • You can roll a d4 in place of the normal damage of your unarmed strike. This dice size increases if you select this feat again.
 • When you use the Attack action on your, you can make one unarmed strike as a bonus action or you can spend 1 ki point to make two unarmed strikes as a bonus action.
-• You can use your reaction to deflect the weapon or missile when you are hit by a melee or ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d4 + your choice of your Strength or Dexterity modifier + your proficiency bonus. This dice size increases if you select this feat again.
+• You can spend 1 ki point to use your reaction to deflect the weapon or missile when you are hit by a melee or ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d4 + your choice of your Strength or Dexterity modifier + your proficiency bonus. This dice size increases if you select this feat again.
 • You can spend 1 ki point to take the Dodge action as a bonus action.
 
-You can select this feat a second time after 5th level, a third time after 11th level, and a fourth time after 17th level. Each time you do so you gain 2 additional ki points and you can replace the damage of your unarmed strike and the reduction from weapon deflection with a die one step larger (such as from 1d4 to 1d6).
+You can select this feat a second time after 5th level, a third time after 11th level, and a fourth time after 17th level. Each time you do so you gain 4 additional ki points and you can replace the damage of your unarmed strike and the reduction from weapon deflection with a die one step larger (such as from 1d4 to 1d6).
 
 ***
 
