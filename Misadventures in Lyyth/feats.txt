@@ -168,6 +168,13 @@ Each time you do so your assistance dice become one step larger (such as from d8
 
 ***
 
+### Shadow Step
+*Prerequisites: Proficiency in Stealth, 3rd level*
+
+You gain the ability to step from one shadow into another. When you take the Hide action in dim light or darkness, you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness.
+
+***
+
 ### Song of Rest
 You learn to use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points.
 You can select this feat a second time after 9th level, a third time after 13th level, and a fourth time after 17th level. Each time you do so your song of rest dice become one step larger (such as from 1d6 to 1d8).
@@ -690,7 +697,7 @@ You can select this feat a second time after 15th level. When you do so, your we
 ***
 
 ### Infused Magic
-*Prerequisite: 1st-Level Spellcasting, 4th Level*
+*Prerequisite: 1st-Level Spellcasting*
 
 You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature. Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item. When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
 
