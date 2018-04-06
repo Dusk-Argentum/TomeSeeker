@@ -699,7 +699,7 @@ You can select this feat a second time after 15th level. When you do so, your we
 ### Infused Magic
 *Prerequisite: 1st-Level Spellcasting*
 
-You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you expend a spell slot, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature. Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item. When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
+You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you cast the spell, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature. Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item. If the spell requires concentration, the creature that activates the item must concentrate on it. When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
 
 ***
 
@@ -846,15 +846,13 @@ When you fulfill the criteria for sneak attack with a ranged or melee spell atta
 
 When you fulfill the criteria for sneak attack, you can forgo the sneak attack damage and take disadvantage on the attack roll to instead target one of the creature's body parts. Some of these targeted strikes require a saving throw. The DC for these saving throws is equal to 8 + your proficiency bonus + your Dexterity Modifier.
 
-**Arms.** On a hit, no damage is dealt, but the target drops one item of your choice.
+**Arms.** The target must make a Strength saving throw or drop one item of your choice.
 
-**Legs.** On a hit, the target must make a Strength saving throw or is knocked prone. This has no affect on creatures with a flying speed.
+**Legs/Wings.** The target must make a Strength saving throw or is knocked prone.
 
-**Wings.** On a hit, the target must make a Strength saving throw or plummets 20 ft. This only affects creatures that have flying speed granted by wings.
+**Head.** The target must make a Constitution saving throw or have disadvantage on attacks until the end of their next turn.
 
-**Head.** On a hit, the target must make a Constitution saving throw or have disadvantage on attacks until the end of their next turn.
-
-**Torso.** On a hit, the target must make a Constitution saving throw or have disadvantage on skill checks that use Strength and Dexterity until the end of their next turn.
+**Torso.** The target must make a Constitution saving throw or have disadvantage on skill checks that use Strength and Dexterity until the end of their next turn.
 
 ***
 
