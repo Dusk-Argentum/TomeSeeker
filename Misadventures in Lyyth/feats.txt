@@ -885,3 +885,13 @@ You can have only one creature under the effect of this feature at a time. You c
 *Prerequisite: Alert, 17th Level*
 
 You have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any Combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
+
+***
+
+### Monastic Weapon Training
+*Prerequisite: Martial Arts*
+
+You have trained in the four traditional monk weapons. You gain proficiency with quarterstaves, spears, scimitars, and longswords, and gain the following benefits while wielding one of those weapons:
+• When you use the Attack action on your, you can spend 1 ki point to make one weapon attack as a bonus action.
+• You can use Dexterity instead of Strength for the attack and damage rolls for these weapons.
+• You can use Unarmed Strikes and deflect attacks as per the Martial Arts feat.
