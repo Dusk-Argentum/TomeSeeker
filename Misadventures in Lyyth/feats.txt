@@ -894,4 +894,5 @@ You have become adept at laying ambushes and quickly escaping danger. You can ta
 You have trained in the four traditional monk weapons. You gain proficiency with quarterstaves, spears, scimitars, and longswords, and gain the following benefits while wielding one of those weapons:
 • When you use the Attack action on your, you can spend 1 ki point to make one weapon attack as a bonus action.
 • You can use Dexterity instead of Strength for the attack and damage rolls for these weapons.
-• You can use Unarmed Strikes and deflect attacks as per the Martial Arts feat.
+• You can use abilities granted to you by the Martial Arts feat.
+
