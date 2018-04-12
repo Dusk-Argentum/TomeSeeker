@@ -896,3 +896,16 @@ You have trained in the four traditional monk weapons. You gain proficiency with
 • You can use Dexterity instead of Strength for the attack and damage rolls for these weapons.
 • You can use abilities granted to you by the Martial Arts feat.
 
+***
+
+### War Magic
+*Prerequisite: Extra Attack, The ability to cast a cantrip*
+
+When you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
+
+***
+
+### Improved War Magic
+*Prerequisite: War Magic, 1st-Level Spellcasting, 18th Level*
+
+When you use your action to cast a spell, you can make one weapon attack as a bonus action.
