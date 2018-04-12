@@ -177,12 +177,6 @@ You gain the ability to step from one shadow into another. When you take the Hid
 
 ***
 
-### Song of Rest
-You learn to use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points.
-You can select this feat a second time after 9th level, a third time after 13th level, and a fourth time after 17th level. Each time you do so your song of rest dice become one step larger (such as from 1d6 to 1d8).
-
-***
-
 ### Acolyte
 Choose a deity and one domain of the cleric domains, or one of the sacred oaths. You gain the ability to channel divinity once per short or long rest. The DC for your channel divinity options is 8 + your proficiency bonus + your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat.
 
