@@ -150,9 +150,11 @@ You can add half your proficiency bonus, rounded down, to any ability check you 
 ***
 
 ### Assistance
-You learn to instruct, guide, or inspire others through logical commands, personal advice or anecdotes, or stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Assistance die, a d6.
+You learn to instruct, guide, or inspire others through logical commands, personal advice or anecdotes, or stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one assistance die, a d6.
 
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Assistance die, but must decide before the DM says whether the roll succeeds or fails. Once the Assistance die is rolled, it is lost. A creature can have only one Assistance die at a time.
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the assistance die, but must decide before the DM says whether the roll succeeds or fails. Once the assistance die is rolled, it is lost. A creature can have only one assistance die at a time.
+
+During a short rest, you can spend 1 assistance die to heal any friendly creatures within 60 feet by the amount rolled.
 
 You have a number of assistance dice equal to your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat. You regain any expended uses when you finish a long rest.
 
