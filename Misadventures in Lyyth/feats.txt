@@ -129,7 +129,7 @@ Each time you use this feat after the first, the DC increases by 5. When you fin
 ***
 
 ### Reliable Skill
-*Prerequisite: 18th Level*
+*Prerequisite: 11th Level*
 
 Choose an ability score. For any skill check using this ability and in which you are proficient, if your total for that check is less than your chosen ability score, you can use that score in place of the total.
 You can select this feat multiple times. Each time you do so, you must choose a different ability score.
