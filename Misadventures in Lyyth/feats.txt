@@ -279,7 +279,7 @@ You gain the ability to reroll a saving throw that you fail. If you do so, you m
 ### Combat Superiority
 *Prerequisite: Martial Adept (Player Handbook pg. 168)*
 
-You learn two additional maneuver of your choice from among those available to the Battle Master archetype in the fighter class. You gain two superiority dice, and your superiority dice turn from d6s to d8s. You can select this feat a second time after 10th level and a third time at 18th level. Each time you do so your superiority dice become one step larger (such as from d8s to d10s).
+You learn one additional maneuver of your choice from among those available to the Battle Master archetype in the fighter class. You gain one superiority dice, and your superiority dice turn from d6s to d8s. You can select this feat a second time after 10th level and a third time at 18th level. Each time you do so your superiority dice become one step larger (such as from d8s to d10s).
 
 ***
 
