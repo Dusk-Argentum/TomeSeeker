@@ -355,7 +355,7 @@ You gain the ability to use your action to end one spell on yourself or on one w
 ***
 
 ### Extended Aura
-*Prerequisite: Aura of Protection, Aura of Courage, 18th Level*
+*Prerequisite: Aura of Courage, 18th Level*
 
 The range of your Aura of Protection and Aura of Courage increases to 30 feet.
 
