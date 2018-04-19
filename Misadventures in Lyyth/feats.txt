@@ -284,11 +284,9 @@ You learn one additional maneuver of your choice from among those available to t
 ***
 
 ### Lay on Hands
-You gain a pool of 10 hit points that replenishes when you take a long rest. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+You gain a pool of 10 hit points that replenishes when you take a long rest. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool. Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one. This feat has no effect on undead and constructs. 
 
-Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
-
-This feat has no effect on undead and constructs.
+If you have the Martial Arts feat, you can spend 1 ki to replace one unarmed strikes with a use of this feature.
 
 You can select this feat multiple times. Each time you do so, your pool of hit points for this feature increases by 10. 
 
@@ -423,7 +421,7 @@ You don't need advantage on the attack roll if another enemy of the target is wi
 ### Assassinate
 *Prerequisite: Sneak Attack, 3rd Level*
 
-You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, when you hit a creature that is surprised, roll twice as many dice for your Sneak Attack damage.
+You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, when you hit a creature that is surprised, roll twice as many dice for your Sneak Attack damage. If this attack is a critical hit, the sneak attack dice do not get doubled again.
 
 ***
 
@@ -833,21 +831,6 @@ When you fulfill the criteria for sneak attack with a ranged or melee spell atta
 
 ***
 
-### Targeted Strike
-*Prerequisite: Sneak Attack*
-
-When you fulfill the criteria for sneak attack, you can forgo the sneak attack damage and take disadvantage on the attack roll to instead target one of the creature's body parts. Some of these targeted strikes require a saving throw. The DC for these saving throws is equal to 8 + your proficiency bonus + your Dexterity Modifier.
-
-**Arms.** The target must make a Strength saving throw or drop one item of your choice.
-
-**Legs/Wings.** The target must make a Strength saving throw or is knocked prone.
-
-**Head.** The target must make a Constitution saving throw or have disadvantage on attacks until the end of their next turn.
-
-**Torso.** The target must make a Constitution saving throw or have disadvantage on skill checks that use Strength and Dexterity until the end of their next turn.
-
-***
-
 ### Artisan Rage
 *Prerequisite: Rage, Proficiency with one set of Artisan Tools*
 
@@ -887,10 +870,11 @@ You have become adept at laying ambushes and quickly escaping danger. You can ta
 ### Monastic Weapon Training
 *Prerequisite: Martial Arts*
 
-You have trained in the four traditional monk weapons. You gain proficiency with quarterstaves, spears, scimitars, and longswords, and gain the following benefits while wielding one of those weapons:
-• When you use the Attack action on your, you can spend 1 ki point to make one weapon attack as a bonus action.
+You have trained in the four traditional monk weapons. Choose one melee and one ranged weapon. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. The longbow is also a valid choice. You gain proficiency with these weapons if you don't already have it. You gain the following benefits while wielding one of those weapons:
+
+• When you use the Attack action on your turn, you can spend 1 ki point to make one weapon attack as a bonus action.
 • You can use Dexterity instead of Strength for the attack and damage rolls for these weapons.
-• You can use abilities granted to you by the Martial Arts feat.
+• You can use abilities granted to you by the Martial Arts feat as if you were unarmed.
 
 ***
 
