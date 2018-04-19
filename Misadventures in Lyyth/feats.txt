@@ -421,7 +421,7 @@ You don't need advantage on the attack roll if another enemy of the target is wi
 ### Assassinate
 *Prerequisite: Sneak Attack, 3rd Level*
 
-You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, when you hit a creature that is surprised, roll twice as many dice for your Sneak Attack damage. If this attack is a critical hit, the sneak attack dice do not get doubled again.
+You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, when you hit a creature that is surprised, roll twice as many dice for your Sneak Attack damage. If this attack is a critical hit, the Sneak Attack damage does not get doubled again.
 
 ***
 
@@ -827,7 +827,7 @@ Your body has adapted to sleepless nights and grueling conditions. You treat you
 ### Spellsneak
 *Prerequisite: Metamagic, Sneak Attack*
 
-When you fulfill the criteria for sneak attack with a ranged or melee spell attack, excluding the ranged or finesse weapon requirement, you can expend 1 sorcery point to apply your Sneak Attack damage to the attack.
+When you fulfill the criteria for Sneak Attack with a ranged or melee spell attack, excluding the ranged or finesse weapon requirement, you can expend 1 sorcery point to apply your Sneak Attack damage to the attack.
 
 ***
 
