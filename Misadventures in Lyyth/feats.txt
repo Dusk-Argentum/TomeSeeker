@@ -178,7 +178,7 @@ You gain the ability to step from one shadow into another. When you take the Hid
 ***
 
 ### Acolyte
-Choose a deity and one domain of the cleric domains, or one of the sacred oaths. You gain the ability to channel divinity once per short or long rest. The DC for your channel divinity options is 8 + your proficiency bonus + your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat.
+Choose a deity and one domain of the cleric domains, or one of the sacred oaths. You gain the ability to channel divinity once per short or long rest. The DC for your channel divinity options is 8 + your proficiency bonus + your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat. You gain the ability to use holy symbols as your spellcasting focus.
 
 **Cleric.** You gain access to the domain's 1st-level spells, which you always have it prepared. You also gain the Turn Undead Channel Divinity as well as the 2nd level Channel Divinity options for the selected domain or oath. See page 59 of the Player Handbook for a list of options. For Channel Divinity features that reference a Cleric Level, you are considered a 2nd Level Cleric for using that domain's Channel Divinity. Additionally, you can expend a number of uses of your Channel Divinity equal to the level of a spell from your domain spells in order to cast it at its lowest level.
 
@@ -558,7 +558,7 @@ You can select this feat multiple times. Each time you do so, your familiar eith
 ### Metamagic
 *Prerequisite: 1st-Level Spellcasting, 3rd Level*
 
-You gain 3 sorcery points, which you regain when you finish a long rest. You also gain the ability to twist your spells to suit your needs. You gain one Metamagic option of your choice. See page 102 of the Player Handbook for a list of options. You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points.
+You gain 3 sorcery points, which you regain when you finish a long rest. You also gain the ability to twist your spells to suit your needs. You gain one Metamagic option of your choice. See page 102 of the Player Handbook for a list of options. You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You gain the ability to use crystals and orbs as your spellcasting focus.
 
 **Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. You can create spell slots no higher in level than 5th. A 1st-Level Spell Slot costs 2 Sorcery Points, a 2nd-Level costs 3 Sorcery Points, a 3rd-Level costs 5 Sorcery Points, a 4th-Level costs 6 Sorcery Points, and a 5th-Level costs 7 Sorcery Points.
 
@@ -588,7 +588,9 @@ You gain the ability to twist fate using your wild magic. When another creature 
 ### Spellbook
 *Prerequisite: 1st-Level Spellcasting*
 
-Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st-level spells from your chosen school. You can change your list of prepared spells when you finish a long rest. Preparing a new list of spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. You can prepare a number of spells equal to your spellcasting modifier + your proficiency bonus.
+Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st-level spells from your chosen school. You can change your list of prepared spells when you finish a long rest. Preparing a new list of spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. You can prepare a number of spells equal to your spellcasting modifier + your proficiency bonus. You gain the ability to use your spellbook as your spellcasting focus.
+
+If you have a spellbook from another feat such as Ritual Caster, you may use the same book for both feats.
 
 **Copying a Spell into the Book.** When you find a spell of 1st level or higher from the chosen school of magic, you can add it to your spellbook if it is of a level you can cast and if you can spare the time to decipher and copy it.
 
@@ -800,7 +802,7 @@ In addition, you can use the bonus action granted by your Cunning Action to cont
 
 ### Otherworldly Patron
 
-You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You gain the ability to cast each 1st-level spells from that patron's Expanded Spell List once at its lowest level without expending a spell slot. You can do this once per short or long rest for each 1st-level spell.
+You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You gain the ability to cast each 1st-level spells from that patron's Expanded Spell List once at its lowest level without expending a spell slot. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat. You gain the ability to use rods, staves, and wands as your spellcasting focus.
 
 You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You gain the ability to cast from that patron's expanded spell list of one level higher than the previous time you took this feat.
 
