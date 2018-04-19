@@ -870,7 +870,7 @@ You have become adept at laying ambushes and quickly escaping danger. You can ta
 ### Monastic Weapon Training
 *Prerequisite: Martial Arts*
 
-You have trained in the four traditional monk weapons. Choose one melee and one ranged weapon. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. The longbow is also a valid choice. You gain proficiency with these weapons if you don't already have it. You gain the following benefits while wielding one of those weapons:
+Choose one melee and one ranged weapon. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. The longbow is also a valid choice. You gain proficiency with these weapons if you don't already have it. You gain the following benefits while wielding one of those weapons:
 
 • When you use the Attack action on your turn, you can spend 1 ki point to make one weapon attack as a bonus action.
 • You can use Dexterity instead of Strength for the attack and damage rolls for these weapons.
