@@ -314,7 +314,7 @@ The maximum for your Divine Smite damage increases to 10d8 (9th-level spell slot
 ***
 
 ### Elemental Smite
-*Prerequisite: Improved Divine Smite, Elemental Adept*
+*Prerequisite: Divine Smite, Elemental Adept*
 
 When you roll damage for your Divine Smite, you may choose to change the damage type to the one chosen for Elemental Adept. This is treated as if it were from a spell, and ignore resistance, and you can treat any 1 on a damage die as a 2. You can select this feat multiple times, one for each time you have selected the Elemental Adept feat.
 
@@ -548,11 +548,11 @@ If you create a new transmuter's stone, the previous one ceases to function.
 ### Improved Familiar
 *Prerequisite: Find Familiar Spell, 3rd Level*
 
-You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the Find Familiar spell to summon a more powerful companion. Your familiar can take the following forms: ape, black bear, boar, giant badger, giant weasel, mule, panther, wolf, imp, pseudodragon, quasit, or sprite. 
+You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the Find Familiar spell to summon a more powerful companion. Your familiar can take the form of any beast of CR 1/8. 
 
 Your familiar can attack, but loses Multiattack action, if it has one. Additionally, if you have the Extra Attack feat, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
 
-You can select this feat multiple times. Each time you do so, your familiar either gains an additional hit dice and increases its hit points accordingly, or can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your familiar can't increase an ability score above 20 using this feature unless its description specifies otherwise.
+You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 119th level. The CR of beasts you can summon as familiars into increases to CR 1/4 after the second time, CR 1/2 after the third time, CR 1 the fourth time, and CR 2 the fifth time.
 
 ***
 ### Metamagic
@@ -891,3 +891,46 @@ When you use your action to cast a cantrip, you can make one weapon attack as a 
 *Prerequisite: War Magic, 1st-Level Spellcasting, 18th Level*
 
 When you use your action to cast a spell, you can make one weapon attack as a bonus action.
+
+***
+
+### Retaliation
+*Prequisites: 14th Level*
+
+When you are hit by a melee attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature and that you can reach it with a melee attack.
+
+If you have the Favored Enemy feat and the creature is the type of your Favored Enemy, you can use this feature even if the attack missed you.
+
+***
+
+### Multiattack Defense
+*Prequisite: 7th Level*
+
+When an enemy hits you with an attack, you gain a +2 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
+
+If you have the Favored Enemy feat and the creature is the type of your Favored Enemy, you gain a +4 bonus to AC instead.
+
+***
+
+### Dirty Tricks
+*Prerequisite: Sneak Attack, 3rd Level*
+
+When you take this feat, choose two tricks. When you fulfill the criteria for Sneak Attack, you can apply one of these tricks. You can only apply one trick to a single attack, unless otherwise stated. Some of your tricks require your target to make a saving throw to resist the trick's effects. The saving throw DC is calculated as follows: 
+
+**Trick Save DC** = 8 + Dexterity modifier + Proficiency Bonus
+
+If you have the Spellsneak feat, you can also use these tricks on melee or ranged spell attacks. You can select this feat multiple times. Each time you do so, must choose two different tricks.
+
+**Duck Away.** You can forgo 1 Sneak Attack dice on a melee weapon attack. The target has disadvantage on opportunity attacks made against you until the start of your next turn.
+
+**Purloin.** You can forgo 1 Sneak Attack dice on a melee attack to make a Sleight of Hand check against the target's armor class. On a success, you steal one object from them if it isn't being worn or held.
+
+**Fake Out.** You can forgo half of your Sneak Attack dice, rounded down, on a melee or ranged weapon attack. Your next attack on this turn can benefit from your Sneak Attack, dealing damage equal to number of dice forgone.
+
+**Heel Cutter.** You can forgo 1 Sneak Attack dice on a melee or ranged weapon attack. The target's movement speed decreases by 5 feet. You can apply this trick to the same attack multiple times.
+
+**Wing Clip.** You can forgo 1 Sneak Attack dice on a ranged weapon attack against a target with a fly speed granted by natural wings. The target must make a Strength saving throw or plummet 10 feet. You can apply this trick to the same attack multiple times.
+
+**Blindside.** You can forgo 5 of your Sneak Attack dice on a melee or ranged weapon attack. The target must make a Constitution saving throw or become blinded. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the effect ends.
+
+**Daze.** You can forgo 5 your Sneak Attack dice on a melee or ranged weapon attack. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
