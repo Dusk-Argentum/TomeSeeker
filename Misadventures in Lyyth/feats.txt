@@ -475,6 +475,29 @@ You can select this feat multiple times. Each time you do so, the combined level
 
 ***
 
+### Arcane Ward
+*Prequisite: Spellbook (School of Abjuration), 2nd Level*
+
+When you finish a long rest, you can create a magical ward on yourself that lasts until you finish your next a long rest. The ward starts with hit points equal to five times your spellcasting ability modifier which you chose for 1st-Level Spellcasting. If your Arcane Ward is dispelled or disabled in some other way, you must finish a long rest until you can cast it again.
+
+Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage. While the ward has 0 hit points, it can’t absorb damage, but its magic remains. Whenever you expend a spell slot to cast an abjuration spell of 1st level or higher, the ward gains a number of hit points equal to twice the level of the expended spell slot.
+
+***
+
+### Projected Ward
+*Prequisite: Arcane Ward, 6th Level*
+
+When a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your arcane ward to absorb that damage. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage. If you have the Aura of Protection feat, you can cause your arcane ward to absorb damage from any creature within the range of your aura without using a reaction.
+
+***
+
+### Iron Ward
+*Prequisite: Arcane Ward, 14th Level*
+
+Your arcane ward has resistance against the damage of spells, and you have advantage on saving throws against spells while your Arcane Ward has 1 or more hit points. 
+
+***
+
 ### Counterabjuration
 *Prerequisite: Spellbook (School of Abjuration), 6th Level*
 
@@ -530,6 +553,13 @@ You gain the ability to reap life energy from creatures you kill with your spell
 
 ***
 
+### Minor Alchemy
+*Prerequisite: Spellbook (School of Transmutation), 2nd Level*
+
+You can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.
+
+***
+
 ### Transmutor's Stone
 *Prerequisite: Spellbook (School of Transmutation), 6th Level*
 
@@ -542,6 +572,18 @@ You can spend 8 hours creating a transmuter's stone that stores transmutation ma
 Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.
 
 If you create a new transmuter's stone, the previous one ceases to function.
+
+***
+
+### Philosopher's Stone
+*Prerequisite: Transmutor's Stone, 14th Level*
+
+You can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.
+
+• Major Transformation. You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.
+• Panacea. You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.
+• Restore Life. You cast the raise dead spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.
+• Restore Youth. You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.
 
 ***
 
