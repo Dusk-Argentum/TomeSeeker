@@ -556,7 +556,7 @@ You can select this feat a second time after 7th level, a third time after 11th 
 
 ***
 ### Metamagic
-*Prerequisite: 1st-Level Spellcasting, 3rd Level*
+*Prerequisite: 3rd Level*
 
 You gain 3 sorcery points, which you regain when you finish a long rest. You also gain the ability to twist your spells to suit your needs. You gain one Metamagic option of your choice. See page 102 of the Player Handbook for a list of options. You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You gain the ability to use crystals and orbs as your spellcasting focus.
 
