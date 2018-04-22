@@ -478,7 +478,7 @@ You can select this feat multiple times. Each time you do so, the combined level
 ### Counterabjuration
 *Prerequisite: Spellbook (School of Abjuration), 6th Level*
 
-When you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check. Additionally, you gain an additional action that can only be used to attempt to identify a spell being cast. (Xanathar's Guide to Everything pg. 85).
+When you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check. Additionally, you gain an additional reaction that can only be used to attempt to identify a spell being cast. (Xanathar's Guide to Everything pg. 85).
 
 ***
 
