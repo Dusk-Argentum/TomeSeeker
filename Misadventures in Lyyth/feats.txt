@@ -1025,7 +1025,7 @@ Any time before you regain the use of this feature, you can regain use of this f
 ### Sentinel Raven
 *Prerequisite: Find Familiar Spell, Otherworldly Patron (Raven Queen)*
 
-Your familiar can take the form of a sentinel raven. While the is perched on your shoulder, you gain darkvision with a range of 30 feet and have advantage on Wisdom (Perception) checks. While perched on your shoulder, the raven can't be targeted by any attack or other harmful effect; only you can cast spells on it; it can't take damage; and it is incapacitated.
+Your familiar can take the form of a sentinel raven. While the raven is perched on your shoulder, you gain darkvision with a range of 30 feet and have advantage on Wisdom (Perception) checks. While perched on your shoulder, the raven can't be targeted by any attack or other harmful effect; only you can cast spells on it; it can't take damage; and it is incapacitated.
 
 If the raven is slain by a creature, you gain advantage on all attack rolls against the killer for the next 24 hours.
 
