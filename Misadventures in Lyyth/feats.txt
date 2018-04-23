@@ -476,7 +476,7 @@ You can select this feat multiple times. Each time you do so, the combined level
 ***
 
 ### Arcane Ward
-*Prequisite: Spellbook (School of Abjuration), 2nd Level*
+*Prerequisite: Spellbook (School of Abjuration), 2nd Level*
 
 When you finish a long rest, you can create a magical ward on yourself that lasts until you finish your next a long rest. The ward starts with hit points equal to five times your spellcasting ability modifier which you chose for 1st-Level Spellcasting. If your Arcane Ward is dispelled or disabled in some other way, you must finish a long rest until you can cast it again.
 
@@ -485,14 +485,14 @@ Whenever you take damage, the ward takes the damage instead. If this damage redu
 ***
 
 ### Projected Ward
-*Prequisite: Arcane Ward, 6th Level*
+*Prerequisite: Arcane Ward, 6th Level*
 
 When a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your arcane ward to absorb that damage. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage. If you have the Aura of Protection feat, you can cause your arcane ward to absorb damage from any creature within the range of your aura without using a reaction.
 
 ***
 
 ### Iron Ward
-*Prequisite: Arcane Ward, 14th Level*
+*Prerequisite: Arcane Ward, 14th Level*
 
 Your arcane ward has resistance against the damage of spells, and you have advantage on saving throws against spells while your Arcane Ward has 1 or more hit points. 
 
