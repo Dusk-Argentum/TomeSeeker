@@ -1,9 +1,10 @@
 ***
 
-### Clover
-Worth: 1000gp | Rarity: Placeholder
-Cleaves those who dare disobey.
-https://cdn.discordapp.com/attachments/423010989286490113/435571343266938880/OnePix.png
+### Flake Sapphire
+*Wonderous Item, Common (50-100 gp).*
+When shattered, the gem produces a glowing dart of magical force for each charge remaining. Each dart hits a random creature within 40 feet. A target takes 1d4 + 1 force damage for each dart that hits it. 
+
+This gem has 2 charges, and regains 1d4 charges at dawn.
 
 ***
 
