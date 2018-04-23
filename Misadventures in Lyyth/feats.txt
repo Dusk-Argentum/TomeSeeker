@@ -985,3 +985,57 @@ If you have the Spellsneak feat, you can also use these tricks on melee or range
 **Blindside.** You can forgo 5 of your Sneak Attack dice on a melee or ranged weapon attack. The target must make a Constitution saving throw or become blinded. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the effect ends.
 
 **Daze.** You can forgo 5 your Sneak Attack dice on a melee or ranged weapon attack. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+
+***
+
+### Hell's Envoy
+*Prerequisite: Find Familiar Spell, Otherworldly Patron (Fiend)*
+
+Your familiar can take the form of an imp. When you or the imp reduce a hostile creature within 30 feet of you to 0 hit points, you gain temporary hit points equal to your spellcasting modifier.
+
+Additionally, you can call on your patron via your imp to alter fate in your favor. When you make an ability check or a saving throw within 30 feet of your imp, your imp can use its reaction to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur. Once you use this feature, you can't use it again until you finish a short or long rest.
+
+***
+
+### Hurl Through Hell
+*Prerequisite: Hell's Envoy, 14th Level*
+
+When you hit a creature with an attack within 30 feet of your imp, you can command your imp to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape. At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience. Once you use this feature, you can't use it again until you finish a long rest.
+
+***
+
+### Shared Agony
+*Prerequisite: Otherworldly Patron (Great Old One), 10th Level*
+
+Your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
+Additionally, your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
+
+***
+
+### Eldritch Knowledge
+*Prerequisite: Otherworldly Patron (Great Old One), 6th Level*
+
+When a creature makes an attack roll against you, you can use your reaction to force them to reroll the attack. You must use the new roll. If they roll a 1 on the new roll, roll on the Short Term Madness table. The creature must make a Wisdom saving throw or fall mad. The DC for this saving throw is your spellcasting DC. Once you use this feature, you can't use it again until you finish a short or long rest.
+
+Any time before you regain the use of this feature, you can regain use of this feature by casting one of your Patron spells of 1st level or higher. 
+
+***
+
+### Sentinel Raven
+*Prerequisite: Find Familiar Spell, Otherworldly Patron (Raven Queen)*
+
+Your familiar can take the form of a sentinel raven. While the is perched on your shoulder, you gain darkvision with a range of 30 feet and have advantage on Wisdom (Perception) checks. While perched on your shoulder, the raven can't be targeted by any attack or other harmful effect; only you can cast spells on it; it can't take damage; and it is incapacitated.
+
+If the raven is slain by a creature, you gain advantage on all attack rolls against the killer for the next 24 hours.
+
+The raven doesn't require sleep. While it is within 100 feet of you, it can awaken you from sleep as a bonus action.
+
+***
+
+### Soul of the Raven
+*Prerequisite: Sentinal Raven, 6th Level*
+
+You gain the ability to merge with your raven spirit. As a bonus action when your raven is perched on your shoulder, your body merges with your raven's form. While merged, you become Tiny, you replace your speed with the raven's, and you can use your action only to Dash, Disengage, Dodge, Help, Hide, or Search. During this time, you gain the benefits of your raven being perched on your shoulder. As an action, you and the raven return to normal.
+
+Additionally, you gain advantage on death saving throws, immunity to the frightened condition, and resistance to necrotic damage while the raven is perched on your shoulder.
