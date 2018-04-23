@@ -1,28 +1,18 @@
 ***
 
 ### Flake Sapphire
-*Wonderous Item, Common (50-100 gp).*
-When shattered, the gem produces a glowing dart of magical force for each charge remaining. Each dart hits a random creature within 40 feet. A target takes 1d4 + 1 force damage for each dart that hits it. 
+>*Wonderous Item, Common (50-100 gp).*
+>When shattered, the gem produces a glowing dart of magical force for each charge remaining. Each dart hits a random creature within 40 feet. A target takes 1d4 + 1 force damage for each dart that hits it. 
 
 This gem has 2 charges, and regains 1d4 charges at dawn.
 
 ***
 
-### Clover v2
-Worth: 2000gp | Rarity: Somehow more placeholdier
-Cleaves even harder!
-https://cdn.discordapp.com/attachments/423010989286490113/435571343266938880/OnePix.png
+### Minor Sapphire
+>*Wonderous Item, Uncommon (100-500 gp).*
+>When shattered, the gem produces a glowing dart of magical force for each charge remaining. Each dart hits a random creature within 60 feet. A target takes 1d6 + 2 force damage for each dart that hits it.
+
+This gem has 3 charges, and regains 1d6 charges at dawn.
 
 ***
 
-### Cleaver
-Worth: 5000gp | Rarity: The placeholdiest!
-On a crit, choose a limb to sever.
-https://cdn.discordapp.com/attachments/423010989286490113/435571343266938880/OnePix.png
-
-***
-
-### Buhhahhhhh
-Worth: IT'S OVER NINE THOUSAND! | Rarity: Worst Pony
-I'm so sorry
-https://i.imgur.com/BVgVXgw.png
