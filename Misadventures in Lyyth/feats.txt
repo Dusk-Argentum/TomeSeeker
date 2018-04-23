@@ -1016,9 +1016,7 @@ Additionally, your thoughts can't be read by telepathy or other means unless you
 ### Eldritch Knowledge
 *Prerequisite: Otherworldly Patron (Great Old One), 6th Level*
 
-When a creature makes an attack roll against you, you can use your reaction to force them to reroll the attack. You must use the new roll. If they roll a 1 on the new roll, roll on the Short Term Madness table. The creature must make a Wisdom saving throw or fall mad. The DC for this saving throw is your spellcasting DC. Once you use this feature, you can't use it again until you finish a short or long rest.
-
-Any time before you regain the use of this feature, you can regain use of this feature by casting one of your Patron spells of 1st level or higher. 
+When a creature makes an attack roll against you, you can expend one of your Patron slots of 1st level or higher to use your reaction to force them to reroll the attack. You must use the new roll. If they roll a 1 on the new roll, roll on the Long-Term Madness table. The creature must make a Wisdom saving throw or fall mad. The DC for this saving throw is your spellcasting DC.
 
 ***
 
