@@ -683,9 +683,9 @@ You gain mastery over a powerful spell and can cast it with no effort. When you 
 ### Minor Invocation
 *Prerequisite: Otherworldly Patron, 2nd Level*
 
-You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You gain the ability to cast each 1st-level spells from that patron's Expanded Spell List once at its lowest level without expending a spell slot. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
+You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You learn each 1st-level spells from that patron's Expanded Spell List and gain two 1st-Level Patron slots, which can only be used for casting these spells. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
 
-You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You gain the ability to cast from that patron's expanded spell list of one level higher than the previous time you took this feat.
+You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You learn the spells from that patron's expanded spell list of one level higher than the previous time you took this feat, and gain two Patron slots of one level higher than the previous tome you took the feat.
 
 ***
 
