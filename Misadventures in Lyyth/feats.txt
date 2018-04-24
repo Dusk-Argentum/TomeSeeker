@@ -571,7 +571,7 @@ You can temporarily alter the physical properties of one nonmagical object, chan
 
 ***
 
-### Transmutor's Stone
+### Transmuter's Stone
 *Prerequisite: Spellbook (School of Transmutation), 6th Level*
 
 You can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:
@@ -587,7 +587,7 @@ If you create a new transmuter's stone, the previous one ceases to function.
 ***
 
 ### Philosopher's Stone
-*Prerequisite: Transmutor's Stone, 14th Level*
+*Prerequisite: Transmuter's Stone, 14th Level*
 
 You can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.
 
