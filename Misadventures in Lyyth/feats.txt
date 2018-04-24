@@ -1037,3 +1037,35 @@ The raven doesn't require sleep. While it is within 100 feet of you, it can awak
 You gain the ability to merge with your raven spirit. As a bonus action when your raven is perched on your shoulder, your body merges with your raven's form. While merged, you become Tiny, you replace your speed with the raven's, and you can use your action only to Dash, Disengage, Dodge, Help, Hide, or Search. During this time, you gain the benefits of your raven being perched on your shoulder. As an action, you and the raven return to normal.
 
 Additionally, you gain advantage on death saving throws, immunity to the frightened condition, and resistance to necrotic damage while the raven is perched on your shoulder.
+
+***
+
+### Air Step
+*Prerequisite: Spellbook (School of Conjuration or Evocation), 6th Level*
+
+You can use a bonus action to create arcane panels of force in the shape of stairs or walkways that float in the air. These panels provide no cover, but can be traversed by foot. At the end of your turn, the panels disappear and you fall if nothing else is holding you aloft.
+
+***
+
+### Sky Bridge
+*Prerequisite: Air Step, 14th Level*
+
+Your arcane panels no longer disappear at the end of your turn, allowing you to stay aloft between turns. Other creatures can also walk across your arcane panels. You can create arcane panels no smaller than 5 ft by 5 ft squares, and their total area cannot exceed 100 times your spellcasting modifier.
+
+As a bonus action, you can remove sections of your arcane panels. Any creature or object on the removed panels fall if nothing else is holding them aloft.
+
+***
+
+### Ethereal Flap
+*Prerequisite: Acolyte or Otherworldly Patron, 6th Level*
+
+You can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed equal to your walking speed. At the end of your turn, the wings disappear and you fall if you end your turn in the air and nothing else is holding you aloft. Your diety or patron determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
+
+You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+
+***
+
+### Ethereal Wings
+*Prerequisite: Ethereal Flap, 14th Level*
+
+Your wings no longer disappear at the end of your turn, allowing you to stay aloft between turns. The wings last until you're incapacitated, you die, or you dismiss them as a bonus action.
