@@ -267,7 +267,7 @@ You adopt a particular style of fighting as your specialty. Choose a fighting st
 ### Extra Attack
 *Prerequisite: 5th Level*
 
-You gain the ability to attack twice, instead of once, whenever you take the Attack action on your turn. You can select this feat a second time after 11th level and a third time at 20th level. Each time you do so your the number of attacks you can make when you take the Attack action increases by 1.
+You gain the ability to attack twice, instead of once, whenever you take the Attack action on your turn. You can select this feat a second time after 11th level and a third time at 20th level. Each time you do so your the number of attacks you can make when you take the Attack action increases by one.
 
 ***
 
