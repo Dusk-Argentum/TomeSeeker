@@ -812,7 +812,7 @@ You can select this feat a second time after 7th level, and a third time after 1
 ### Spellcasting Style
 *Prerequisite: The ability to cast a cantrip*
 
-You adopt a particular style of spellcasting as your specialty. Choose a spellcasting style from the list below. You can select this feat multiple times. Each time you do so, you must select a different fighting style.
+You adopt a particular style of spellcasting as your specialty. Choose a spellcasting style from the list below. You can select this feat multiple times. Each time you do so, you must select a different spellcasting style.
 
 **Destructive.** You can add your spellcasting modifier to the damage you deal with any cantrip.
 
