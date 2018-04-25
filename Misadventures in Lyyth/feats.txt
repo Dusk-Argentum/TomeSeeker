@@ -65,9 +65,7 @@ You learn one 9th-level spell of your choice from any spell list, and gain one 9
 ***
 
 ### Improved Health
-Your hit point maximum increases by an amount equal to your level when you gain this feat, and all of your current and future hit dice become d10s.
-
-You can select this feat one more time, improving your hit dice to a d12.
+Your hit point maximum increases by an amount equal to your level when you gain this feat, and all of your current and future hit dice become d10s. You can select this feat one more time, improving your hit dice to a d12.
 
 ***
 
@@ -101,9 +99,7 @@ You can select this feat up to five times. Each time, you can select a damage ty
 ### Danger Sense
 *Prerequisite: Unarmored Defense*
 
-You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you prepare for the oncoming danger. Choose a saving throw. You can add the ability modifier chosen from Unarmored Defense (up to a maximum of +4) to that saving throw against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
-
-You can select this feat multiple times. Each time you do so, you must choose a different saving throw.
+You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you prepare for the oncoming danger. Choose a saving throw. You can add the ability modifier chosen from Unarmored Defense (up to a maximum of +4) to that saving throw against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated. You can select this feat multiple times. Each time you do so, you must choose a different saving throw.
 
 ***
 
@@ -123,25 +119,21 @@ Your rage becomes so fierce that it ends early only if you fall unconscious or i
 
 Your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
 
-Each time you use this feat after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
+Each time you use this ability after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
 ***
 
 ### Reliable Skill
 *Prerequisite: 11th Level*
 
-Choose an ability score. For any skill check using this ability and in which you are proficient, if your total for that check is less than your chosen ability score, you can use that score in place of the total.
-
-You can select this feat multiple times. Each time you do so, you must choose a different ability score.
+Choose an ability score. For any skill check using this ability and in which you are proficient, if your total for that check is less than your chosen ability score, you can use that score in place of the total. You can select this feat multiple times. Each time you do so, you must choose a different ability score.
 
 ***
 
 ### Superhuman Ability
 *Prerequisite: 20th Level*
 
-You may choose an ability score which is already at 20 and increase it to 24.
-
-You can select this feat multiple times. Each time you do so, you must choose a different ability score.
+You may choose an ability score which is already at 20 and increase it to 24. You can select this feat multiple times. Each time you do so, you must choose a different ability score.
 
 ***
 
@@ -164,10 +156,7 @@ You have a number of assistance dice equal to your choice of your Intelligence, 
 ### Improved Assistance
 *Prerequisite: Assistance, 5th Level*
 
-Your assistance dice turn from d6 to d8. Additionally, you regain all of your expended assistance dice when you finish a short or long rest.
-
-You can select this feat a second time after 10th level and a third time after 15th level.
-Each time you do so your assistance dice become one step larger (such as from d8s to d10s).
+Your assistance dice turn from d6 to d8. Additionally, you regain all of your expended assistance dice when you finish a short or long rest. You can select this feat a second time after 10th level and a third time after 15th level. Each time you do so your assistance dice become one step larger (such as from d8s to d10s).
 
 ***
 
@@ -241,8 +230,7 @@ You learn to channel the adrenalin rush from combat to protect yourself from har
 ### Action Surge
 *Prerequisite: 2nd Level*
 
-You gain the ability to push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feat, you must finish a short or long rest before you can use it again. 
-You can select this feat a second time after 17th level. When you do so, you gain another use of this ability.
+You gain the ability to push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feat, you must finish a short or long rest before you can use it again. You can select this feat a second time after 17th level. When you do so, you gain another use of this ability.
 
 ***
 
@@ -285,7 +273,9 @@ You learn one additional maneuver of your choice from among those available to t
 ***
 
 ### Lay on Hands
-You gain a pool of 10 hit points that replenishes when you take a long rest. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool. Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one. This feat has no effect on undead and constructs. 
+You gain a pool of 10 hit points that replenishes when you take a long rest. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool. 
+
+Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one. This ability has no effect on undead and constructs. 
 
 If you have the Martial Arts feat, you can spend 1 ki to replace one unarmed strikes with a use of this feature.
 
