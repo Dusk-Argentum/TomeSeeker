@@ -725,8 +725,7 @@ This weapon counts as magical for the purpose of overcoming resistance and immun
 ### Improved Critical
 *Prerequisite: Weapon Bond*
 
-Your weapon attacks with your bonded weapon score a critical hit on a roll of 19 or 20.
-You can select this feat a second time after 15th level. When you do so, your weapon attacks with your bonded weapon score a critical hit on a roll of 18-20.
+Your weapon attacks with your bonded weapon score a critical hit on a roll of 19 or 20. You can select this feat a second time after 15th level. When you do so, your weapon attacks with your bonded weapon score a critical hit on a roll of 18-20.
 
 ***
 
