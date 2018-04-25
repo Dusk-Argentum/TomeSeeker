@@ -608,6 +608,7 @@ Your familiar can attack, but loses Multiattack action, if it has one. Additiona
 You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 119th level. The CR of beasts you can summon as familiars into increases to CR 1/4 after the second time, CR 1/2 after the third time, CR 1 the fourth time, and CR 2 the fifth time.
 
 ***
+
 ### Metamagic
 *Prerequisite: 3rd Level*
 
