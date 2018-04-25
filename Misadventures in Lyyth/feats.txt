@@ -181,8 +181,7 @@ You can select this feat multiple times. Each time you do so, you gain another u
 ### Exorcist
 *Prerequisite: Turn Undead divinity, 4th Level*
 
-When an undead of CR 1/2 fails its saving throw against your Turn Undead divinity, the creature is instantly destroyed.
-You can select this feat a second time after 8th level (CR 1), a third time after 11th level (CR 2), a fourth time after 14th level (CR 3), and a fifth time after 17th level (CR 4). 
+When an undead of CR 1/2 fails its saving throw against your Turn Undead divinity, the creature is instantly destroyed. You can select this feat a second time after 8th level (CR 1), a third time after 11th level (CR 2), a fourth time after 14th level (CR 3), and a fifth time after 17th level (CR 4). 
 
 ***
 
