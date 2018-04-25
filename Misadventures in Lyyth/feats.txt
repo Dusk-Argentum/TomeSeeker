@@ -612,8 +612,7 @@ You can select this feat a second time after 6th level, a third time after 9th l
 ### Wild Magic
 *Prerequisite: Metamagic*
 
-You learn to manipulate the forces of chance and chaos. Whenever you make an attack roll, an ability check, or a saving throw, you can spend 2 sorcery points to reroll an the d20 but before the outcome is determined. You must use the new roll. If you roll a 1 on the new roll, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn.
-If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. See page 104 of the Player Handbook for the Wild Magic Surge table.
+You learn to manipulate the forces of chance and chaos. Whenever you make an attack roll, an ability check, or a saving throw, you can spend 2 sorcery points to reroll an the d20 but before the outcome is determined. You must use the new roll. If you roll a 1 on the new roll, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn. If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. See page 104 of the Player Handbook for the Wild Magic Surge table.
 
 Additionally, you can use an action to spend 5 sorcery points to roll directly on the Wild Magic Surge table.
 
