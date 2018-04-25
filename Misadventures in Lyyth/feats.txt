@@ -825,7 +825,6 @@ You can perform one of these tasks without being noticed by a creature if you su
 ***
 
 ### Otherworldly Patron
-
 You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You gain the ability to cast each 1st-level spells from that patron's Expanded Spell List once at its lowest level without expending a spell slot. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat. You gain the ability to use rods, staves, and wands as your spellcasting focus.
 
 You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You gain the ability to cast from that patron's expanded spell list of one level higher than the previous time you took this feat.
@@ -845,7 +844,6 @@ You have undergone extensive aquatic training to gain the following benefits:
 ***
 
 ### Tireless
-
 Your body has adapted to sleepless nights and grueling conditions. You treat your levels of exhaustion as halved (rounded down), and suffer the effects accordingly. Additionally, when you are affected by the sleep spell, you are treated as having twice as many hit points for the purpose of resolving that spell.
 
 ***
