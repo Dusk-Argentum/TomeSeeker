@@ -874,7 +874,7 @@ You have undergone extensive aquatic training to gain the following benefits:
 
 ***
 
-###Tireless
+### Tireless
 
 Your body has adapted to sleepless nights and grueling conditions. You treat your levels of exhaustion as halved (rounded down), and suffer the effects accordingly. Additionally, when you are affected by the sleep spell, you are treated as having twice as many hit points for the purpose of resolving that spell.
 
@@ -895,15 +895,15 @@ You have learned how to harness your rage for your craft, and how to harness you
 While raging, you have advantage on checks made with artisan tools. Your rage doesn't end as long as you're working with your artisan tools.
  
 ***
- 
+
 ### Open Hand Technique
 *Prerequisite: Martial Arts, 3rd Level*
 
 You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with an unarmed strike, you spend 1 ki point to impose one of the following effects on that target.
 
-- It must succeed on a Dexterity saving throw or be knocked prone.
-- It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
-- It can't take reactions until the end of your next turn.
+• It must succeed on a Dexterity saving throw or be knocked prone.
+• It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+• It can't take reactions until the end of your next turn.
 
 ***
 
