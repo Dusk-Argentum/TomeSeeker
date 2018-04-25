@@ -199,9 +199,7 @@ You gain the ability to use your action to magically assume the shape of a beast
 ### Improved Beast Shape
 *Prerequisite: Beast Shape, 2nd Level*
 
-You gain the ability to use Beast Shape on your turn as a bonus action, rather than as an action. You can directly transform from one beast shape to another as a bonus action. 
-You can transform into beasts of CR 1, and can stay in beast shape for 1 hour. The beast cannot have a flying or swimming speed. 
-Additionally, you can freely transform into beasts of CR 0 without expending a use of your Beast Shape.
+You gain the ability to use Beast Shape on your turn as a bonus action, rather than as an action. You can directly transform from one beast shape to another as a bonus action. You can transform into beasts of CR 1, and can stay in beast shape for 1 hour. The beast cannot have a flying or swimming speed. Additionally, you can freely transform into beasts of CR 0 without expending a use of your Beast Shape.
 
 You can select this feat a second time after 6th level, a third time after 9th level, a fourth time after 12th level a fifth time after 15th level, and a sixth time after 18th level. Each time you do so the CR of beasts you can transform into increases by 1 (such as from CR 1 to CR 2), and the duration of your beast shape increase by 1 hour. Additionally, the CR of beasts you can freely transform into increases to CR 1/8 after the second time, CR 1/4 after the third time, CR 1/2 the fourth time, CR 1 the fifth time, and CR 2 the sixth time.
 
