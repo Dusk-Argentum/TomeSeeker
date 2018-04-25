@@ -164,8 +164,8 @@ You have a number of assistance dice equal to your choice of your Intelligence, 
 ### Improved Assistance
 *Prerequisite: Assistance, 5th Level*
 
-Your assistance dice turn from d6 to d8.
-Additionally, you regain all of your expended assistance dice when you finish a short or long rest.
+Your assistance dice turn from d6 to d8. Additionally, you regain all of your expended assistance dice when you finish a short or long rest.
+
 You can select this feat a second time after 10th level and a third time after 15th level.
 Each time you do so your assistance dice become one step larger (such as from d8s to d10s).
 
