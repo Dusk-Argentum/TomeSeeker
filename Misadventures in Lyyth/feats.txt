@@ -72,10 +72,7 @@ You can select this feat one more time, improving your hit dice to a d12.
 ***
 
 ### Unarmored Defense
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your choice of your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier, to a maximum of an Armor Class of 19. You choose ability the time you take this feat.
-You can use a shield if proficient and still gain this benefit.
-
-The ability score you chose represents your method of evading or deflecting damage.
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your choice of your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier, to a maximum of an Armor Class of 19. You choose ability the time you take this feat. You can use a shield if proficient and still gain this benefit. The ability score you chose represents your method of evading or deflecting damage.
 
 ***
 
