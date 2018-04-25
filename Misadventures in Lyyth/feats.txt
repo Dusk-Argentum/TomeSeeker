@@ -141,6 +141,7 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 *Prerequisite: 20th Level*
 
 You may choose an ability score which is already at 20 and increase it to 24.
+
 You can select this feat multiple times. Each time you do so, you must choose a different ability score.
 
 ***
