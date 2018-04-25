@@ -815,6 +815,7 @@ You adopt a particular style of spellcasting as your specialty. Choose a spellca
 *Prerequisite: Mage Hand, 3rd Level*
 
 When you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
+
 • You can stow one object the hand is holding in a container worn or carried by another creature.
 • You can retrieve an object in a container worn or carried by another creature.
 • You can use thieves' tools to pick lock and disarm traps at range.
