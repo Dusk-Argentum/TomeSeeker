@@ -112,6 +112,7 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 *Prerequisite: 9th Level*
 
 You can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
+
 You can select this feat a second time after 13th level, and a third time at 17th level.
 
 ***
@@ -131,6 +132,7 @@ Each time you use this feat after the first, the DC increases by 5. When you fin
 *Prerequisite: 11th Level*
 
 Choose an ability score. For any skill check using this ability and in which you are proficient, if your total for that check is less than your chosen ability score, you can use that score in place of the total.
+
 You can select this feat multiple times. Each time you do so, you must choose a different ability score.
 
 ***
