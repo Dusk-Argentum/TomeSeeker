@@ -952,7 +952,7 @@ If you have the Favored Enemy feat and the creature is the type of your Favored 
 ### Improved Familiar
 *Prerequisite: Find Familiar Spell, 3rd Level*
 
-You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the Find Familiar spell as a ritual to summon a more powerful companion. Your familiar can take the form of any beast of CR 1/8. 
+You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the find familiar spell as a ritual to summon a more powerful companion. Your familiar can take the form of any beast of CR 1/8. 
 
 Your familiar can attack, but loses Multiattack action, if it has one. Additionally, if you have the Extra Attack feat, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
 
