@@ -578,7 +578,7 @@ Once you use this feature, you can't use it again until you finish a long rest o
 ### Instinctive Charm
 *Prerequisite: Spellbook (School of Enchantment), 6th Level*
 
-When a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.
+When a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.
 
 You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.
 
@@ -1677,7 +1677,7 @@ Once you use this ability, you can't use it again until you finish a long rest o
 ### Instinctive Charm
 *Prerequisite: Spellbook (School of Enchantment), 6th Level*
 
-When a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.
+When a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.
 
 You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.
 
@@ -1761,7 +1761,7 @@ You have mastered the use of evocation magic in combat, and your evocation spell
 ### Overchannel
 *Prerequisite: Spellbook (School of Evocation), 14th Level*
 
-You can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th-level that deals damage, you can deal maximum damage with that spell.
+You can increase the power of your simpler spells. When you cast a spell of 1st through 5th-level that deals damage, you can deal maximum damage with that spell.
 
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
 
@@ -1986,7 +1986,7 @@ You can select this feat a second time after 7th level, and a third time after 1
 ***
 
 ### Otherworldly Patron
-You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You learn each 1st-level spells from that patron's Expanded Spell List and gain two 1st-Level Patron slots, which can only be used for casting these spells. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
+You have made a pact with an entity not of this world. Choose a patron from the warlock's list of patrons. You learn each 1st-level spells from that patron's Expanded Spell List and gain two 1st-Level Patron slots, which can only be used for casting these spells. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
 
 You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You learn the spells from that patron's expanded spell list of one level higher than the previous time you took this feat, and gain two Patron slots of one level higher than the previous tome you took the feat.
 
