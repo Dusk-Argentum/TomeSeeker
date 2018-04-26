@@ -1087,7 +1087,6 @@ Choose two of the following modifications. You can make one modification over a 
 **Arm-Mounted.** You learn to modify shields and weapons that lack the two-handed or heavy property that you are proficient with to be strapped to your forearm, freeing up your hand and allowing you to use the hand for casting spells or manipulating objects. You can strap or unstrap a weapon to your arm as part of drawing or stowing it, or strap or unstrap a shield to your arm as part of donning or doffing it.
 
 ### (DEPRICATED) 1st-Level Spellcasting
-
 You learn four 1st-level spells of your choice from any spell list, and gain four 1st-level spell slots. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
 
 ***
