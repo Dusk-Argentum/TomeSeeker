@@ -1,7 +1,6 @@
 ***
 
 ### 1st-Level Spellcasting
-
 Increase your Intelligence, Wisdom, or Charisma score by 1, up to a maximum of 20.
 
 You learn two 1st-level spells of your choice from any spell list, and gain two 1st-level spell slots. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat. You can select this feat one more time. If you do so, you learn two more 1st-level spells of your choice from any spell list, and gain two more 1st-level spell slots.
