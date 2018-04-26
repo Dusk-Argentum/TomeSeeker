@@ -830,6 +830,8 @@ When you cast mage hand, you can make the spectral hand invisible, and you can p
 
 You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check. You can use the bonus action granted by your Cunning Action to control the hand.
 
+Additionally, your mage hand can carry a number of pounds equal to 10 times your spellcasting modifier.
+
 ***
 
 ### Horde Breaker
