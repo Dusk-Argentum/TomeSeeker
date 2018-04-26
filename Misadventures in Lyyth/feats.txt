@@ -1,7 +1,7 @@
-
 ***
 
 ### 1st-Level Spellcasting
+
 Increase your Intelligence, Wisdom, or Charisma score by 1, up to a maximum of 20.
 
 You learn two 1st-level spells of your choice from any spell list, and gain two 1st-level spell slots. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat. You can select this feat one more time. If you do so, you learn two more 1st-level spells of your choice from any spell list, and gain two more 1st-level spell slots.
@@ -39,7 +39,8 @@ You learn one 5th-level spell of your choice from any spell list, and gain two 5
 ### 6th-Level Spellcasting
 *Prerequisite: 5th-Level Spellcasting, 11th Level*
 
-You learn one 6th-level spell of your choice from any spell list, and gain one 6th-level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat. You can select this feat one more time. If you do so, you learn one more 6th-level spell of your choice from any spell list, and gain one more 6th-level spell slot.
+You learn one 6th-level spells of your choice from any spell list, and gain one 6th-level spell slots.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat. You can select this feat one more time. If you do so, you learn one more 6th-level spell of your choice from any spell list, and gain one more 6th-level spell slot.
+
 
 ***
 
@@ -53,29 +54,26 @@ You learn one 7th-level spell of your choice from any spell list, and gain one 7
 ### 8th-Level Spellcasting
 *Prerequisite: 7th-Level Spellcasting, 15th Level*
 
-You learn one 8th-level spell of your choice from any spell list, and gain one 8th-level spell slot. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
+You learn one 8th-level spells of your choice from any spell list, and gain one 8th-level spell slot.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
 ***
 
 ### 9th-Level Spellcasting
 *Prerequisite: 8th-Level Spellcasting, 17th Level*
 
-You learn one 9th-level spell of your choice from any spell list, and gain one 9th-level spell slot. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
+You learn one 9th-level spells of your choice from any spell list, and gain one 9th-level spell slot. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
 
 ***
 
 ### Improved Health
-Your hit point maximum increases by an amount equal to your level when you gain this feat, and all of your current and future hit dice become d10s. You can select this feat one more time, improving your hit dice to a d12.
+Your hit point maximum increases by an amount equal to your level when you gain this feat, and all of your current and future hit dice become d10s.
+
+You can select this feat one more time, improving your hit dice to a d12.
 
 ***
 
 ### Unarmored Defense
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your choice of your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier, to a maximum of an Armor Class of 19. You choose ability the time you take this feat. You can use a shield if proficient and still gain this benefit. The ability score you chose represents your method of evading or deflecting damage.
-
-***
-
-### Reckless Attack
-You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your choice of your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier, to a maximum of an Armor Class of 19. You choose ability the time you take this feat. You can use a shield if proficient and still gain this benefit.
 
 ***
 
@@ -90,7 +88,8 @@ While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 If you are able to cast spells, you can't cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action. Once you have raged 2 times, you must finish a long rest before you can rage again.
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action. 
+Once you have raged 2 times, you must finish a long rest before you can rage again.
 
 You can select this feat up to five times. Each time, you can select a damage type to also be resistant to while raging. Your rage damage and number of rages also increase by 1, to a maximum of +6 damage and 6 rages per long rest.
 
@@ -99,7 +98,9 @@ You can select this feat up to five times. Each time, you can select a damage ty
 ### Danger Sense
 *Prerequisite: Unarmored Defense*
 
-You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you prepare for the oncoming danger. Choose a saving throw. You can add the ability modifier chosen from Unarmored Defense (up to a maximum of +4) to that saving throw against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated. You can select this feat multiple times. Each time you do so, you must choose a different saving throw.
+You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you prepare for the oncoming danger. Choose a saving throw. You can add the ability modifier chosen from Unarmored Defense (up to a maximum of +4) to that saving throw against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+
+You can select this feat multiple times. Each time you do so, you must choose a different saving throw.
 
 ***
 
@@ -107,7 +108,6 @@ You gain an uncanny sense of when things nearby aren't as they should be, giving
 *Prerequisite: 9th Level*
 
 You can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
-
 You can select this feat a second time after 13th level, and a third time at 17th level.
 
 ***
@@ -119,7 +119,7 @@ Your rage becomes so fierce that it ends early only if you fall unconscious or i
 
 Your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
 
-Each time you use this ability after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
+Each time you use this feat after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
 ***
 
@@ -167,21 +167,8 @@ You gain the ability to step from one shadow into another. When you take the Hid
 
 ***
 
-### Acolyte
-Choose a deity and one domain of the cleric domains, or one of the paladin sacred oaths. You gain the ability to channel divinity once per short or long rest. The DC for your channel divinity options is 8 + your proficiency bonus + your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat. You gain the ability to use holy symbols as your spellcasting focus.
-
-**Cleric.** You gain access to the domain's 1st-level spells, which you always have prepared. You also gain the Turn Undead Channel Divinity as well as the 2nd level Channel Divinity options for the selected domain or oath. See page 59 of the Player Handbook for a list of options. For Channel Divinity features that reference a Cleric Level, you are considered a 2nd Level Cleric for using that domain's Channel Divinity. Additionally, you can expend a number of uses of your Channel Divinity equal to the level of a spell from your domain spells in order to cast it at its lowest level.
-
-**Paladin.** You gain access to the oath's 1st-level spells, which you always have prepared. You also gain the oath's Channel Divinity Options. See page 85 of the Player Handbook for a list of options. Additionally, you can expend a number of uses of your Channel Divinity equal to the level of a spell from your oath spells in order to cast it at its lowest level.
-
-You can select this feat multiple times. Each time you do so, you gain another use of Channel Divinity and can select either the same oath or domain, or a a different oath or domain. If you select the same oath or domain, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, and 9th level for the fifth time. Your Cleric Level for that domain's Channel Divinity increases by 2, and you gain access to the oath or domain spells of 1 level higher.
-
-***
-
-### Exorcist
-*Prerequisite: Turn Undead divinity, 4th Level*
-
-When an undead of CR 1/2 fails its saving throw against your Turn Undead divinity, the creature is instantly destroyed. You can select this feat a second time after 8th level (CR 1), a third time after 11th level (CR 2), a fourth time after 14th level (CR 3), and a fifth time after 17th level (CR 4). 
+### Reckless Attack
+You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
 
 ***
 
@@ -196,6 +183,13 @@ You gain the ability to use your action to magically assume the shape of a beast
 
 ***
 
+### Sea and Sky Shape
+*Prerequisite: Beast Shape*
+
+You gain the ability to transform into beasts that have a swimming speed or flying speed.
+
+***
+
 ### Improved Beast Shape
 *Prerequisite: Beast Shape, 2nd Level*
 
@@ -205,10 +199,22 @@ You can select this feat a second time after 6th level, a third time after 9th l
 
 ***
 
-### Sea and Sky Shape
-*Prerequisite: Beast Shape*
+### Acolyte
+Choose a deity and one domain of the cleric domains, or one of the paladin sacred oaths. You gain the ability to channel divinity once per short or long rest. The DC for your channel divinity options is 8 + your proficiency bonus + your choice of your Intelligence, Wisdom, or Charisma modifier. You choose which ability at the time you take this feat. You gain the ability to use holy symbols as your spellcasting focus.
 
-You gain the ability to transform into beasts that have a swimming speed or flying speed.
+**Cleric.** You gain access to the domain's 1st-level spells, which you always have prepared. You also gain the Turn Undead Channel Divinity as well as the 2nd level Channel Divinity options for the selected domain or oath. See page 59 of the Player Handbook for a list of options. For Channel Divinity features that reference a Cleric Level, you are considered a 2nd Level Cleric for using that domain's Channel Divinity. Additionally, you can expend a number of uses of your Channel Divinity equal to the level of a spell from your domain spells in order to cast it at its lowest level.
+
+**Paladin.** You gain access to the oath's 1st-level spells, which you always have prepared. You also gain the oath's Channel Divinity Options. See page 85 of the Player Handbook for a list of options. Additionally, you can expend a number of uses of your Channel Divinity equal to the level of a spell from your oath spells in order to cast it at its lowest level.
+
+You can select this feat multiple times. Each time you do so, you gain another use of Channel Divinity and can select either the same oath or domain, or a a different oath or domain. If you select the same oath or domain, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, and 9th level for the fifth time. Your Cleric Level for that domain's Channel Divinity increases by 2, and you gain access to the oath or domain spells of 1 level higher.
+
+
+***
+
+### Exorcist
+*Prerequisite: Turn Undead divinity, 4th Level*
+
+When an undead of CR 1/2 fails its saving throw against your Turn Undead divinity, the creature is instantly destroyed. You can select this feat a second time after 8th level (CR 1), a third time after 11th level (CR 2), a fourth time after 14th level (CR 3), and a fifth time after 17th level (CR 4). 
 
 ***
 
@@ -232,7 +238,7 @@ You gain the ability to push yourself beyond your normal limits for a moment. On
 ***
 
 ### Fighting Style
-You adopt a particular style of fighting as your specialty. Choose a fighting style from the list of optional feats. You can select this feat multiple times. Each time you do so, you must select a different fighting style.
+You adopt a particular style of fighting as your specialty. Choose a fighting style from the list below. You can select this feat multiple times. Each time you do so, you must select a different fighting style.
 
 **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
 
@@ -244,7 +250,7 @@ You adopt a particular style of fighting as your specialty. Choose a fighting st
 
 **Protection.** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-**Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+**Two-Weapon Fighting .** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ***
 
@@ -270,9 +276,7 @@ You learn one additional maneuver of your choice from among those available to t
 ***
 
 ### Lay on Hands
-You gain a pool of 10 hit points that replenishes when you take a long rest. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool. 
-
-Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one. This ability has no effect on undead and constructs. 
+You gain a pool of 10 hit points that replenishes when you take a long rest. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool. Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one. This feat has no effect on undead and constructs. 
 
 If you have the Martial Arts feat, you can spend 1 ki to replace one unarmed strikes with a use of this feature.
 
@@ -369,6 +373,11 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 
 ***
 
+### Quickened Action
+Choose three of the following actions: Dash, Disengage, Hide, Use an Object, Help, Search. You gain the ability to use any of the chosen actions as a bonus action on your turn. You can select this feat multiple times. Each time you do so, you can select three different actions.
+
+***
+
 ### Natural Explorer
 You become a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:
 
@@ -387,29 +396,10 @@ In addition, you are skilled at navigating the wilderness. You gain the followin
 
 ***
 
-### Blindsense
-*Prerequisite: Expertise in Perception, 14th Level*
-
-If you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
-
-***
-
-### Quickened Action
-Choose three of the following actions: Dash, Disengage, Hide, Use an Object, Help, Search. You gain the ability to use any of the chosen actions as a bonus action on your turn. You can select this feat multiple times. Each time you do so, you can select three different actions.
-
-***
-
 ### Sneak Attack
 You learn how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use Dexterity.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll. You can select this feat multiple times.
-
-***
-
-### Assassinate
-*Prerequisite: Sneak Attack, 3rd Level*
-
-You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, when you hit a creature that is surprised, roll twice as many dice for your Sneak Attack damage. If this attack is a critical hit, the Sneak Attack damage does not get doubled again.
 
 ***
 
@@ -436,12 +426,19 @@ You become so evasive that attackers rarely gain the upper hand against you. No 
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes. You gain 4 ki points, which you regain when you finish a short or long rest, and you gain the following benefits while you are unarmed.
 
 • You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes.
-• You can roll a d4 in place of the normal damage of your unarmed strike. This dice size increases if you select this feat again.
-• When you use the Attack action on your, you can make one unarmed strike as a bonus action or you can spend 1 ki point to make two unarmed strikes as a bonus action.
+• Your unarmed strike uses a d4 for damage. This dice size increases if you select this feat again.
+• When you use the Attack action on your turn, you can make one unarmed strike as a bonus action, or you can spend 1 ki point to make two unarmed strikes as a bonus action.
 • You can spend 1 ki point to use your reaction to deflect the weapon or missile when you are hit by a melee or ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d4 + your choice of your Strength or Dexterity modifier + your proficiency bonus. This dice size increases if you select this feat again.
 • You can spend 1 ki point to take the Dodge action as a bonus action.
 
 You can select this feat a second time after 5th level, a third time after 11th level, and a fourth time after 17th level. Each time you do so you gain 4 additional ki points and you can replace the damage of your unarmed strike and the reduction from weapon deflection with a die one step larger (such as from 1d4 to 1d6). If you have the Tavern Brawler feat, you can replace the damage of your unarmed strike with a die one step larger. This does not affect your deflection die.
+
+***
+
+### Blindsense
+*Prerequisite: Expertise in Perception, 14th Level*
+
+If you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
 ***
 
@@ -450,7 +447,7 @@ You can select this feat a second time after 5th level, a third time after 11th 
 
 Your unarmed strikes and attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-If you have ki points, you also gain the ability to interfere with the ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn. The DC for this saving throw is 8 + your proficiency bonus + your Strength or Dexterity modifier. 
+If you have the Martial Arts feat, you also gain the ability to interfere with the ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn. The DC for this saving throw is 8 + your proficiency bonus + your Strength or Dexterity modifier. 
 
 ***
 
@@ -460,6 +457,53 @@ If you have ki points, you also gain the ability to interfere with the ki in an 
 You have learned to regain some of your magical energy. When you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of 2, and none of the slots can be 6th level or higher.
 
 You can select this feat multiple times. Each time you do so, the combined level of recovered slots increases by 2.
+
+***
+
+### Spellbook
+*Prerequisite: 1st-Level Spellcasting*
+
+Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st-level spells from your chosen school. You can change your list of prepared spells when you finish a long rest. Preparing a new list of spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. You can prepare a number of spells equal to your spellcasting modifier + your proficiency bonus. You gain the ability to use your spellbook as your spellcasting focus. Cantrips cannot be recorded in a spellbook.
+
+If you have a spellbook from another feat such as Ritual Caster, you may use the same book for both feats.
+
+**Copying a Spell into the Book.** When you find a spell of 1st level or higher from the chosen school of magic, you can add it to your spellbook if it is of a level you can cast and if you can spare the time to decipher and copy it.
+
+For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+
+A spell scroll from the chosen school of magic can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+
+**Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell. If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, it may be wise to keep a backup spellbook in a safe place.
+
+You can select this feat multiple times. Each time you do so, you must choose a different school of magic.
+
+***
+
+### Transmuter's Stone
+*Prerequisite: Spellbook (School of Transmutation), 6th Level*
+
+You can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:
+
+• Darkvision out to a range of 60 feet, as described in chapter 8.
+• An increase to speed of 10 feet while the creature is unencumbered.
+• Proficiency in Constitution saving throws.
+• Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit).
+
+Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.
+
+If you create a new transmuter's stone, the previous one ceases to function.
+
+***
+
+### Philosopher's Stone
+*Prerequisite: Transmuter's Stone, 14th Level*
+
+You can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.
+
+• Major Transformation. You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.
+• Panacea. You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.
+• Restore Life. You cast the raise dead spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.
+• Restore Youth. You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.
 
 ***
 
@@ -493,6 +537,27 @@ When you cast an abjuration spell that requires you to make an ability check as 
 
 ***
 
+### Minor Alchemy
+*Prerequisite: Spellbook (School of Transmutation), 2nd Level*
+
+You can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.
+
+***
+
+### Portent
+*Prerequisite: Spellbook (School of Divination), 2nd Level*
+
+Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls. You can select this feat a second time after 6th level, and a third time after 14th level. Each time you do so you roll another d20.
+
+***
+
+### Grim Harvest
+*Prerequisite: Spellbook (School of Necromancy), 2nd Level*
+
+You gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
+
+***
+
 ### Minor Conjuration
 *Prerequisite: Spellbook (School of Conjuration), 2nd Level*
 
@@ -511,13 +576,6 @@ Once you use this feature, you can't use it again until you finish a long rest o
 
 ***
 
-### Portent
-*Prerequisite: Spellbook (School of Divination), 2nd Level*
-
-Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls. You can select this feat a second time after 6th level, and a third time after 14th level. Each time you do so you roll another d20.
-
-***
-
 ### Instinctive Charm
 *Prerequisite: Spellbook (School of Enchantment), 6th Level*
 
@@ -527,72 +585,49 @@ You must choose to use this feature before knowing whether the attack hits or mi
 
 ***
 
+### Illusory Step
+*Prerequisite: Spellbook (School of Illusion), 10th Level*
+
+You can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates. Once you use this ability, you can't use it again until you finish a short or long rest.
+
+***
+
+### Air Step
+*Prerequisite: Spellbook (School of Conjuration or Evocation), 6th Level*
+
+You can use a bonus action to create arcane panels of force in the shape of stairs or walkways that float in the air. These panels provide no cover, but can be traversed by foot. At the end of your turn, the panels disappear and you fall if nothing else is holding you aloft.
+
+***
+
+### Sky Bridge
+*Prerequisite: Air Step, 14th Level*
+
+Your arcane panels no longer disappear at the end of your turn, allowing you to stay aloft between turns. Other creatures can also walk across your arcane panels. You can create arcane panels no smaller than 5 ft by 5 ft squares, and their total area cannot exceed 100 times your spellcasting modifier.
+
+As a bonus action, you can remove sections of your arcane panels. Any creature or object on the removed panels fall if nothing else is holding them aloft.
+
+***
+
+### Ethereal Flap
+*Prerequisite: Acolyte or Otherworldly Patron, 6th Level*
+
+You can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed equal to your walking speed. At the end of your turn, the wings disappear and you fall if you end your turn in the air and nothing else is holding you aloft. Your diety or patron determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
+
+You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+
+***
+
+### Ethereal Wings
+*Prerequisite: Ethereal Flap, 14th Level*
+
+Your wings no longer disappear at the end of your turn, allowing you to stay aloft between turns. The wings last until you're incapacitated, you die, or you dismiss them as a bonus action.
+
+***
+
 ### Potent Spell
 *Prerequisite: Spellbook (School of Evocation), 6th Level*
 
 You have mastered the use of evocation magic in combat, and your evocation spells affect even creatures that avoid the brunt of the effect. Your spell attacks with evocation cantrips or spells score a critical hit on a roll of 19 or 20. When a creature succeeds on a saving throw against your evocation cantrip or spell, the creature takes half the cantrip or spell's damage (if any) but suffers no additional effect from the cantrip or spell. This effect applies to creatures with Evasion.
-
-***
-
-### Illusory Step
-*Prerequisite: Spellbook (School of Illusion), 10th Level*
-
-You can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
-
-Once you use this feature, you can't use it again until you finish a short or long rest.
-
-***
-
-### Grim Harvest
-*Prerequisite: Spellbook (School of Necromancy), 2nd Level*
-
-You gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
-
-***
-
-### Minor Alchemy
-*Prerequisite: Spellbook (School of Transmutation), 2nd Level*
-
-You can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.
-
-***
-
-### Transmuter's Stone
-*Prerequisite: Spellbook (School of Transmutation), 6th Level*
-
-You can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:
-
-• Darkvision out to a range of 60 feet, as described in chapter 8.
-• An increase to speed of 10 feet while the creature is unencumbered.
-• Proficiency in Constitution saving throws.
-• Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit).
-
-Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.
-
-If you create a new transmuter's stone, the previous one ceases to function.
-
-***
-
-### Philosopher's Stone
-*Prerequisite: Transmuter's Stone, 14th Level*
-
-You can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.
-
-• Major Transformation. You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.
-• Panacea. You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.
-• Restore Life. You cast the raise dead spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.
-• Restore Youth. You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.
-
-***
-
-### Improved Familiar
-*Prerequisite: Find Familiar Spell, 3rd Level*
-
-You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the Find Familiar spell to summon a more powerful companion. Your familiar can take the form of any beast of CR 1/8. 
-
-Your familiar can attack, but loses Multiattack action, if it has one. Additionally, if you have the Extra Attack feat, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
-
-You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 119th level. The CR of beasts you can summon as familiars into increases to CR 1/4 after the second time, CR 1/2 after the third time, CR 1 the fourth time, and CR 2 the fifth time.
 
 ***
 
@@ -612,7 +647,7 @@ You can select this feat a second time after 6th level, a third time after 9th l
 ### Wild Magic
 *Prerequisite: Metamagic*
 
-You learn to manipulate the forces of chance and chaos. Whenever you make an attack roll, an ability check, or a saving throw, you can spend 2 sorcery points to reroll an the d20 but before the outcome is determined. You must use the new roll. If you roll a 1 on the new roll, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn. If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. See page 104 of the Player Handbook for the Wild Magic Surge table.
+You learn to manipulate the forces of chance and chaos. Whenever you make an attack roll, an ability check, or a saving throw, you can spend 2 sorcery points to reroll the attack roll, ability check, or saving throw before the outcome is determined. You must use the new roll. If you roll a 1 on the new roll, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn. If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. See page 104 of the Player Handbook for the Wild Magic Surge table.
 
 Additionally, you can use an action to spend 5 sorcery points to roll directly on the Wild Magic Surge table.
 
@@ -625,33 +660,10 @@ You gain the ability to twist fate using your wild magic. When another creature 
 
 ***
 
-### Spellbook
-*Prerequisite: 1st-Level Spellcasting*
+### Assassinate
+*Prerequisite: Sneak Attack, 3rd Level*
 
-Select a school of magic from the following list: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. You gain a spellbook containing three 1st-level spells from your chosen school. You can change your list of prepared spells when you finish a long rest. Preparing a new list of spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. You can prepare a number of spells equal to your spellcasting modifier + your proficiency bonus. You gain the ability to use your spellbook as your spellcasting focus.
-
-If you have a spellbook from another feat such as Ritual Caster, you may use the same book for both feats.
-
-**Copying a Spell into the Book.** When you find a spell of 1st level or higher from the chosen school of magic, you can add it to your spellbook if it is of a level you can cast and if you can spare the time to decipher and copy it.
-
-For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
-
-A spell scroll from the chosen school of magic can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
-
-A spellbook doesn't contain cantrips.
-
-**Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell. If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, it may be wise to keep a backup spellbook in a safe place.
-
-You can select this feat multiple times. Each time you do so, you must choose a different school of magic.
-
-***
-
-### Spirit Animal Form
-*Prerequisite: Improved Beast Shape, 20th Level*
-
-You gain mastery over a specific beast shape and can transform into it with little effort. Choose one of your Improved Beast Shape forms. You gain the ability to transform into that form an unlimited number of times.
-
-If you want to transform into another beast shape, you must expend a use of Beast Shape as normal.
+You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, when you hit a creature that is surprised, roll twice as many dice for your Sneak Attack damage. If this attack is a critical hit, the Sneak Attack damage does not get doubled again.
 
 ***
 
@@ -672,9 +684,11 @@ You gain mastery over a powerful spell and can cast it with no effort. When you 
 ### Minor Invocation
 *Prerequisite: Otherworldly Patron, 2nd Level*
 
-You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You learn each 1st-level spells from that patron's Expanded Spell List and gain two 1st-Level Patron slots, which can only be used for casting these spells. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanathar's Guide to Everything for a list of options and full descriptions. You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
-You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You learn the spells from that patron's expanded spell list of one level higher than the previous time you took this feat, and gain two Patron slots of one level higher than the previous tome you took the feat.
+You can select one of the following eldritch invocations: Voice of the Chain Master, Thief of Five Fates, Misty Visions, Mask of Many Faces, Improved Pact Weapon, Gift of the Ever-Living Ones, Gaze of Two Minds, Fiendish Vigor, Eyes of the Rune Keeper, Eldritch Sight, Devil's Sight, Book of Ancient Secrets, Beguiling Influence, Beast Speech, Aspect of the Moon, Armor of Shadows.
+
+If an invocation requires Pact of the Chain, you must have the Improved Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
 
 ***
 
@@ -685,7 +699,7 @@ In your study of occult lore, you have unearthed eldritch invocations, fragments
 
 You can select one of the following eldritch invocations: Tome of Levistus, Thirsting Blade, Sign of Ill Omen, One with Shadows, Mire the Mind, Maddening Hex, Gift of the Depths, Eldritch Smite, Cloak of Flies, Trickster's Escape, Sculpter of Flesh, Relentless Hex, Ghostly Gaze, Dreadful Word, Bewitching Whispers. 
 
-If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
+If an invocation requires Pact of the Chain, you must have the Improved Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
 
 ***
 
@@ -696,7 +710,7 @@ In your study of occult lore, you have unearthed eldritch invocations, fragments
 
 You can select one of the following eldritch invocations: Whispers of the Grave, Otherworldly Leap, Minions of Chaos, Ascendant Step.
 
-If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
+If an invocation requires Pact of the Chain, you must have the Improved Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
 
 ***
 
@@ -707,39 +721,18 @@ In your study of occult lore, you have unearthed eldritch invocations, fragments
 
 You can select one of the following eldritch invocations: Lifedrinker, Witch Sight, Visions of Distant Realms, Shroud of Shadow, Master of Myriad Forms, Chains of Carceri.
 
-If an invocation requires Pact of the Chain, you must have the Enhanced Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
-
-***
-
-### Weapon Bond
-*Prerequisite: 3rd Level*
-
-You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. 
-
-Once you have bonded a weapon to yourself, you have advantage on saving throws against being disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. You can only have one bonded weapon. If you attempt to bond with another weapon, you must break the bond with the first weapon.
-
-This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
-
-***
-
-### Improved Critical
-*Prerequisite: Weapon Bond*
-
-Your weapon attacks with your bonded weapon score a critical hit on a roll of 19 or 20. You can select this feat a second time after 15th level. When you do so, your weapon attacks with your bonded weapon score a critical hit on a roll of 18-20.
+If an invocation requires Pact of the Chain, you must have the Improved Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
 
 ***
 
 ### Infused Magic
 *Prerequisite: 1st-Level Spellcasting*
 
-You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you cast the spell, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature. Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. The spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item. If the spell requires concentration, the creature that activates the item must concentrate on it. When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
+You gain the ability to channel your spells into objects for later use. When you cast a spell with a casting time of 1 action, you can increase its casting time to 1 minute. If you do so and hold a nonmagical item throughout the casting, you cast the spell, but none of the spell's effects occur. Instead, the spell transfers into that item for later use if the item doesn't already contain a spell from this feature. Any creature holding the item thereafter can use an action to activate the spell if the creature has an Intelligence score of at least 6. 
 
-***
+When activated, the spell is cast using your spellcasting ability, targeting the creature that activates the item. If the spell targets more than one creature, the creature that activates the item selects the additional targets. If the spell has an area of effect, it is centered on the item. If the spell's range is self, it targets the creature that activates the item. If the spell requires concentration, the creature that activates the item must concentrate on it. 
 
-### Improved Attunement
-*Prerequisite: Infused Magic, 5th Level*
-
-Your superior understanding of magic items allows you to master their use. You can now attune to up to four, rather than three, magic items at a time. You can select this feat a second time after 15th level, and a third time at 20th level. Each time you do so, you can attune to one additional magic item.
+When you infuse a spell in this way, it must be used within 8 hours. After that time, its magic fades and is wasted. You can have a limited number of infused spells at the same time. The number equals your spellcasting modifier.
 
 ***
 
@@ -785,12 +778,29 @@ Your DM may allow you to craft different magic items, but may specify required s
 
 ***
 
-### Horde Breaker
+### Weapon Bond
 *Prerequisite: 3rd Level*
 
-You learn the way to fight against a large number of foes simultaneously. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. 
 
-You can select this feat a second time after 7th level, and a third time after 11th level. Each time you do so you can make another attack with the same weapon against a different creature that is within 5 feet of both of the original targets and is within reach of your weapon.
+Once you have bonded a weapon to yourself, you have advantage on saving throws against being disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. You can only have one bonded weapon. If you attempt to bond with another weapon, you must break the bond with the first weapon.
+
+This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+***
+
+### Improved Critical
+*Prerequisite: Weapon Bond*
+
+Your weapon attacks with your bonded weapon score a critical hit on a roll of 19 or 20.
+You can select this feat a second time after 15th level. When you do so, your weapon attacks with your bonded weapon score a critical hit on a roll of 18-20.
+
+***
+
+### Improved Attunement
+*Prerequisite: Infused Magic, 5th Level*
+
+Your superior understanding of magic items allows you to master their use. You can now attune to up to four, rather than three, magic items at a time. You can select this feat a second time after 15th level, and a third time at 20th level. Each time you do so, you can attune to one additional magic item.
 
 ***
 
@@ -815,7 +825,6 @@ You adopt a particular style of spellcasting as your specialty. Choose a spellca
 *Prerequisite: Mage Hand, 3rd Level*
 
 When you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
-
 • You can stow one object the hand is holding in a container worn or carried by another creature.
 • You can retrieve an object in a container worn or carried by another creature.
 • You can use thieves' tools to pick lock and disarm traps at range.
@@ -824,17 +833,25 @@ You can perform one of these tasks without being noticed by a creature if you su
 
 ***
 
-### Otherworldly Patron
-You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You gain the ability to cast each 1st-level spells from that patron's Expanded Spell List once at its lowest level without expending a spell slot. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat. You gain the ability to use rods, staves, and wands as your spellcasting focus.
+### Horde Breaker
+*Prerequisite: 3rd Level*
 
-You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You gain the ability to cast from that patron's expanded spell list of one level higher than the previous time you took this feat.
+You learn the way to fight against a large number of foes simultaneously. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+
+You can select this feat a second time after 7th level, and a third time after 11th level. Each time you do so you can make another attack with the same weapon against a different creature that is within 5 feet of both of the original targets and is within reach of your weapon.
+
+***
+
+### Otherworldly Patron
+
+You have made a pact with an entity not of this world. Choose a patron from the Warlock's list of patrons. You learn each 1st-level spells from that patron's Expanded Spell List and gain two 1st-Level Patron slots, which can only be used for casting these spells. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
+
+You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You learn the spells from that patron's expanded spell list of one level higher than the previous time you took this feat, and gain two Patron slots of one level higher than the previous tome you took the feat.
 
 ***
 
 ### Swimmer
-Increase your Strength or Dexterity score by 1, up to a maximum of 20.
-
-You have undergone extensive aquatic training to gain the following benefits:
+Increase your Strength or Dexterity score by 1, up to a maximum of 20. You have undergone extensive aquatic training to gain the following benefits:
 
 • When you fall into water, you take no falling damage.
 • You gain a swim speed equal to your walking speed.
@@ -844,6 +861,8 @@ You have undergone extensive aquatic training to gain the following benefits:
 ***
 
 ### Tireless
+Increase your Constitution score by 1, up to a maximum of 20.
+
 Your body has adapted to sleepless nights and grueling conditions. You treat your levels of exhaustion as halved (rounded down), and suffer the effects accordingly. Additionally, when you are affected by the sleep spell, you are treated as having twice as many hit points for the purpose of resolving that spell.
 
 ***
@@ -855,12 +874,10 @@ When you fulfill the criteria for Sneak Attack with a ranged or melee spell atta
 
 ***
 
-### Artisan Rage
-*Prerequisite: Rage, Proficiency with one set of Artisan Tools*
+### Honed Reflexes
+*Prerequisite: Alert, 17th Level*
 
-You have learned how to harness your rage for your craft, and how to harness your craft for combat. You may use your artisan's tools im combat. They deal 1d6 damage, of a type that is reasonable for the tool.
-
-While raging, you have advantage on checks made with artisan tools. Your rage doesn't end as long as you're working with your artisan tools.
+You have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any Combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
 
 ***
 
@@ -884,10 +901,12 @@ You can have only one creature under the effect of this feature at a time. You c
 
 ***
 
-### Honed Reflexes
-*Prerequisite: Alert, 17th Level*
+### Artisan Rage
+*Prerequisite: Rage, Proficiency with one set of Artisan Tools*
 
-You have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any Combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
+You have learned how to harness your rage for your craft, and how to harness your craft for combat. You may use your artisan's tools im combat. They deal 1d6 damage, of a type that is reasonable for the tool.
+
+While raging, you have advantage on checks made with artisan tools. Your rage doesn't end as long as you're working with your artisan tools.
 
 ***
 
@@ -902,17 +921,12 @@ Choose one melee and one ranged weapon. Each of these weapons can be any simple 
 
 ***
 
-### War Magic
-*Prerequisite: Extra Attack, The ability to cast a cantrip*
+### Spirit Animal Form
+*Prerequisite: Improved Beast Shape, 20th Level*
 
-When you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
+You gain mastery over a specific beast shape and can transform into it with little effort. Choose one of your Improved Beast Shape forms. You gain the ability to transform into that form an unlimited number of times.
 
-***
-
-### Improved War Magic
-*Prerequisite: War Magic, 1st-Level Spellcasting, 18th Level*
-
-When you use your action to cast a spell, you can make one weapon attack as a bonus action.
+If you want to transform into another beast shape, you must expend a use of Beast Shape as normal.
 
 ***
 
@@ -934,13 +948,23 @@ If you have the Favored Enemy feat and the creature is the type of your Favored 
 
 ***
 
+### Improved Familiar
+*Prerequisite: Find Familiar Spell, 3rd Level*
+
+You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the Find Familiar spell as a ritual to summon a more powerful companion. Your familiar can take the form of any beast of CR 1/8. 
+
+Your familiar can attack, but loses Multiattack action, if it has one. Additionally, if you have the Extra Attack feat, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
+
+You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 119th level. The CR of beasts you can summon as familiars into increases to CR 1/4 after the second time, CR 1/2 after the third time, CR 1 the fourth time, and CR 2 the fifth time.
+
+***
+
 ### Dirty Tricks
 *Prerequisite: Sneak Attack, 3rd Level*
 
 When you take this feat, choose two tricks. When you fulfill the criteria for Sneak Attack, you can apply one of these tricks. You can only apply one trick to a single attack, unless otherwise stated. Some of your tricks require your target to make a saving throw to resist the trick's effects. The saving throw DC is calculated as follows: 
 
-**Trick Save DC** = 8 + Dexterity modifier + Proficiency Bonus
-
+##***Trick Save DC** = 8 + Dexterity modifier + Proficiency Bonus.** 
 If you have the Spellsneak feat, you can also use these tricks on melee or ranged spell attacks. You can select this feat multiple times. Each time you do so, must choose two different tricks.
 
 **Duck Away.** You can forgo 1 Sneak Attack dice on a melee weapon attack. The target has disadvantage on opportunity attacks made against you until the start of your next turn.
@@ -956,6 +980,20 @@ If you have the Spellsneak feat, you can also use these tricks on melee or range
 **Blindside.** You can forgo 5 of your Sneak Attack dice on a melee or ranged weapon attack. The target must make a Constitution saving throw or become blinded. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the effect ends.
 
 **Daze.** You can forgo 5 your Sneak Attack dice on a melee or ranged weapon attack. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+
+***
+
+### War Magic
+*Prerequisite: Extra Attack, The ability to cast a cantrip*
+
+When you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
+
+***
+
+### Improved War Magic
+*Prerequisite: War Magic, 1st-Level Spellcasting, 18th Level*
+
+When you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
 ***
 
@@ -976,6 +1014,7 @@ When you hit a creature with an attack within 30 feet of your imp, you can comma
 ***
 
 ### Shared Agony
+
 *Prerequisite: Otherworldly Patron (Great Old One), 10th Level*
 
 Your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
@@ -1011,37 +1050,41 @@ Additionally, you gain advantage on death saving throws, immunity to the frighte
 
 ***
 
-### Air Step
-*Prerequisite: Spellbook (School of Conjuration or Evocation), 6th Level*
+### Clockwork Servant
+*Prerequisite: Infused Magic, 3th Level*
 
-You can use a bonus action to create arcane panels of force in the shape of stairs or walkways that float in the air. These panels provide no cover, but can be traversed by foot. At the end of your turn, the panels disappear and you fall if nothing else is holding you aloft.
+You learn to use your skill to create a clockwork servant. With 8 hours of work and the expenditure of 100 gp worth of metal components, you can create a clockwork servant. You can only have one clockwork servant at a time. Your servant can take the form of any beast of CR 1/8. The servant uses that beast's game statistics, but it can look however you like, as long as its form is appropriate for its statistics. It has the following modifications:
 
-***
+• It is a construct instead of a beast.
+• It is immune to psychic and poison damage and the poisoned and charmed conditions.
+• It gains darkvision with a range of 60 feet if it doesn't have it already.
+• It understands the languages you can speak when you create it, but it can't speak.
+• It is unaffected by healing magic. If is targeted by the mending spell, it can spend hit dice and instead use the highest number possible for each die.
 
-### Sky Bridge
-*Prerequisite: Air Step, 14th Level*
+Your servant can attack, but loses Multiattack action, if it has one. Additionally, if you have the Extra Attack feat, when you take the Attack action, you can forgo one of your own attacks to allow your servant to use its reaction to make one attack of its own.
 
-Your arcane panels no longer disappear at the end of your turn, allowing you to stay aloft between turns. Other creatures can also walk across your arcane panels. You can create arcane panels no smaller than 5 ft by 5 ft squares, and their total area cannot exceed 100 times your spellcasting modifier.
+You can infuse a spell into your servant through use of the Infused Magic feat. As an action, your servant can activate the spell, even if it has an Intelligence score of less than 6. Your servant be infused with only one spell at a time.
 
-As a bonus action, you can remove sections of your arcane panels. Any creature or object on the removed panels fall if nothing else is holding them aloft.
-
-***
-
-### Ethereal Flap
-*Prerequisite: Acolyte or Otherworldly Patron, 6th Level*
-
-You can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed equal to your walking speed. At the end of your turn, the wings disappear and you fall if you end your turn in the air and nothing else is holding you aloft. Your diety or patron determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
-
-You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 119th level. The CR of beasts you can craft your servant into increases to CR 1/4 after the second time, CR 1/2 after the third time, CR 1 the fourth time, and CR 2 the fifth time.
 
 ***
 
-### Ethereal Wings
-*Prerequisite: Ethereal Flap, 14th Level*
+### Mechanical Modifications
+*Prerequisite: Proficiency with Tinkerer's Tools, 3rd Level*
 
-Your wings no longer disappear at the end of your turn, allowing you to stay aloft between turns. The wings last until you're incapacitated, you die, or you dismiss them as a bonus action.
+Choose two of the following modifications. You can make one modification over a long rest, costing 50 gp worth of metal scraps. Modified equipment is special, and only you are proficient with equipment, weapons, or armor that you modify. You can select this feat multiple times. Each time you do so, must choose two different modifications.
 
-***
+**Power Armor.** You learn to modify suits of heavy armor that you are proficient with to enhances your strength. While wearing it, you can ignore reduction to speed from low strength score, and you count as if you were one size larger for the purpose of determining your carrying capacity.
+
+**Transforming Weapon.** You learn to combine two weapons that you are proficient with (at the DM's discretion), allowing you to change between the two in the heat of battle. While wielding the weapon, you can freely change between the two weapon forms. Heavy or light property can only be combined with other weapons of that have the same property.
+
+**Hermetic Mask.** You learn to craft a filtered mask that allows you to brave various environments. While wearing the mask, you gain the ability to breathe underwater and in the presence of poisonous gases and airborne diseases.
+
+**Dampening.** You learn to modify suits of armor that you are proficient with to remove its disadvantage on Dexterity (Stealth) checks. 
+
+**Retracting.** You learn to modify weapons with the thrown or ammunition property that you are proficient with by securing a retracting mechanism to the weapon or to a piece of ammunition. The weapon or piece of ammunition can be pulled back to the wielder as a bonus action, but its range is limited to 60 feet. Additionally, if the ammunition strikes a piece of terrain or other suitably solid anchor point, you can pull yourself up to 60 feet toward it using your bonus action.
+
+**Arm-Mounted.** You learn to modify shields and weapons that lack the two-handed or heavy property that you are proficient with to be strapped to your forearm, freeing up your hand and allowing you to use the hand for casting spells or manipulating objects. You can strap or unstrap a weapon to your arm as part of drawing or stowing it, or strap or unstrap a shield to your arm as part of donning or doffing it.
 
 ### (DEPRICATED) 1st-Level Spellcasting
 
