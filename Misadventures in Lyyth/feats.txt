@@ -64,7 +64,7 @@ You learn one 9th-level spell of your choice from any spell list, and gain one 9
 ***
 
 ### Improved Health
-Your hit point maximum increases by an amount equal to your level when you gain this feat, and all of your current and future hit dice become d10s. You can select this feat one more time, improving your hit dice to a d12.
+Your hit point maximum increases by an amount equal to your level plus 1 when you gain this feat, and all of your current and future hit dice become d10s. You can select this feat one more time, improving your hit dice to a d12.
 
 ***
 
