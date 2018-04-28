@@ -7,4 +7,5 @@ Level-Up Table                                  | Jump Attack | Dragoon Weapon
 `2` Dragoonic Resilience                        | +1d6        | 1d10
 `3` Dragoon Archetype                           | +1d6        | 1d10
 `4` Ability Score Improvement                   | +1d6        | 1d10
-`5`
+`5` Extra Attack                                | +2d6        | 1d10
+`6`
