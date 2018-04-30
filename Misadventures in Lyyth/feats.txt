@@ -1152,7 +1152,7 @@ You overcome the limits of your small frame. You gain the following benefits:
 
 • Increase your strength score by 1, to a maximum of 20.
 • You count as if you were one size larger for the purpose of determining your carrying capacity.
-• You ignore disadvantage on heavy weapon attacks due to size.
+• You count as if you were one size larger for the purpose of making attacks.
 
 ***
 
