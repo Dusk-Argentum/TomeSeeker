@@ -64,7 +64,7 @@ You learn one 9th-level spell of your choice from any spell list, and gain one 9
 ***
 
 ### Improved Health
-Your hit point maximum increases by an amount equal to your level when you gain this feat, and all of your current and future hit dice become d10s. You can select this feat one more time, improving your hit dice to a d12.
+Your hit point maximum increases by an amount equal to your level plus 1 when you gain this feat, and all of your current and future hit dice become d10s. You can select this feat one more time, improving your hit dice to a d12.
 
 ***
 
@@ -105,7 +105,7 @@ You can select this feat up to five times. Each time, you can select a damage ty
 ***
 
 ### Reckless Attack
-You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls during this turn, but attack rolls against you have advantage until your next turn.
 
 ***
 
@@ -179,7 +179,7 @@ You gain the ability to step from one shadow into another. When you take the Hid
 ***
 
 ### Umbral Form
-*Prerequisite: Shadow Step, 18rd level*
+*Prerequisite: Shadow Step, 18th level*
 
 As a bonus action, you can magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force, you gain vulnerability to radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object. 
 
@@ -755,7 +755,7 @@ You gain mastery over a powerful spell and can cast it with no effort. When you 
 ***
 
 ### Minor Invocation
-*Prerequisite: Otherworldly Patron, 2nd Level*
+*Prerequisite: Otherworldly Patron or Expertise in Arcana, 2nd Level*
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanathar's Guide to Everything for a list of options and full descriptions. You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
@@ -918,7 +918,7 @@ You can select this feat a second time after 7th level, and a third time after 1
 ***
 
 ### Otherworldly Patron
-You have made a pact with an entity not of this world. Choose a patron from the warlock's list of patrons. You learn each 1st-level spells from that patron's Expanded Spell List and gain two 1st-Level Patron slots, which can only be used for casting these spells. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat.
+You have made a pact with an entity not of this world. Choose a patron from the warlock's list of patrons. You learn each 1st-level spells from that patron's Expanded Spell List and gain two 1st-Level Patron slots, which can only be used for casting these spells. You can do this once per short or long rest for each 1st-level spell. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat. You gain the ability to use rods and staves as your spellcasting focus.
 
 You can select this feat multiple times. Each time you do so, you can either choose the same patron or a different one. If you select the same patron, you must be 3rd level for the second time, 5th level for the third time, 7th level for the fourth time, 9th level for the fifth time. You learn the spells from that patron's expanded spell list of one level higher than the previous time you took this feat, and gain two Patron slots of one level higher than the previous tome you took the feat.
 
@@ -1025,11 +1025,11 @@ If you have the Favored Enemy feat and the creature is the type of your Favored 
 ### Improved Familiar
 *Prerequisite: Find Familiar Spell, 3rd Level*
 
-You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the find familiar spell as a ritual to summon a more powerful companion. Your familiar can take the form of any beast of CR 1/8. 
+You learn to use your magic to create a more powerful familiar. With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you can cast the find familiar spell as a ritual to summon a more powerful companion. Your familiar can take the form of any beast of CR 1/4. 
 
 Your familiar can attack, but loses Multiattack action, if it has one. Additionally, if you have the Extra Attack feat, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
 
-You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 119th level. The CR of beasts you can summon as familiars into increases to CR 1/4 after the second time, CR 1/2 after the third time, CR 1 the fourth time, and CR 2 the fifth time.
+You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 19th level. The CR of beasts you can summon as familiars into increases to CR 1/2 after the second time, CR 1 after the third time, CR 2 the fourth time, and CR 3 the fifth time.
 
 ***
 
@@ -1138,10 +1138,28 @@ Your familiar can make opportunity attacks, but only against its target. Additio
 
 ***
 
+### Rapid Strikes
+*Prerequisite: Extra Attack, 15th Level*
+
+If you take the Attack action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
+
+***
+
+### Small but Mighty
+*Prerequisite: Small Size, 13 Strength*
+
+You overcome the limits of your small frame. You gain the following benefits:
+
+• Increase your strength score by 1, to a maximum of 20.
+• You count as if you were one size larger for the purpose of determining your carrying capacity.
+• You ignore disadvantage on heavy weapon attacks due to size.
+
+***
+
 ### Clockwork Servant
 *Prerequisite: Infused Magic, 3th Level*
 
-You learn to use your skill to create a clockwork servant. With 8 hours of work and the expenditure of 100 gp worth of metal components, you can create a clockwork servant. You can only have one clockwork servant at a time. Your servant can take the form of any beast of CR 1/8. The servant uses that beast's game statistics, but it can look however you like, as long as its form is appropriate for its statistics. It has the following modifications:
+You learn to use your skill to create a clockwork servant. With 8 hours of work and the expenditure of 100 gp worth of metal components, you can create a clockwork servant. You can only have one clockwork servant at a time. Your servant can take the form of any beast of CR 1/4. The servant uses that beast's game statistics, but it can look however you like, as long as its form is appropriate for its statistics. It has the following modifications:
 
 • It is a construct instead of a beast.
 • It is immune to psychic and poison damage and the poisoned and charmed conditions.
@@ -1153,7 +1171,7 @@ Your servant can attack, but loses Multiattack action, if it has one. Additional
 
 You can infuse a spell into your servant through use of the Infused Magic feat. As an action, your servant can activate the spell, even if it has an Intelligence score of less than 6. Your servant be infused with only one spell at a time.
 
-You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 119th level. The CR of beasts you can craft your servant into increases to CR 1/4 after the second time, CR 1/2 after the third time, CR 1 the fourth time, and CR 2 the fifth time.
+You can select this feat a second time after 7th level, a third time after 11th level, a fourth time after 15th level, and a fifth time after 119th level. The CR of beasts you can craft your servant into increases to CR 1/2 after the second time, CR 1 after the third time, CR 2 the fourth time, and CR 3 the fifth time.
 
 ***
 
