@@ -368,7 +368,7 @@ The range of your Aura of Protection and Aura of Courage increases to 30 feet.
 ### Favored Enemy
 You gain significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.
 
-Choose a type of favored enemy: beasts, fey, humanoids, monstrosities, undead, aberrations, celestials, constructs, dragons, elementals, fiends, or giants. 
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs).
 
 You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
@@ -379,7 +379,7 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 ***
 
 ### Greater Favored Enemy
-*Prerequisite: Favored Enemy, 6th Level*
+*Prerequisite: Favored Enemy or Grudge Bearer, 6th Level*
 
 Your bonus to damage rolls against one of your favored enemies increases to +4. Additionally, you have advantage on saving throws against the spells and abilities used by that favored enemy. If you have the Beast Shape ability, you also gain the ability to transform into creatures of your favored enemy type, following all other restrictions of Beast Shape.
 
@@ -770,7 +770,7 @@ If an invocation requires Pact of the Chain, you must have the Improved Familiar
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. See page 110 of the Player Handbook and page 57 of Xanathar's Guide to Everything for a list of options and full descriptions. You can select this feat multiple times. Each time you do so, you must select a different invocation.
 
-You can select one of the following eldritch invocations: Tome of Levistus, Thirsting Blade, Sign of Ill Omen, One with Shadows, Mire the Mind, Maddening Hex, Gift of the Depths, Eldritch Smite, Cloak of Flies, Trickster's Escape, Sculpter of Flesh, Relentless Hex, Ghostly Gaze, Dreadful Word, Bewitching Whispers. 
+You can select one of the following eldritch invocations: Tome of Levistus, Sign of Ill Omen, One with Shadows, Mire the Mind, Maddening Hex, Gift of the Depths, Eldritch Smite, Cloak of Flies, Trickster's Escape, Sculpter of Flesh, Relentless Hex, Ghostly Gaze, Dreadful Word, Bewitching Whispers. 
 
 If an invocation requires Pact of the Chain, you must have the Improved Familiar feat. If an invocation requires Pact of the Blade, you must have the Weapon Bond feat. If an invocation requires Pact of the Tome, you must have the Spellbook feat. If an invocation has any other requirements, you must meet them in order to select it.
 
