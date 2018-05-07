@@ -1,5 +1,68 @@
 ***
 
+### 1st-Level Spellcasting
+Increase your Intelligence, Wisdom, or Charisma score by 1, up to a maximum of 20.
+
+You learn two 1st-level spells of your choice from any spell list, and gain two 1st-level spell slots. You can choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells at the time you take this feat. You can select this feat one more time. If you do so, you learn two more 1st-level spells of your choice from any spell list, and gain two more 1st-level spell slots.
+
+***
+
+### 2nd-Level Spellcasting
+*Prerequisite: 1st-Level Spellcasting, 3rd Level*
+
+You learn one 2nd-level spell of your choice from any spell list, and gain two 2nd-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat. You can select this feat one more time. If you do so, you learn two more 2nd-level spells of your choice from any spell list, and gain one more 2nd-level spell slot.
+
+***
+
+### 3rd-Level Spellcasting
+*Prerequisite: 2nd-Level Spellcasting, 5th Level*
+
+You learn one 3rd-level spell of your choice from any spell list, and gain two 3rd-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat. You can select this feat one more time. If you do so, you learn two more 3rd-level spells of your choice from any spell list, and gain one more 3rd-level spell slot.
+
+***
+
+### 4th-Level Spellcasting
+*Prerequisite: 3rd-Level Spellcasting, 7th Level*
+
+You learn one 4th-level spell of your choice from any spell list, and gain two 4th-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat. You can select this feat one more time. If you do so, you learn two more 4th-level spells of your choice from any spell list, and gain one more 4th-level spell slot.
+
+***
+
+### 5th-Level Spellcasting
+*Prerequisite: 4th-Level Spellcasting, 9th Level*
+
+You learn one 5th-level spell of your choice from any spell list, and gain two 5th-level spell slots. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat. You can select this feat one more time. If you do so, you learn two more 5th-level spells of your choice from any spell list, and gain one more 5th-level spell slots.
+
+***
+
+### 6th-Level Spellcasting
+*Prerequisite: 5th-Level Spellcasting or Otherworldly Patron (5th Level Slots), 11th Level*
+
+You learn one 6th-level spell of your choice from any spell list, and gain one 6th-level spell slot.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting or Otherworldly Patron feat. You can select this feat one more time. If you do so, you learn one more 6th-level spell of your choice from any spell list, and gain one more 6th-level spell slot.
+
+***
+
+### 7th-Level Spellcasting
+*Prerequisite: 6th-Level Spellcasting, 13th Level*
+
+You learn one 7th-level spell of your choice from any spell list, and gain one 7th-level spell slot. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat. You can select this feat one more time. If you do so, you learn one more 7th-level spell of your choice from any spell list, and gain one more 7th-level spell slot.
+
+***
+
+### 8th-Level Spellcasting
+*Prerequisite: 7th-Level Spellcasting, 15th Level*
+
+You learn one 8th-level spell of your choice from any spell list, and gain one 8th-level spell slot.  Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
+
+***
+
+### 9th-Level Spellcasting
+*Prerequisite: 8th-Level Spellcasting, 17th Level*
+
+You learn one 9th-level spell of your choice from any spell list, and gain one 9th-level spell slot. Your spellcasting ability is the same as the one you chose when you took the 1st-Level Spellcasting feat.
+
+***
+
 ### Improved Health
 Your hit point maximum increases by an amount equal to your level plus 1 when you gain this feat, and all of your current and future hit dice become d10s. You can select this feat one more time, improving your hit dice to a d12.
 
