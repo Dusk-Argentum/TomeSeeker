@@ -1279,7 +1279,6 @@ Choose one of the following modifications for your clockwork servant. You can ma
 
 **Language Module.** Your clockwork servant gains the ability to speak any languages it understands.
 
-
 ***
 
 ### Blood Magic
