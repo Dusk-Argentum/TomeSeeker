@@ -2,28 +2,9 @@
 
 ### Adventurer
 Adventurer - Version 2.0
-`1` Feat, Feat, Feat, Feat<br/>
-`2` Feat, Feat<br/>
-`3` Feat<br/>
-`4` Ability Score Improvement, Feat<br/>
-`5` Feat<br/>
-`6` Ability Score Improvement, Feat<br/>
-`7` Feat<br/>
-`8` Ability Score Improvement, Feat<br/>
-`9` Feat<br/>
-`10` Ability Score Improvement, Feat<br/>
-`11` Feat<br/>
-`12` Ability Score Improvement, Feat<br/>
-`13` Feat<br/>
-`14` Ability Score Improvement, Feat<br/>
-`15` Feat<br/>
-`16` Ability Score Improvement, Feat<br/>
-`17` Feat<br/>
-`18` Feat<br/>
-`19` Ability Score Improvement, Feat<br/>
-`20` Feat, Feat<br/>
+`1` Feat, Feat, Feat, Feat<br/>`2` Feat, Feat<br/>`3` Feat<br/>`4` Ability Score Improvement, Feat<br/>`5` Feat<br/>`6` Ability Score Improvement, Feat<br/>`7` Feat<br/>`8` Ability Score Improvement, Feat<br/>`9` Feat<br/>`10` Ability Score Improvement, Feat<br/>`11` Feat<br/>`12` Ability Score Improvement, Feat<br/>`13` Feat<br/>`14` Ability Score Improvement, Feat<br/>`15` Feat<br/>`16` Ability Score Improvement, Feat<br/>`17` Feat<br/>`18` Feat<br/>`19` Ability Score Improvement, Feat<br/>`20` Feat, Feat<br/>
 1d8
 None.
-You are proficient with nothing except for any proficiencies provided by your race or background. \ You must pick up armor, weapon, tool, skill, and saving throw proficiencies through feats.
+You are proficient with nothing except for any proficiencies provided by your race or background.<br/> You must pick up armor, weapon, tool, skill, and saving throw proficiencies through feats.
 You start with the equipment provided by your background, as well as 4d4 x 10 gp to buy your own equipment.
 https://cdn.discordapp.com/attachments/348897378062827520/425406341788467210/68747470733a2f2f6765656b616e6473756e6472792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f.jpg
