@@ -1,16 +1,16 @@
 ***
 
 ### Flake Sapphire
->*Wonderous Item, Common (50-100 gp).*
->When shattered, the gem produces a glowing dart of magical force for each charge remaining. Each dart hits a random creature within 40 feet. A target takes 1d4 + 1 force damage for each dart that hits it. 
+*Wonderous Item, Common (50-100 gp).*
+When shattered, the gem produces a glowing dart of magical force for each charge remaining. Each dart hits a random creature within 40 feet. A target takes 1d4 + 1 force damage for each dart that hits it. 
 
 This gem has 2 charges, and regains 1d4 charges at dawn.
 
 ***
 
 ### Minor Sapphire
->*Wonderous Item, Uncommon (100-500 gp).*
->When shattered, the gem produces a glowing dart of magical force for each charge remaining. Each dart hits a random creature within 60 feet. A target takes 1d6 + 2 force damage for each dart that hits it.
+*Wonderous Item, Uncommon (100-500 gp).*
+When shattered, the gem produces a glowing dart of magical force for each charge remaining. Each dart hits a random creature within 60 feet. A target takes 1d6 + 2 force damage for each dart that hits it.
 
 This gem has 3 charges, and regains 1d6 charges at dawn.
 
