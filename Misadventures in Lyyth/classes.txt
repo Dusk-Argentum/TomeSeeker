@@ -2,26 +2,26 @@
 
 ### Adventurer
 Adventurer - Version 2.0
-`1` Feat, Feat, Feat, Feat\
-`2` Feat, Feat\
-`3` Feat\
-`4` Ability Score Improvement, Feat\
-`5` Feat\
-`6` Ability Score Improvement, Feat\
-`7` Feat\
-`8` Ability Score Improvement, Feat\
-`9` Feat\
-`10` Ability Score Improvement, Feat\
-`11` Feat\
-`12` Ability Score Improvement, Feat\
-`13` Feat\
-`14` Ability Score Improvement, Feat\
-`15` Feat\
-`16` Ability Score Improvement, Feat\
-`17` Feat\
-`18` Feat\
-`19` Ability Score Improvement, Feat\
-`20` Feat, Feat\
+`1` Feat, Feat, Feat, Feat  
+`2` Feat, Feat  
+`3` Feat  
+`4` Ability Score Improvement, Feat  
+`5` Feat  
+`6` Ability Score Improvement, Feat  
+`7` Feat  
+`8` Ability Score Improvement, Feat  
+`9` Feat  
+`10` Ability Score Improvement, Feat  
+`11` Feat  
+`12` Ability Score Improvement, Feat  
+`13` Feat  
+`14` Ability Score Improvement, Feat  
+`15` Feat  
+`16` Ability Score Improvement, Feat  
+`17` Feat  
+`18` Feat  
+`19` Ability Score Improvement, Feat  
+`20` Feat, Feat  
 1d8
 None.
 You are proficient with nothing except for any proficiencies provided by your race or background. \ You must pick up armor, weapon, tool, skill, and saving throw proficiencies through feats.
