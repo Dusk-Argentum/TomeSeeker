@@ -1,0 +1,12 @@
+***
+
+### Adventurer
+Adventurer - Version 2.0
+`1` Feat, Feat, Feat, Feat\n\ `2` Feat, Feat\n\ `3` Feat\n\ `4` Test
+1d8
+None.
+You are proficient with nothing except for any proficiencies provided by your race or background. \n\ You must pick up armor, weapon, tool, skill, and saving throw proficiencies through feats.
+You start with the equipment provided by your background, as well as 4d4 x 10 gp to buy your own equipment.
+https://cdn.discordapp.com/attachments/348897378062827520/425406341788467210/68747470733a2f2f6765656b616e6473756e6472792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f.jpg
+
+***
