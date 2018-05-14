@@ -10,3 +10,12 @@ You start with the equipment provided by your background, as well as 4d4 x 10 gp
 https://cdn.discordapp.com/attachments/348897378062827520/425406341788467210/68747470733a2f2f6765656b616e6473756e6472792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f.jpg
 
 ***
+
+### Test Class
+Test
+`1` Test\n\ `2` Fuck
+1d12
+What?
+Try again later.
+It depends.
+https://i.imgur.com/wjbLmVQ.png
