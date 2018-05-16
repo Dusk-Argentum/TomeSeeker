@@ -363,7 +363,7 @@ You gain the ability to use your action to end one spell on yourself or on one w
 ***
 
 ### Divine Smite
-*Prerequisite: 1st-Level Spellcasting, Acolyte*
+*Prerequisite: 1st-Level Spellcasting, Acolyte or Otherworldly Patron (Celestial)*
 
 When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 6d8 (5th-level spell slot). The damage increases by 1d8 if the target is an undead or a fiend, or if you have the Greater Favored Enemy feat and the target is the type of your Greater Favored Enemy.
 
@@ -414,7 +414,7 @@ You exude an aura around you that has noticeable affect on your allies while you
 ### Extended Aura
 *Prerequisite: Aura, 12th Level*
 
-The range of your Aura of Protection and Aura of Courage increases by 10 feet. You can select this feat a second time after 18th level.
+The range of your Aura increases by 10 feet. You can select this feat a second time after 18th level.
 
 ***
 
@@ -578,35 +578,35 @@ If you have the Martial Arts feat, you gain the ability to deflect melee and ran
 ***
 
 ### Counterabjuration
-*Prerequisite: Spellbook (School of Abjuration), 6th Level*
+*Prerequisite: Dispel Magic or Counterspell, 6th Level*
 
 When you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check. Additionally, you gain an additional reaction that can only be used to attempt to identify a spell being cast.
 
 ***
 
 ### Spell Thief
-*Prerequisite: Spellbook (School of Abjuration), 17th Level*
+*Prerequisite: Dispel Magic or Counterspell, 17th Level*
 
 When you cast counterspell or dispel magic and successfully negate the spell, you can force the caster to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC used to cast counterspell or dispel magic. On a failed save, you steal the knowledge of the spell if it is at least 1st level and of a level you can cast. For the next 8 hours, you know the stolen spell and can cast it using your spell slots. If you use this ability again to steal another spell, you lose the ability to cast the stolen spell. The original caster can't cast the stolen spell while you know the stolen spell.
 
 ***
 
 ### Illusory Step
-*Prerequisite: Spellbook (School of Illusion), 10th Level*
+*Prerequisite: Spellbook (School of Illusion) or Acolyte (Trickery Domain), 10th Level*
 
 You can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates. Once you use this ability, you can't use it again until you finish a short or long rest.
 
 ***
 
 ### Illusory Reality
-*Prerequisite: Spellbook (School of Illusion), 14th Level*
+*Prerequisite: Spellbook (School of Illusion) or Acolyte (Trickery Domain), 14th Level*
 
 You have learned the secret of weaving shadow magic into your illusions to give them a semireality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross. The object can't deal damage or otherwise directly harm anyone.
 
 ***
 
 ### Minor Alchemy
-*Prerequisite: Spellbook (School of Transmutation), 2nd Level*
+*Prerequisite: Spellbook (School of Transmutation) or Acolyte (Forge Domain), 2nd Level*
 
 You can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.
 
@@ -639,21 +639,21 @@ You can use your action to consume the reserve of transmutation magic stored wit
 ***
 
 ### Grim Harvest
-*Prerequisite: Spellbook (School of Necromancy), 2nd Level*
+*Prerequisite: Spellbook (School of Necromancy) or Acolyte (Grave or Death Domain), 2nd Level*
 
 You gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
 
 ***
 
 ### Undead Thralls
-*Prerequisite: Spellbook (School of Necromancy), Animate Dead, 6th Level*
+*Prerequisite: Spellbook (School of Necromancy) or Acolyte (Grave or Death Domain), Animate Dead, 6th Level*
 
 When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate. Additionally, undeads created and controlled by this spell remain under your control for 48 hours instead of 24 hours.
 
 ***
 
 ### Fortified Undead
-*Prerequisite: Spellbook (School of Necromancy), 6th Level*
+*Prerequisite: Spellbook (School of Necromancy) or Acolyte (Grave or Death Domain), 6th Level*
 
 When you take this feat you may choose two of the following fortifications, affecting all undead creatures you control:
 
@@ -666,14 +666,14 @@ You can choose the same benefit more than once. You can select this feat a secon
 ***
 
 ### Bone Shield
-*Prerequisite: Spellbook (School of Necromancy), 6th Level*
+*Prerequisite: Spellbook (School of Necromancy) or Acolyte (Grave or Death Domain), 6th Level*
 
 As a reaction to being targeted by an attack from a creature you can see, you can chooses one undead creature under your control within 5 feet of you to swap places. The undead becomes the target of the attack instead. You can use this feature a number of times equal to your spellcasting modifier from when you took the 1st-Level Spellcasting feat. When you finish a long rest, you regain all expended uses.
 
 ***
 
 ### Spectral Visage
-*Prerequisite: Spellbook (School of Illusion or Necromancy), 6th Level*
+*Prerequisite: Spellbook (School of Illusion or Necromancy)  or Acolyte (Trickery, Grave, or Death Domain), 6th Level*
 
 You gain the ability to adopt a humanoid's persona. When a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.
 
@@ -709,7 +709,7 @@ Once you use this ability, you can't use it again until you finish a long rest o
 ***
 
 ### Instinctive Charm
-*Prerequisite: Spellbook (School of Enchantment), 6th Level*
+*Prerequisite: Spellbook (School of Enchantment) or Otherworldly Patron (Archfey), 6th Level*
 
 When a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.
 
@@ -987,7 +987,7 @@ If an invocation has requirements, you must meet them in order to select it. See
 ***
 
 ### Shared Agony
-*Prerequisite: Otherworldly Patron (Great Old One), 10th Level*
+*Prerequisite: Spellbook (School of Enchantment) or Otherworldly Patron (Great Old One), 10th Level*
 
 Your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
@@ -1258,6 +1258,8 @@ Choose one of the following modifications for your clockwork servant. You can ma
 
 **Language Module.** Your clockwork servant gains the ability to speak any languages it understands.
 
+**Integrated Weapon.** You attach a weapon to your clockwork servant, allowing it to use it in combat. Your servant is proficient with the attached weapon if you are proficient with it.
+
 ***
 
 ### Evasion
@@ -1271,13 +1273,6 @@ When you are subjected to an effect that allows you to make a Dexterity saving t
 *Prerequisite: Evasion, 18th Level*
 
 You become so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
-
-***
-
-### Blindsense
-*Prerequisite: Expertise in Perception, 14th Level*
-
-If you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
 ***
 
@@ -1302,6 +1297,13 @@ You adopt a particular style of spellcasting as your specialty. Choose a spellca
 *Prerequisite: 3rd Level*
 
 You excel at leading ambushes and acting first in a fight. You have advantage on initiative rolls and gain a 10 ft bonus to movement speed on your first turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon's damage type.
+
+***
+
+### Blindsense
+*Prerequisite: Expertise in Perception, 14th Level*
+
+If you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
 ***
 
