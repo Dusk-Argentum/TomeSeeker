@@ -1,15 +1,15 @@
 ***
 
 ### Potion of Healing
-Worth: 5gp | Rarity: Common
+Worth: 5GP | Rarity: Common
 Heals 2d8+4 HP. Use `!pot` to consume during battle. You can also do this outside of battle but you'll have to manually add your HP.
 https://images-ext-2.discordapp.net/external/K9Ldy_mJ8IJP1xJUTd7eYirlg75b3pUOBpZuSByo7uE/https/cdn.discordapp.com/attachments/348897378062827520/408844809332064266/NormalPot.png
 
 ***
 
-### Potion of What
-Worth: Hell if I know | Rarity: Test
-Does some neat shit!
-https://i.imgur.com/SojnKa3.png
+### Flask of Randomness
+Worth: 100GP | Rarity: Very Rare
+When you drink from this flask, you are granted an effect of one random potion. Potion effect will be determined after you consume all of the liquid inside. The flask is refilled by an unknown magical force every day at dusk.
+https://ih1.redbubble.net/image.286550261.6661/st%2Csmall%2C215x235-pad%2C210x230%2Cf8f8f8.lite-1u2.jpg
 
 ***
