@@ -1,11 +1,25 @@
 ***
 
-Test
-Test2
-Test3
-Test4
-Test5
-Test6
-Test7
+### Wolf
+Source: Literally A Wolf
+40 ft.
+Medium
++1 dex, +1 wis, -4 int
+Wolves reach adulthood in around 2 years, and can live to be 6-8 years old in the wild.
+Wolves have no disposition toward good or evil, but live for the pack. Thus, they tend towards lawful alignments.
+You can speak Canine. Canine doesn't have a written component, as it consists of barks, growls, and howls.
+Grey, Dire, Winter (common) | Hell, Blink, Death, Drakeblood, Seal (exotic)
+Wild Hunter
+You have proficiency in the Perception and Stealth skills.
+Bite
+Your fanged maw is a natural weapon with the finesse property, which you can use to make bite attacks. If you hit with it, you deal piercing damage equal to 1d6 + your choice of Strength or Dexterity modifier.
+Canine Build
+You are quadrupedal, and do not have hands with which to hold weapons or use shields. You can hold one-handed weapons and other objects in your mouth but are unable to bite while doing so. You can perform somatic spell components using your tail and paws. Armor can be tailored into Barding to fit your form, costing 4 times as much as normal armor.
+Bestial Nature
+You are considered a beast instead of a humanoid.
+Keen Hearing and Smell
+You have advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics
+If one of your allies is within 5 feet of you, you can use the Help action as a bonus action.
 
 ***
