@@ -21,6 +21,10 @@ Keen Hearing and Smell
 You have advantage on Wisdom (Perception) checks that rely on hearing or smell.
 Pack Tactics
 If one of your allies is within 5 feet of you, you can use the Help action as a bonus action.
+
+***
+
+### Grey
 As a grey wolf, you excel at hunting within the forest.
 Your Dexterity score increases by 1, and your Wisdom score increases by 1.
 Your bite attack deals 2d4 piercing damage instead of 1d6 piercing damage. When you hit a creature with your bite, you can use a bonus action to force it to make a Strength saving throw or be knocked prone. The DC for this saving throw is equal to 8 + your proficiency bonus + your choice of Dexterity or Strength modifier.
